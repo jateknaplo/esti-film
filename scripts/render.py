@@ -169,15 +169,15 @@ def errors_box(ctx):
 CSS = """
 :root{--bg:#f6f4ef;--card:#fff;--fg:#1d1b18;--mut:#6f6a62;--line:#e4dfd5;--acc:#b5471b;--s3:#1d7a3a;--s2:#4f8a2a;--s1:#8a7a2a;--s0:#9a5a4a;--hl:#fff3d6;--chip:#ece7dc}
 @media (prefers-color-scheme:dark){:root{--bg:#141311;--card:#1d1c19;--fg:#ece8e0;--mut:#9a948a;--line:#2f2d29;--acc:#f08a5d;--s3:#5fd07e;--s2:#a5d65a;--s1:#d6c35a;--s0:#d08a7a;--hl:#3a2f17;--chip:#2a2824}}
-*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.35 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:0 0 40px}
-header{position:sticky;top:0;z-index:5;background:var(--bg);padding:calc(env(safe-area-inset-top) + 8px) 12px 0;border-bottom:1px solid var(--line)}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.35 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:0 0 calc(env(safe-area-inset-bottom) + 32px)}
+header{position:sticky;top:0;z-index:5;background:var(--bg);padding:calc(env(safe-area-inset-top) + 8px) calc(env(safe-area-inset-right) + 12px) 0 calc(env(safe-area-inset-left) + 12px);border-bottom:1px solid var(--line)}
 .top{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
 h1{font-size:18px;margin:0}.upd{color:var(--mut);font-size:12px}
 nav{display:flex;gap:4px;margin-top:8px}
-nav button{flex:1;border:0;background:none;color:var(--mut);font:inherit;font-weight:600;padding:8px 4px;border-bottom:3px solid transparent}
+nav button{flex:1;border:0;background:none;color:var(--mut);font:inherit;font-weight:600;min-height:44px;padding:8px 4px;border-bottom:3px solid transparent;cursor:pointer}
 nav button.on{color:var(--fg);border-bottom-color:var(--acc)}
-main{padding:0 8px;max-width:760px;margin:0 auto}
+main{padding:0 calc(env(safe-area-inset-right) + 8px) 0 calc(env(safe-area-inset-left) + 8px);max-width:760px;margin:0 auto}
 section{display:none}section.on{display:block}
 h2{font-size:14px;margin:18px 4px 6px;font-weight:700}.hint{color:var(--mut);font-weight:400;font-size:12px}
 table.grid{width:100%;border-collapse:collapse;background:var(--card);border-radius:8px;overflow:hidden;font-size:14px}
@@ -199,10 +199,11 @@ a.nolink{color:inherit;text-decoration:none;border-bottom:1px dotted var(--mut)}
 .shows ul{list-style:none;margin:0;padding:0;font-size:12.5px;white-space:nowrap}
 .shows li.blk{color:var(--mut)}.shows b{font-weight:600}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin:12px 4px 0}
-.chips button{border:0;background:var(--chip);color:var(--fg);font:inherit;font-size:13px;padding:6px 10px;border-radius:16px}
+.chips button{border:0;background:var(--chip);color:var(--fg);font:inherit;font-size:14px;min-height:36px;padding:7px 12px;border-radius:18px;cursor:pointer}
 .chips button.on{background:var(--acc);color:#fff}
 .week.f-uj tr:not(.uj),.week.f-kid tr:not(.kid),.week.f-wl tr:not(.wl){display:none}
 .week.f-uj thead tr,.week.f-kid thead tr,.week.f-wl thead tr{display:table-row}
+details.errors summary{min-height:28px;line-height:28px;cursor:pointer}
 details.errors{margin:8px 0 4px;font-size:12.5px;background:#fde3dc;color:#5a1d0e;border-radius:8px;padding:6px 10px}
 details.errors.soft{background:var(--chip);color:var(--fg)}
 @media (prefers-color-scheme:dark){details.errors{background:#4a1f14;color:#ffd9cc}}
@@ -237,6 +238,8 @@ def page(ctx):
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Esti film</title>
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="format-detection" content="telephone=no">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Esti film">
 <meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
