@@ -1,0 +1,43 @@
+{
+  "_megjegyzes": "fo = minden nap figyelt; proba = külön blokkban (proba_kulon=false esetén a fő listába kerülnek, proba_aktiv=false esetén kimaradnak); kizart = csak az 'Ezt se hagyd ki' sorhoz (IMDb >= 7,5 vagy watchlist). 'csak_film': sorozatokat amúgy is kiszűrjük.",
+  "proba_aktiv": true,
+  "proba_kulon": true,
+  "proba_kezdete": "2026-10-22",
+  "fo": [
+    {"kod": "FILMMANIA", "nev": "Film Mánia", "port": "tvchannel-95"},
+    {"kod": "FILMCAFE", "nev": "Film Café", "port": "tvchannel-89"},
+    {"kod": "FILMPLUS", "nev": "Film+", "port": "tvchannel-32"},
+    {"kod": "MOZI_PLUSZ", "nev": "Mozi+", "port": "tvchannel-229"},
+    {"kod": "MOZI_KLUB", "nev": "Mozi Klub", "port": "tvchannel-380"},
+    {"kod": "MOZIVERZUM", "nev": "Moziverzum", "port": "tvchannel-365"},
+    {"kod": "MAGYAR_MOZI_TV", "nev": "Magyar Mozi TV", "port": "tvchannel-377"},
+    {"kod": "AMC", "nev": "AMC", "port": "tvchannel-139"},
+    {"kod": "FILMBOX_PLUS_ONE", "nev": "Filmbox+ One", "port": "tvchannel-226"},
+    {"kod": "CANAL_PLUS_ACTION", "nev": "Canal+ Action"},
+    {"kod": "RTL3", "nev": "RTL Három", "port": "tvchannel-178"},
+    {"kod": "RTL", "nev": "RTL", "port": "tvchannel-5"},
+    {"kod": "TV2", "nev": "TV2", "port": "tvchannel-3"},
+    {"kod": "SUPERTV2", "nev": "Super TV2", "port": "tvchannel-244"},
+    {"kod": "VIASAT3", "nev": "Viasat 3", "port": "tvchannel-21"},
+    {"kod": "VIASAT6", "nev": "Viasat 6", "port": "tvchannel-164"},
+    {"kod": "VIASAT2", "nev": "Viasat 2", "port": "tvchannel-132"},
+    {"kod": "RTL2", "nev": "RTL Kettő", "port": "tvchannel-241"},
+    {"kod": "TV2_COMEDY", "nev": "TV2 Comedy", "port": "tvchannel-311"},
+    {"kod": "COOL", "nev": "Cool", "port": "tvchannel-79"},
+    {"kod": "AXN", "nev": "AXN", "port": "tvchannel-42"}
+  ],
+  "proba": [
+    {"kod": "TV4", "nev": "TV4", "port": "tvchannel-38"},
+    {"kod": "STORY4", "nev": "Story4", "port": "tvchannel-228"},
+    {"kod": "PRIME", "nev": "Prime", "port": "tvchannel-215"}
+  ],
+  "kizart": [
+    {"kod": "JOCKYTV", "nev": "Jocky TV", "port": "tvchannel-364"},
+    {"kod": "EPIC_DRAMA", "nev": "Epic Drama", "port": "tvchannel-325"},
+    {"kod": "GALAXY", "nev": "Galaxy4", "port": "tvchannel-284"},
+    {"kod": "MAX4", "nev": "Max4", "port": "tvchannel-376"},
+    {"kod": "AXN_CRIME", "nev": "AXN Crime", "port": "tvchannel-138"},
+    {"kod": "SOROZAT", "nev": "Sorozat+", "port": "tvchannel-179"},
+    {"kod": "RTL_GOLD", "nev": "RTL Gold", "port": "tvchannel-180"}
+  ]
+}

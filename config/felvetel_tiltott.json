@@ -1,0 +1,7 @@
+{
+  "_megjegyzes": "csatornak: kód -> indok (ott minden film ⚠️). filmek: egyes tiltott filmek, pl. {\"csatorna\": \"RTL3\", \"cim\": \"Madagaszkár\", \"ok\": \"...\"}; \"datum\": \"2026-10-13\" opcionális. Nyitott: RTL Három, Madagaszkár (2026.10.13., 19:15) felvehető volt-e?",
+  "csatornak": {
+    "COOL": "Nem engedte felvenni: Madagaszkár (2026.10.10., 20:55) és Madagaszkár 2. (2026.10.17., 20:55)"
+  },
+  "filmek": []
+}

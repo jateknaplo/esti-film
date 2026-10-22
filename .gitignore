@@ -1,0 +1,7 @@
+research/
+work/
+site/
+cache/schedule/
+__pycache__/
+*.tmp
+*.part
