@@ -1,6 +1,6 @@
 @echo off
-rem Egyszeri: Cloudflare-bejelentkezés (a böngészőben az "Allow" gombra kell kattintani),
-rem majd a Pages-projekt létrehozása. A kimenet a logs\login.log fájlba is megy.
+rem Egyszeri: Cloudflare-bejelentkezes (a bongeszoben az "Allow" gombra kell kattintani),
+rem majd a Pages-projekt letrehozasa. A kimenet a logs\login.log fajlba is megy.
 cd /d "%~dp0"
 if not exist logs mkdir logs
 call "C:\Program Files\nodejs\npx.cmd" wrangler login

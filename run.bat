@@ -1,12 +1,12 @@
 @echo off
-rem Esti film: műsor letöltése, oldal generálása, kitétel a Cloudflare Pagesre.
-rem Az ütemezett feladat (14:00, 19:00) ezt futtatja; kézzel is indítható dupla kattintással.
+rem Esti film: musor letoltese, oldal generalasa, kitetel a Cloudflare Pagesre.
+rem Az utemezett feladat (14:00, 19:00) ezt futtatja; kezzel is indithato dupla kattintassal.
 chcp 65001 >nul
 cd /d "%~dp0"
 if not exist logs mkdir logs
 set PY=C:\Users\ayo\AppData\Local\Python\bin\python.exe
 set PYTHONIOENCODING=utf-8
-rem TMDb-kulcs: egyetlen sor a config\tmdb_key.txt fájlban (nincs a gitben)
+rem TMDb-kulcs: egyetlen sor a config\tmdb_key.txt fajlban (nincs a gitben)
 if exist config\tmdb_key.txt set /p TMDB_API_KEY=<config\tmdb_key.txt
 echo ==== %date% %time% ==== >> logs\run.log
 "%PY%" -c "import tzdata" 2>nul || "%PY%" -m pip install -q tzdata >> logs\run.log 2>&1

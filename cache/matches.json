@@ -3,35 +3,29 @@
   "imdb": "tt4172430",
   "kind": "movie",
   "orig": "13 Hours: The Secret Soldiers of Benghazi",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
  "1911|2011": {
   "imdb": "tt1772230",
   "kind": "movie",
-  "orig": "Xin hai ge ming",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "辛亥革命",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
  "1992|2022": {
-  "imdb": "tt4959750",
-  "kind": "movie",
-  "orig": "1992",
-  "src": "index",
-  "tmdb_tried": false,
-  "ts": "2026-10-22",
-  "y": 2022
+  "imdb": null,
+  "kind": "tv",
+  "src": "tmdb",
+  "ts": "2026-10-22"
  },
  "21 jump street a kopasz osztag|2012": {
   "imdb": "tt1232829",
   "kind": "movie",
   "orig": "21 Jump Street",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -40,7 +34,7 @@
   "kind": "movie",
   "orig": "42/44 a Vajdaságban",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -48,8 +42,7 @@
   "imdb": "tt2932536",
   "kind": "movie",
   "orig": "47 Meters Down",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -57,22 +50,23 @@
   "imdb": "tt0327437",
   "kind": "movie",
   "orig": "Around the World in 80 Days",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
  "80 nap alatt a fold korul|2021": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt10341040",
+  "kind": "movie",
+  "orig": "Le Tour du monde en 80 jours",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2021
  },
  "addams family 2 egy kicsivel galadabb a csalad|1993": {
   "imdb": "tt0106220",
   "kind": "movie",
   "orig": "Addams Family Values",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1993
  },
@@ -80,8 +74,7 @@
   "imdb": "tt0101272",
   "kind": "movie",
   "orig": "The Addams Family",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -89,8 +82,7 @@
   "imdb": "tt1226753",
   "kind": "movie",
   "orig": "The Debt",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -98,8 +90,7 @@
   "imdb": "tt0099005",
   "kind": "movie",
   "orig": "Air America",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1990
  },
@@ -108,16 +99,15 @@
   "kind": "movie",
   "orig": "Az akác és méze, a 'legmagyarabb' fa története",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2022
  },
  "akciocsoport 2 a bosszu ideje|2023": {
   "imdb": "tt28199975",
   "kind": "movie",
-  "orig": "Antigang: La relève",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Antigang : La Relève",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -125,8 +115,7 @@
   "imdb": "tt7798634",
   "kind": "movie",
   "orig": "Ready or Not",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -134,8 +123,7 @@
   "imdb": "tt31456973",
   "kind": "movie",
   "orig": "Alarum",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -143,8 +131,7 @@
   "imdb": "tt0395119",
   "kind": "movie",
   "orig": "Alatriste",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -152,8 +139,7 @@
   "imdb": "tt1325004",
   "kind": "movie",
   "orig": "The Twilight Saga: Eclipse",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -161,8 +147,7 @@
   "imdb": "tt1259571",
   "kind": "movie",
   "orig": "The Twilight Saga: New Moon",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -170,8 +155,7 @@
   "imdb": "tt1099212",
   "kind": "movie",
   "orig": "Twilight",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -179,8 +163,7 @@
   "imdb": "tt0325537",
   "kind": "movie",
   "orig": "Head of State",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -188,8 +171,7 @@
   "imdb": "tt0045355",
   "kind": "movie",
   "orig": "Állami áruház",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1953
  },
@@ -197,17 +179,15 @@
   "imdb": "tt0105477",
   "kind": "movie",
   "orig": "Stop! Or My Mom Will Shoot",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1992
  },
  "almodik az allatkert|1984": {
   "imdb": "tt0137286",
   "kind": "movie",
-  "orig": "Álmodik az állatkert",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Álmodik az Állatkert",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1985
  },
@@ -215,8 +195,7 @@
   "imdb": "tt1309000",
   "kind": "movie",
   "orig": "Álom.net",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -224,47 +203,51 @@
   "imdb": "tt8157074",
   "kind": "movie",
   "orig": "Traumfabrik",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
  "alomhotel mexiko|2005": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "alomhotel|2004": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "alomhotel|2005": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "alomhotel|2006": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "alomhotel|2008": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "alomhotel|2010": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "alvin es a mokusok a mokas menet|2015": {
   "imdb": "tt2974918",
   "kind": "movie",
   "orig": "Alvin and the Chipmunks: The Road Chip",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -272,8 +255,7 @@
   "imdb": "tt0181193",
   "kind": "movie",
   "orig": "Ámbár tanár úr",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -281,8 +263,7 @@
   "imdb": "tt0094898",
   "kind": "movie",
   "orig": "Coming to America",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1988
  },
@@ -290,8 +271,7 @@
   "imdb": "tt0765429",
   "kind": "movie",
   "orig": "American Gangster",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -300,7 +280,7 @@
   "kind": "movie",
   "orig": "Anna filmje",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1993
  },
@@ -308,8 +288,7 @@
   "imdb": "tt0369735",
   "kind": "movie",
   "orig": "Monster-in-Law",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -318,7 +297,7 @@
   "kind": "movie",
   "orig": "Anyám levelei Sztálin elvtárshoz",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -326,22 +305,23 @@
   "imdb": "tt0142342",
   "kind": "movie",
   "orig": "Big Daddy",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
  "apuci ujra pacban|2025": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt34750678",
+  "kind": "movie",
+  "orig": "10 giorni con i suoi",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2025
  },
  "arany markaban|2001": {
   "imdb": "tt0252503",
   "kind": "movie",
   "orig": "Heist",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -349,49 +329,47 @@
   "imdb": "tt0082835",
   "kind": "movie",
   "orig": "Occhio alla penna",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1981
  },
  "argentin szerelmem|2025": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt34937354",
+  "kind": "movie",
+  "orig": "My Argentine Heart",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2025
  },
  "artur a kiraly|2024": {
   "imdb": "tt10720352",
   "kind": "movie",
   "orig": "Arthur the King",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
  "asterix and obelix isten ovja britanniat|2012": {
   "imdb": "tt1597522",
   "kind": "movie",
-  "orig": "Astérix & Obélix : Au service de sa Majesté",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Astérix & Obélix : Au service de Sa Majesté",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
  "asterix az istenek otthona|2014": {
   "imdb": "tt3759416",
   "kind": "movie",
-  "orig": "Astérix: Le Domaine des dieux",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Astérix : Le Domaine des dieux",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
  "atomcirkusz|2004": {
   "imdb": "tt0362084",
   "kind": "movie",
-  "orig": "Atomik Circus - Le retour de James Bataille",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Atomik Circus - Le Retour de James Bataille",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -399,8 +377,7 @@
   "imdb": "tt0267626",
   "kind": "movie",
   "orig": "K-19: The Widowmaker",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -408,8 +385,7 @@
   "imdb": "tt1971325",
   "kind": "movie",
   "orig": "Autómata",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -417,31 +393,31 @@
   "imdb": "tt0071178",
   "kind": "movie",
   "orig": "Autó",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1975
  },
  "azsiai pokoli torony|2012": {
   "imdb": "tt2554270",
   "kind": "movie",
-  "orig": "Ta-weo",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "타워",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
  "b terv|2021": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt13172796",
+  "kind": "movie",
+  "orig": "Plan B",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2021
  },
  "babe 2 kismalac a nagyvarosban|1998": {
   "imdb": "tt0120595",
   "kind": "movie",
   "orig": "Babe: Pig in the City",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -449,8 +425,7 @@
   "imdb": "tt0112431",
   "kind": "movie",
   "orig": "Babe",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -458,8 +433,7 @@
   "imdb": "tt0364970",
   "kind": "movie",
   "orig": "Babylon A.D.",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -467,8 +441,7 @@
   "imdb": "tt1502397",
   "kind": "movie",
   "orig": "Bad Boys for Life",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -476,22 +449,20 @@
   "imdb": "tt0112442",
   "kind": "movie",
   "orig": "Bad Boys",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
  "bagossy brothers company 10 eve uton|2023": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "bajkevero|2000": {
   "imdb": "tt0230030",
   "kind": "movie",
   "orig": "Bedazzled",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2000
  },
@@ -499,8 +470,7 @@
   "imdb": "tt7181546",
   "kind": "movie",
   "orig": "Ballerina",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -508,8 +478,7 @@
   "imdb": "tt32146448",
   "kind": "movie",
   "orig": "On aurait dû aller en Grèce",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -517,8 +486,7 @@
   "imdb": "tt0082045",
   "kind": "movie",
   "orig": "Banana Joe",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1982
  },
@@ -526,8 +494,7 @@
   "imdb": "tt0200465",
   "kind": "movie",
   "orig": "The Bank Job",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -535,8 +502,7 @@
   "imdb": "tt0102926",
   "kind": "movie",
   "orig": "The Silence of the Lambs",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -544,8 +510,7 @@
   "imdb": "tt1517268",
   "kind": "movie",
   "orig": "Barbie",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -553,8 +518,7 @@
   "imdb": "tt1423894",
   "kind": "movie",
   "orig": "Barney's Version",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -562,8 +526,7 @@
   "imdb": "tt0372784",
   "kind": "movie",
   "orig": "Batman Begins",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -571,8 +534,7 @@
   "imdb": "tt2975590",
   "kind": "movie",
   "orig": "Batman v Superman: Dawn of Justice",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -580,8 +542,7 @@
   "imdb": "tt1877830",
   "kind": "movie",
   "orig": "The Batman",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -589,26 +550,23 @@
   "imdb": "tt1591479",
   "kind": "movie",
   "orig": "Act of Valor",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
  "bazi nagy francia lagzik 2|2018": {
   "imdb": "tt6556670",
   "kind": "movie",
-  "orig": "Qu'est-ce qu'on a encore fait au bon Dieu?",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Qu'est-ce qu'on a encore fait au Bon Dieu ?",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
  "bazi nagy francia lagzik|2014": {
   "imdb": "tt2800240",
   "kind": "movie",
-  "orig": "Qu'est-ce qu'on a fait au bon Dieu?",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Qu'est-ce qu'on a fait au Bon Dieu ?",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -616,8 +574,7 @@
   "imdb": "tt0106375",
   "kind": "movie",
   "orig": "Beethoven's 2nd",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1993
  },
@@ -625,8 +582,7 @@
   "imdb": "tt0103786",
   "kind": "movie",
   "orig": "Beethoven",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1992
  },
@@ -635,21 +591,20 @@
   "kind": "movie",
   "orig": "A Matter of Death and Life",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2013
  },
  "bekakiralyfi|2001": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "beowulf a sotetseg harcosa|1999": {
   "imdb": "tt0120604",
   "kind": "movie",
   "orig": "Beowulf",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
@@ -658,7 +613,7 @@
   "kind": "movie",
   "orig": "A bereki ember",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -666,8 +621,7 @@
   "imdb": "tt2593408",
   "kind": "movie",
   "orig": "Berosált a rezesbanda",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -675,8 +629,7 @@
   "imdb": "tt0071207",
   "kind": "movie",
   "orig": "The Best of Benny Hill",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1974
  },
@@ -684,8 +637,7 @@
   "imdb": "tt14109724",
   "kind": "movie",
   "orig": "Ticket to Paradise",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -693,8 +645,7 @@
   "imdb": "tt0160797",
   "kind": "movie",
   "orig": "Rules of Engagement",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2000
  },
@@ -702,17 +653,15 @@
   "imdb": "tt14958958",
   "kind": "movie",
   "orig": "Heart of the Manor",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
  "blinky bill a film|2015": {
   "imdb": "tt3700456",
   "kind": "movie",
-  "orig": "Blinky Bill: The Movie",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Blinky Bill the Movie",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -720,17 +669,15 @@
   "imdb": "tt0051425",
   "kind": "movie",
   "orig": "Bogáncs",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 1959
+  "y": 1958
  },
  "bolcsek kovere 2 a klump csalad|2000": {
   "imdb": "tt0144528",
   "kind": "movie",
   "orig": "Nutty Professor II: The Klumps",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2000
  },
@@ -738,8 +685,7 @@
   "imdb": "tt0117218",
   "kind": "movie",
   "orig": "The Nutty Professor",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -747,22 +693,23 @@
   "imdb": "tt0866439",
   "kind": "movie",
   "orig": "Made of Honor",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
  "boldogsagterapia|2024": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt30485704",
+  "kind": "movie",
+  "orig": "Fêlés",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2024
  },
  "bolondok aranya|2008": {
   "imdb": "tt0770752",
   "kind": "movie",
   "orig": "Fool's Gold",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -770,8 +717,7 @@
   "imdb": "tt0887912",
   "kind": "movie",
   "orig": "The Hurt Locker",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -779,14 +725,13 @@
   "imdb": "tt19244260",
   "kind": "movie",
   "orig": "Red Right Hand",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
  "brody 80 sziget koncertfilm|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "budapest retro 1|1998": {
@@ -794,7 +739,7 @@
   "kind": "movie",
   "orig": "Budapest Retro",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -802,8 +747,7 @@
   "imdb": "tt0481069",
   "kind": "movie",
   "orig": "Budapest Retro 2.",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -811,8 +755,7 @@
   "imdb": "tt0074253",
   "kind": "movie",
   "orig": "Budapesti mesék",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1977
  },
@@ -820,8 +763,7 @@
   "imdb": "tt0100475",
   "kind": "movie",
   "orig": "Repossessed",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1990
  },
@@ -829,22 +771,23 @@
   "imdb": "tt0074442",
   "kind": "movie",
   "orig": "I due superpiedi quasi piatti",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1977
  },
  "celkeresztben|2025": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt29538620",
+  "kind": "movie",
+  "orig": "ปัง",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2025
  },
  "charleston|1977": {
   "imdb": "tt0077319",
   "kind": "movie",
   "orig": "Charleston",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1977
  },
@@ -852,26 +795,21 @@
   "imdb": "tt3203616",
   "kind": "movie",
   "orig": "The Cobbler",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
  "columbo a vegzetes nyom|1997": {
-  "imdb": "tt0118874",
-  "kind": "movie",
-  "orig": "Columbo: A Trace of Murder",
-  "src": "index",
-  "tmdb_tried": false,
-  "ts": "2026-10-22",
-  "y": 1997
+  "imdb": null,
+  "kind": "tv",
+  "src": "tmdb",
+  "ts": "2026-10-22"
  },
  "coriolanus|2011": {
   "imdb": "tt1372686",
   "kind": "movie",
   "orig": "Coriolanus",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -879,8 +817,7 @@
   "imdb": "tt3076658",
   "kind": "movie",
   "orig": "Creed",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -888,8 +825,7 @@
   "imdb": "tt2203939",
   "kind": "movie",
   "orig": "The Other Woman",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -897,8 +833,7 @@
   "imdb": "tt4265508",
   "kind": "movie",
   "orig": "Amateur Night",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -906,17 +841,15 @@
   "imdb": "tt0174565",
   "kind": "movie",
   "orig": "Csak egy mozi",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1985
  },
  "csaladbol is megart a sok 2 irany portugalia|2022": {
   "imdb": "tt15035902",
   "kind": "movie",
-  "orig": "Joyeuse retraite! 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Joyeuse retraite 2",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -924,17 +857,15 @@
   "imdb": "tt6675400",
   "kind": "movie",
   "orig": "Con Man",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
  "csapd le chipet|2006": {
   "imdb": "tt0458364",
   "kind": "movie",
-  "orig": "Fast Track",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "The Ex",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -942,17 +873,15 @@
   "imdb": "tt0101632",
   "kind": "movie",
   "orig": "Csapd le csacsi!",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 1991
+  "y": 1992
  },
  "cselszoves a negyzeten|2007": {
   "imdb": "tt0887901",
   "kind": "movie",
   "orig": "Détrompez-vous",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -960,22 +889,23 @@
   "imdb": "tt0061536",
   "kind": "movie",
   "orig": "Csend és kiáltás",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1968
  },
  "csendor new yorkban|1965": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0060450",
+  "kind": "movie",
+  "orig": "Le Gendarme à New-York",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 1965
  },
  "csillagkapu az igazsag ladaja|2008": {
   "imdb": "tt0942903",
   "kind": "movie",
   "orig": "Stargate: The Ark of Truth",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -983,22 +913,20 @@
   "imdb": "tt0120201",
   "kind": "movie",
   "orig": "Starship Troopers",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1997
  },
  "csillagpor|2017": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "csinibaba|1997": {
   "imdb": "tt0118906",
   "kind": "movie",
   "orig": "Csinibaba",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1997
  },
@@ -1007,7 +935,7 @@
   "kind": "movie",
   "orig": "La collina degli stivali",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1969
  },
@@ -1015,8 +943,7 @@
   "imdb": "tt3915174",
   "kind": "movie",
   "orig": "Puss in Boots: The Last Wish",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -1024,8 +951,7 @@
   "imdb": "tt0382622",
   "kind": "movie",
   "orig": "Csoda Krakkóban",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -1033,8 +959,7 @@
   "imdb": "tt1872181",
   "kind": "movie",
   "orig": "The Amazing Spider-Man 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -1042,8 +967,7 @@
   "imdb": "tt0398165",
   "kind": "movie",
   "orig": "The Longest Yard",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -1051,8 +975,7 @@
   "imdb": "tt0302819",
   "kind": "movie",
   "orig": "Mr. Bones",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -1060,8 +983,7 @@
   "imdb": "tt0407703",
   "kind": "movie",
   "orig": "Csudafilm",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -1069,8 +991,7 @@
   "imdb": "tt0160184",
   "kind": "movie",
   "orig": "D-Tox",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -1078,8 +999,7 @@
   "imdb": "tt0382625",
   "kind": "movie",
   "orig": "The Da Vinci Code",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -1087,8 +1007,7 @@
   "imdb": "tt0480242",
   "kind": "movie",
   "orig": "Dan in Real Life",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -1096,8 +1015,7 @@
   "imdb": "tt8685520",
   "kind": "movie",
   "orig": "Dauntless: The Battle of Midway",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -1105,8 +1023,7 @@
   "imdb": "tt6439020",
   "kind": "movie",
   "orig": "The Personal History of David Copperfield",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -1114,8 +1031,7 @@
   "imdb": "tt0116040",
   "kind": "movie",
   "orig": "Daylight",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -1123,17 +1039,15 @@
   "imdb": "tt1582248",
   "kind": "movie",
   "orig": "Puncture",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
  "deja vu|2006": {
   "imdb": "tt0453467",
   "kind": "movie",
-  "orig": "Deja Vu",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Déjà Vu",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -1141,8 +1055,7 @@
   "imdb": "tt0099399",
   "kind": "movie",
   "orig": "Delta Force 2: The Colombian Connection",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1990
  },
@@ -1150,8 +1063,7 @@
   "imdb": "tt6556552",
   "kind": "movie",
   "orig": "Momo",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -1159,17 +1071,15 @@
   "imdb": "tt27757546",
   "kind": "movie",
   "orig": "Diablo",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
  "die hard 3 az elet mindig draga|1995": {
   "imdb": "tt0112864",
   "kind": "movie",
-  "orig": "Die Hard with a Vengeance",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Die Hard: With a Vengeance",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -1177,8 +1087,7 @@
   "imdb": "tt1645170",
   "kind": "movie",
   "orig": "The Dictator",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -1186,17 +1095,15 @@
   "imdb": "tt0092890",
   "kind": "movie",
   "orig": "Dirty Dancing",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1987
  },
  "dogkeselyu|1982": {
   "imdb": "tt0083865",
   "kind": "movie",
-  "orig": "Dögkeselyü",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Dögkeselyű",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1982
  },
@@ -1204,8 +1111,7 @@
   "imdb": "tt0333780",
   "kind": "movie",
   "orig": "Legally Blonde 2: Red, White & Blonde",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -1213,8 +1119,7 @@
   "imdb": "tt0473705",
   "kind": "movie",
   "orig": "State of Play",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -1222,8 +1127,7 @@
   "imdb": "tt6673612",
   "kind": "movie",
   "orig": "Dolittle",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -1231,8 +1135,7 @@
   "imdb": "tt0084787",
   "kind": "movie",
   "orig": "The Thing",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1982
  },
@@ -1240,22 +1143,23 @@
   "imdb": "tt1080926",
   "kind": "movie",
   "orig": "Dr. Dolittle: Million Dollar Mutts",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
  "dragon ball super szuperhos|2022": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt14614892",
+  "kind": "movie",
+  "orig": "ドラゴンボール超 スーパーヒーロー",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2022
  },
  "dune masodik resz|2024": {
   "imdb": "tt15239678",
   "kind": "movie",
   "orig": "Dune: Part Two",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -1264,7 +1168,7 @@
   "kind": "movie",
   "orig": "Dúvad",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1961
  },
@@ -1272,36 +1176,39 @@
   "imdb": "tt0083866",
   "kind": "movie",
   "orig": "E.T. the Extra-Terrestrial",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1982
  },
  "edes emma draga bobe|1992": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0105919",
+  "kind": "movie",
+  "orig": "Édes Emma, drága Böbe - vázlatok, aktok",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 1992
  },
  "edes kasa|2018": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt8568840",
+  "kind": "movie",
+  "orig": "Der süße Brei",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2018
  },
  "egeszseges erotika|1985": {
   "imdb": "tt0089074",
   "kind": "movie",
   "orig": "Egészséges erotika",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1986
  },
  "egigero fu|1979": {
   "imdb": "tt0121929",
   "kind": "movie",
-  "orig": "Égigérö fü",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Égigérő fű",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1979
  },
@@ -1309,8 +1216,7 @@
   "imdb": "tt0062925",
   "kind": "movie",
   "orig": "Egri csillagok",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1968
  },
@@ -1318,8 +1224,7 @@
   "imdb": "tt1856080",
   "kind": "movie",
   "orig": "The Boys in the Boat",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -1327,8 +1232,7 @@
   "imdb": "tt0276751",
   "kind": "movie",
   "orig": "About a Boy",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -1336,8 +1240,7 @@
   "imdb": "tt0397535",
   "kind": "movie",
   "orig": "Memoirs of a Geisha",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -1345,8 +1248,7 @@
   "imdb": "tt5092380",
   "kind": "movie",
   "orig": "Dans la brume",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -1354,8 +1256,7 @@
   "imdb": "tt1563738",
   "kind": "movie",
   "orig": "One Day",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -1363,8 +1264,7 @@
   "imdb": "tt0123289",
   "kind": "movie",
   "orig": "Egy szoknya, egy nadrág",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1943
  },
@@ -1372,8 +1272,7 @@
   "imdb": "tt0073036",
   "kind": "movie",
   "orig": "Un genio, due compari, un pollo",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1975
  },
@@ -1381,8 +1280,7 @@
   "imdb": "tt2404233",
   "kind": "movie",
   "orig": "Gods of Egypt",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -1390,17 +1288,15 @@
   "imdb": "tt6533240",
   "kind": "movie",
   "orig": "Night Hunter",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2018
+  "y": 2019
  },
  "ejszakai rohanas|1988": {
   "imdb": "tt0095631",
   "kind": "movie",
   "orig": "Midnight Run",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1988
  },
@@ -1408,8 +1304,7 @@
   "imdb": "tt0327679",
   "kind": "movie",
   "orig": "Ella Enchanted",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -1417,8 +1312,7 @@
   "imdb": "tt0340331",
   "kind": "movie",
   "orig": "School of Life",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -1426,27 +1320,28 @@
   "imdb": "tt0069159",
   "kind": "movie",
   "orig": "Una ragione per vivere e una per morire",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1972
  },
  "eletbe tancoltatott lany|1964": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "eletem akar egy romantikus film|2023": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt20912894",
+  "kind": "movie",
+  "orig": "Why Can't My Life Be a Rom-Com?",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2023
  },
  "elet|2017": {
   "imdb": "tt5442430",
   "kind": "movie",
   "orig": "Life",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -1454,8 +1349,7 @@
   "imdb": "tt8335482",
   "kind": "movie",
   "orig": "Le prince oublié",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -1463,8 +1357,7 @@
   "imdb": "tt3211306",
   "kind": "movie",
   "orig": "Elhallgatott gyalázat",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1472,8 +1365,7 @@
   "imdb": "tt1117385",
   "kind": "movie",
   "orig": "Felon",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -1481,8 +1373,7 @@
   "imdb": "tt2334879",
   "kind": "movie",
   "orig": "White House Down",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1490,8 +1381,7 @@
   "imdb": "tt0062930",
   "kind": "movie",
   "orig": "Elsietett házasság",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1968
  },
@@ -1499,8 +1389,7 @@
   "imdb": "tt0113071",
   "kind": "movie",
   "orig": "First Knight",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -1508,8 +1397,7 @@
   "imdb": "tt7394816",
   "kind": "movie",
   "orig": "Primal",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -1517,8 +1405,7 @@
   "imdb": "tt3704428",
   "kind": "movie",
   "orig": "Elvis",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -1526,40 +1413,36 @@
   "imdb": "tt0351977",
   "kind": "movie",
   "orig": "Walking Tall",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
  "emlekezzunk 56 ra|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "emma|2020": {
   "imdb": "tt9214832",
   "kind": "movie",
   "orig": "Emma.",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
  "en es a hercegem 2 a kiralyi eskuvo|2006": {
   "imdb": "tt0477072",
   "kind": "movie",
-  "orig": "The Prince & Me II: The Royal Wedding",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "The Prince & Me 2: The Royal Wedding",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
  "erdo kapitanya|1988": {
   "imdb": "tt0129734",
   "kind": "movie",
-  "orig": "Az erdö kapitánya",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Az erdő kapitánya",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1988
  },
@@ -1567,8 +1450,7 @@
   "imdb": "tt1549920",
   "kind": "movie",
   "orig": "The Last Stand",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1576,8 +1458,7 @@
   "imdb": "tt0421206",
   "kind": "movie",
   "orig": "Gridiron Gang",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -1585,8 +1466,7 @@
   "imdb": "tt0078058",
   "kind": "movie",
   "orig": "Pari e dispari",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1978
  },
@@ -1594,8 +1474,7 @@
   "imdb": "tt33368113",
   "kind": "movie",
   "orig": "És mi van Tomival?",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -1603,8 +1482,7 @@
   "imdb": "tt4682788",
   "kind": "movie",
   "orig": "Loving Pablo",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -1612,22 +1490,20 @@
   "imdb": "tt0095953",
   "kind": "movie",
   "orig": "Rain Man",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1988
  },
  "esterhazy vacsora|1999": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "etelmuvesz|2015": {
   "imdb": "tt2503944",
   "kind": "movie",
   "orig": "Burnt",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -1635,8 +1511,7 @@
   "imdb": "tt0026329",
   "kind": "movie",
   "orig": "Ez a villa eladó",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1935
  },
@@ -1644,8 +1519,7 @@
   "imdb": "tt0090021",
   "kind": "movie",
   "orig": "Silver Bullet",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1985
  },
@@ -1653,8 +1527,7 @@
   "imdb": "tt14208870",
   "kind": "movie",
   "orig": "The Fabelmans",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -1662,17 +1535,15 @@
   "imdb": "tt0455362",
   "kind": "movie",
   "orig": "The Breed",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
  "farkasok szovetsege|2001": {
   "imdb": "tt0237534",
   "kind": "movie",
-  "orig": "Le pacte des loups",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Le Pacte des loups",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -1680,8 +1551,7 @@
   "imdb": "tt1403241",
   "kind": "movie",
   "orig": "Wolves",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -1689,17 +1559,15 @@
   "imdb": "tt0486946",
   "kind": "movie",
   "orig": "Wild Hogs",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
  "fedoneve oroszlan|2020": {
   "imdb": "tt9908390",
   "kind": "movie",
-  "orig": "Le lion",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Le Lion",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -1707,8 +1575,7 @@
   "imdb": "tt1308729",
   "kind": "movie",
   "orig": "Bullet to the Head",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -1717,7 +1584,7 @@
   "kind": "movie",
   "orig": "Il corsaro nero",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1971
  },
@@ -1725,8 +1592,7 @@
   "imdb": "tt0297162",
   "kind": "movie",
   "orig": "Half Past Dead",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -1734,27 +1600,26 @@
   "imdb": "tt1748197",
   "kind": "movie",
   "orig": "Setup",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
  "femkeresok a film|2022": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "fenevad arnyekeban|2008": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "fenevad gyomraban|2003": {
   "imdb": "tt0357474",
   "kind": "movie",
   "orig": "Belly of the Beast",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -1763,7 +1628,7 @@
   "kind": "movie",
   "orig": "The Wife",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -1771,8 +1636,7 @@
   "imdb": "tt0131325",
   "kind": "movie",
   "orig": "Bowfinger",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
@@ -1780,8 +1644,7 @@
   "imdb": "tt0809504",
   "kind": "movie",
   "orig": "The Accidental Husband",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -1789,8 +1652,7 @@
   "imdb": "tt0104466",
   "kind": "movie",
   "orig": "Husbands and Wives",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1992
  },
@@ -1798,8 +1660,7 @@
   "imdb": "tt0490084",
   "kind": "movie",
   "orig": "Because I Said So",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -1807,17 +1668,15 @@
   "imdb": "tt3727202",
   "kind": "movie",
   "orig": "Life on the Line",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2015
+  "y": 2016
  },
  "fogsagban|2013": {
   "imdb": "tt1392214",
   "kind": "movie",
   "orig": "Prisoners",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1825,8 +1684,7 @@
   "imdb": "tt2170439",
   "kind": "movie",
   "orig": "Horrible Bosses 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -1834,8 +1692,7 @@
   "imdb": "tt1499658",
   "kind": "movie",
   "orig": "Horrible Bosses",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -1843,8 +1700,7 @@
   "imdb": "tt0063374",
   "kind": "movie",
   "orig": "The Odd Couple",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1968
  },
@@ -1852,8 +1708,7 @@
   "imdb": "tt0489270",
   "kind": "movie",
   "orig": "Saw III",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -1861,8 +1716,7 @@
   "imdb": "tt0119173",
   "kind": "movie",
   "orig": "G.I. Jane",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1997
  },
@@ -1870,8 +1724,7 @@
   "imdb": "tt1583421",
   "kind": "movie",
   "orig": "G.I. Joe: Retaliation",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1879,22 +1732,20 @@
   "imdb": "tt5779228",
   "kind": "movie",
   "orig": "The Garfield Movie",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
  "gengszterzsaruk 2|2025": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "getto balboa|2018": {
   "imdb": "tt6384378",
   "kind": "movie",
   "orig": "Gettó Balboa",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -1902,8 +1753,7 @@
   "imdb": "tt3741700",
   "kind": "movie",
   "orig": "Godzilla: King of the Monsters",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -1911,8 +1761,7 @@
   "imdb": "tt0245803",
   "kind": "movie",
   "orig": "Bulletproof Monk",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -1920,8 +1769,7 @@
   "imdb": "tt0115783",
   "kind": "movie",
   "orig": "Bulletproof",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -1929,8 +1777,7 @@
   "imdb": "tt4633690",
   "kind": "movie",
   "orig": "Shot Caller",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -1938,8 +1785,7 @@
   "imdb": "tt3426230",
   "kind": "movie",
   "orig": "Vom Fischer und seiner Frau",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1947,8 +1793,7 @@
   "imdb": "tt1480295",
   "kind": "movie",
   "orig": "Killing Season",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -1956,8 +1801,7 @@
   "imdb": "tt0427152",
   "kind": "movie",
   "orig": "Dinner for Schmucks",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -1965,8 +1809,7 @@
   "imdb": "tt0167260",
   "kind": "movie",
   "orig": "The Lord of the Rings: The Return of the King",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -1974,8 +1817,7 @@
   "imdb": "tt9010802",
   "kind": "movie",
   "orig": "Si yo fuera rico",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -1983,22 +1825,20 @@
   "imdb": "tt0073087",
   "kind": "movie",
   "orig": "Ha megjön József",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1976
  },
  "hab az eskuvoi tortan|2023": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "haboru fenevada|2025": {
   "imdb": "tt29468874",
   "kind": "movie",
   "orig": "Beast of War",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -2006,8 +1846,7 @@
   "imdb": "tt1172233",
   "kind": "movie",
   "orig": "Whip It",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -2015,22 +1854,23 @@
   "imdb": "tt0452608",
   "kind": "movie",
   "orig": "Death Race",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
  "halalhegy a dyatlov rejtely|2013": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt1905040",
+  "kind": "movie",
+  "orig": "The Dyatlov Pass Incident",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2013
  },
  "halali osztalytalalkozo|2024": {
   "imdb": "tt15338966",
   "kind": "movie",
   "orig": "Reunion",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -2038,8 +1878,7 @@
   "imdb": "tt0431114",
   "kind": "movie",
   "orig": "Today You Die",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -2047,8 +1886,7 @@
   "imdb": "tt0122151",
   "kind": "movie",
   "orig": "Lethal Weapon 4",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -2056,8 +1894,7 @@
   "imdb": "tt4630562",
   "kind": "movie",
   "orig": "The Fate of the Furious",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -2065,8 +1902,7 @@
   "imdb": "tt6806448",
   "kind": "movie",
   "orig": "Fast & Furious Presents: Hobbs & Shaw",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -2074,8 +1910,7 @@
   "imdb": "tt0804461",
   "kind": "movie",
   "orig": "Death Sentence",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -2083,8 +1918,7 @@
   "imdb": "tt0113957",
   "kind": "movie",
   "orig": "The Net",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -2092,8 +1926,7 @@
   "imdb": "tt0049290",
   "kind": "movie",
   "orig": "Hannibál tanár úr",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1956
  },
@@ -2102,7 +1935,7 @@
   "kind": "movie",
   "orig": "A hanti sámán hagyatéka",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1999
  },
@@ -2110,8 +1943,7 @@
   "imdb": "tt2312718",
   "kind": "movie",
   "orig": "Homefront",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -2119,31 +1951,31 @@
   "imdb": "tt0137523",
   "kind": "movie",
   "orig": "Fight Club",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
  "harcra szuletett|2026": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt7708226",
+  "kind": "movie",
+  "orig": "Beast",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2026
  },
  "harom testor|2011": {
   "imdb": "tt1509767",
   "kind": "movie",
   "orig": "The Three Musketeers",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
  "harry potter es a bolcsek kove|2001": {
   "imdb": "tt0241527",
   "kind": "movie",
-  "orig": "Harry Potter and the Sorcerer's Stone",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Harry Potter and the Philosopher's Stone",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -2151,8 +1983,7 @@
   "imdb": "tt0417741",
   "kind": "movie",
   "orig": "Harry Potter and the Half-Blood Prince",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -2160,8 +1991,7 @@
   "imdb": "tt0373889",
   "kind": "movie",
   "orig": "Harry Potter and the Order of the Phoenix",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -2169,8 +1999,7 @@
   "imdb": "tt0295297",
   "kind": "movie",
   "orig": "Harry Potter and the Chamber of Secrets",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -2178,8 +2007,7 @@
   "imdb": "tt0330373",
   "kind": "movie",
   "orig": "Harry Potter and the Goblet of Fire",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -2187,8 +2015,7 @@
   "imdb": "tt0304141",
   "kind": "movie",
   "orig": "Harry Potter and the Prisoner of Azkaban",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -2196,8 +2023,7 @@
   "imdb": "tt0084054",
   "kind": "movie",
   "orig": "Hatásvadászok",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1983
  },
@@ -2206,25 +2032,23 @@
   "kind": "movie",
   "orig": "Hazatérõk",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2019
  },
  "hentes a kurva es a felszemu|2018": {
   "imdb": "tt5247768",
   "kind": "movie",
-  "orig": "A hentes, a kurva és a félszemü",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "A hentes, a kurva és a félszemű",
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2017
+  "y": 2018
  },
  "hetszerszep|2014": {
   "imdb": "tt4305972",
   "kind": "movie",
   "orig": "Siebenschön",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -2232,8 +2056,7 @@
   "imdb": "tt0064425",
   "kind": "movie",
   "orig": "Hibernatus",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1969
  },
@@ -2241,8 +2064,7 @@
   "imdb": "tt0075784",
   "kind": "movie",
   "orig": "A Bridge Too Far",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1977
  },
@@ -2250,8 +2072,7 @@
   "imdb": "tt0212233",
   "kind": "movie",
   "orig": "Hippolyt",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
@@ -2259,22 +2080,20 @@
   "imdb": "tt32373672",
   "kind": "movie",
   "orig": "L'heureuse élue",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
  "hivatlanok harmadik fejezet|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "hivatlanok masodik fejezet|2025": {
   "imdb": "tt28671344",
   "kind": "movie",
   "orig": "The Strangers: Chapter 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -2282,8 +2101,7 @@
   "imdb": "tt2509850",
   "kind": "movie",
   "orig": "The Rewrite",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -2291,8 +2109,7 @@
   "imdb": "tt0067208",
   "kind": "movie",
   "orig": "Holt vidék",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1972
  },
@@ -2300,8 +2117,7 @@
   "imdb": "tt0102685",
   "kind": "movie",
   "orig": "Point Break",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -2309,8 +2125,7 @@
   "imdb": "tt13639204",
   "kind": "movie",
   "orig": "Irréductible",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -2319,7 +2134,7 @@
   "kind": "movie",
   "orig": "Honvéd retró",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -2328,7 +2143,7 @@
   "kind": "movie",
   "orig": "Honvéd retró",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -2336,8 +2151,7 @@
   "imdb": "tt0795461",
   "kind": "movie",
   "orig": "Scary Movie 5",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -2345,8 +2159,7 @@
   "imdb": "tt9848626",
   "kind": "movie",
   "orig": "Hotel Transylvania: Transformania",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -2354,8 +2167,7 @@
   "imdb": "tt0472071",
   "kind": "movie",
   "orig": "Death Defying Acts",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -2363,8 +2175,7 @@
   "imdb": "tt9669176",
   "kind": "movie",
   "orig": "Accident Man: Hitman's Holiday",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -2372,8 +2183,7 @@
   "imdb": "tt0101635",
   "kind": "movie",
   "orig": "Curly Sue",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -2381,8 +2191,7 @@
   "imdb": "tt0250797",
   "kind": "movie",
   "orig": "Unfaithful",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -2390,8 +2199,7 @@
   "imdb": "tt0082545",
   "kind": "movie",
   "orig": "Ideiglenes paradicsom",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1981
  },
@@ -2399,27 +2207,25 @@
   "imdb": "tt0452694",
   "kind": "movie",
   "orig": "The Time Traveler's Wife",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
  "igaban|2022": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "igy keszult broker marcsi|2025": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "ikarosz|2010": {
   "imdb": "tt1261862",
   "kind": "movie",
   "orig": "Icarus",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -2427,22 +2233,23 @@
   "imdb": "tt0424176",
   "kind": "movie",
   "orig": "Icon",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
  "imposztor|2021": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt15891058",
+  "kind": "movie",
+  "orig": "Imposztor",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2021
  },
  "indiana jones es a vegzet temploma|1984": {
   "imdb": "tt0087469",
   "kind": "movie",
   "orig": "Indiana Jones and the Temple of Doom",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1984
  },
@@ -2450,8 +2257,7 @@
   "imdb": "tt0097576",
   "kind": "movie",
   "orig": "Indiana Jones and the Last Crusade",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1989
  },
@@ -2459,26 +2265,23 @@
   "imdb": "tt7401588",
   "kind": "movie",
   "orig": "Instant Family",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
  "ip man 4 finale|2019": {
   "imdb": "tt2076298",
   "kind": "movie",
-  "orig": "Yip Man 4",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "葉問4",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
  "ip man a vedelmezo|2015": {
   "imdb": "tt2888046",
   "kind": "movie",
-  "orig": "Yip Man 3",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "葉問3",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -2486,8 +2289,7 @@
   "imdb": "tt0097443",
   "kind": "movie",
   "orig": "The Gods Must Be Crazy II",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1989
  },
@@ -2496,7 +2298,7 @@
   "kind": "movie",
   "orig": "The Gods Must Be Crazy",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1980
  },
@@ -2504,17 +2306,16 @@
   "imdb": "tt1677557",
   "kind": "movie",
   "orig": "Isztambul",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2011
+  "y": 2012
  },
  "jackie chan a katona|2010": {
   "imdb": "tt1319718",
   "kind": "movie",
   "orig": "Da bing xiao jiang",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -2523,43 +2324,39 @@
   "kind": "movie",
   "orig": "Sing si lip yan",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1993
  },
  "jade demon kiralysaga|2014": {
   "imdb": "tt3465456",
   "kind": "movie",
-  "orig": "Bai fa mo nu zhuan zhi ming yue tian guo",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "白发魔女传之明月天国",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
  "jaguar|1996": {
   "imdb": "tt0116676",
   "kind": "movie",
-  "orig": "Le jaguar",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Le Jaguar",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
  "jakob rabbi kalandjai|1973": {
   "imdb": "tt0069747",
   "kind": "movie",
-  "orig": "Les aventures de Rabbi Jacob",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Les Aventures de Rabbi Jacob",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1973
  },
  "janos vitez|1973": {
   "imdb": "tt0121431",
   "kind": "movie",
-  "orig": "János vitéz",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "János Vitéz",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1973
  },
@@ -2567,8 +2364,7 @@
   "imdb": "tt1628055",
   "kind": "movie",
   "orig": "Touchback",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -2576,8 +2372,7 @@
   "imdb": "tt0151137",
   "kind": "movie",
   "orig": "Joan of Arc",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
@@ -2585,17 +2380,15 @@
   "imdb": "tt8042080",
   "kind": "movie",
   "orig": "Lost Treasure of Jesse James",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2020
+  "y": 2019
  },
  "jo uzlet a haboru|2008": {
   "imdb": "tt0884224",
   "kind": "movie",
   "orig": "War, Inc.",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -2603,8 +2396,7 @@
   "imdb": "tt0462499",
   "kind": "movie",
   "orig": "Rambo",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -2612,8 +2404,7 @@
   "imdb": "tt0113497",
   "kind": "movie",
   "orig": "Jumanji",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -2621,8 +2412,7 @@
   "imdb": "tt1617661",
   "kind": "movie",
   "orig": "Jupiter Ascending",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -2631,7 +2421,7 @@
   "kind": "movie",
   "orig": "The Lost World: Jurassic Park",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1997
  },
@@ -2639,8 +2429,7 @@
   "imdb": "tt0163025",
   "kind": "movie",
   "orig": "Jurassic Park III",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -2648,8 +2437,7 @@
   "imdb": "tt1817711",
   "kind": "movie",
   "orig": "Kaland",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -2658,7 +2446,7 @@
   "kind": "movie",
   "orig": "Kállay Kristóf, a máltai lovag",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2026
  },
@@ -2666,8 +2454,7 @@
   "imdb": "tt2279339",
   "kind": "movie",
   "orig": "Love the Coopers",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -2675,8 +2462,7 @@
   "imdb": "tt0402910",
   "kind": "movie",
   "orig": "Chaos",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -2684,8 +2470,7 @@
   "imdb": "tt0118884",
   "kind": "movie",
   "orig": "Contact",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1997
  },
@@ -2693,8 +2478,7 @@
   "imdb": "tt0264464",
   "kind": "movie",
   "orig": "Catch Me If You Can",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -2702,8 +2486,7 @@
   "imdb": "tt0097647",
   "kind": "movie",
   "orig": "The Karate Kid Part III",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1989
  },
@@ -2711,8 +2494,7 @@
   "imdb": "tt1155076",
   "kind": "movie",
   "orig": "The Karate Kid",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -2720,8 +2502,7 @@
   "imdb": "tt0432267",
   "kind": "movie",
   "orig": "The Cutter",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -2729,8 +2510,7 @@
   "imdb": "tt4419684",
   "kind": "movie",
   "orig": "In the Lost Lands",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -2738,8 +2518,7 @@
   "imdb": "tt0060612",
   "kind": "movie",
   "orig": "Kárpáthy Zoltán",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1966
  },
@@ -2747,8 +2526,7 @@
   "imdb": "tt0120157",
   "kind": "movie",
   "orig": "Soldier",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -2756,8 +2534,7 @@
   "imdb": "tt1086772",
   "kind": "movie",
   "orig": "Blended",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -2765,17 +2542,15 @@
   "imdb": "tt0490086",
   "kind": "movie",
   "orig": "Big Stan",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
  "kek laguna ebredes|2012": {
-  "imdb": "tt1441940",
+  "imdb": "tt2287663",
   "kind": "movie",
-  "orig": "Broken",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Blue Lagoon: The Awakening",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -2783,37 +2558,41 @@
   "imdb": "tt0095975",
   "kind": "movie",
   "orig": "Renegade",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1987
  },
  "kemenykalap es krumpliorr|1978": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0077796",
+  "kind": "movie",
+  "orig": "Keménykalap és Krumpliorr",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 1978
  },
  "kemkolykok 4d a vilag minden ideje|2011": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt1517489",
+  "kind": "movie",
+  "orig": "Spy Kids: All the Time in the World",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2011
  },
  "kepek tajak emberek 3|2002": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "kepek tajak emberek 4|2002": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "keresztapa 2|1974": {
   "imdb": "tt0071562",
   "kind": "movie",
   "orig": "The Godfather Part II",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1974
  },
@@ -2821,8 +2600,7 @@
   "imdb": "tt0068646",
   "kind": "movie",
   "orig": "The Godfather",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1972
  },
@@ -2830,8 +2608,7 @@
   "imdb": "tt0113442",
   "kind": "movie",
   "orig": "It Takes Two",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -2839,22 +2616,20 @@
   "imdb": "tt0150377",
   "kind": "movie",
   "orig": "Double Jeopardy",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
  "ki volt vajda janos titokzatos ginaja|2004": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "kincs ami nincs|1981": {
   "imdb": "tt0085327",
   "kind": "movie",
   "orig": "Chi trova un amico trova un tesoro",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1981
  },
@@ -2862,8 +2637,7 @@
   "imdb": "tt0830861",
   "kind": "movie",
   "orig": "Kis Vuk",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -2871,8 +2645,7 @@
   "imdb": "tt3281548",
   "kind": "movie",
   "orig": "Little Women",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -2880,8 +2653,7 @@
   "imdb": "tt36424914",
   "kind": "movie",
   "orig": "Falcon Express",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -2889,8 +2661,7 @@
   "imdb": "tt16375942",
   "kind": "movie",
   "orig": "Kittenberger - Az utolsó vadászat",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -2898,26 +2669,23 @@
   "imdb": "tt22394702",
   "kind": "movie",
   "orig": "Detective Knight: Independence",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
  "koko portrefilm kovacs istvanrol|1998": {
-  "imdb": "tt34203486",
+  "imdb": "tt21214044",
   "kind": "movie",
   "orig": "Koko",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 1998
+  "y": 1997
  },
  "kolorado kid|2010": {
   "imdb": "tt0856796",
   "kind": "movie",
   "orig": "Kolorádó Kid",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -2926,16 +2694,15 @@
   "kind": "movie",
   "orig": "Koltai napló 2001-2003",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2003
  },
  "komajmok haza|2014": {
   "imdb": "tt4303474",
   "kind": "movie",
-  "orig": "A kõmajmok háza",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "A kőmajmok háza",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -2943,8 +2710,7 @@
   "imdb": "tt1282140",
   "kind": "movie",
   "orig": "Easy A",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -2952,8 +2718,7 @@
   "imdb": "tt1340834",
   "kind": "movie",
   "orig": "Köntörfalak",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -2961,8 +2726,7 @@
   "imdb": "tt0082627",
   "kind": "movie",
   "orig": "Kopaszkutya",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1981
  },
@@ -2970,8 +2734,7 @@
   "imdb": "tt0061881",
   "kind": "movie",
   "orig": "A koppányi aga testamentuma",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1967
  },
@@ -2979,8 +2742,7 @@
   "imdb": "tt0048275",
   "kind": "movie",
   "orig": "Körhinta",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1956
  },
@@ -2988,17 +2750,15 @@
   "imdb": "tt0498381",
   "kind": "movie",
   "orig": "Rings",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
  "koszivu ember fiai|1964": {
   "imdb": "tt0059373",
   "kind": "movie",
-  "orig": "A köszívü ember fiai",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "A Kőszívű Ember Fiai",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1965
  },
@@ -3006,22 +2766,20 @@
   "imdb": "tt1458175",
   "kind": "movie",
   "orig": "The Next Three Days",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
  "kulonleges szallitmany|2010": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "kulvaros melyen|2012": {
   "imdb": "tt1937133",
   "kind": "movie",
   "orig": "De l'autre côté du périph",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -3029,17 +2787,15 @@
   "imdb": "tt0177876",
   "kind": "movie",
   "orig": "K-911",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 1999
+  "y": 2000
  },
  "langelmek|2016": {
   "imdb": "tt2461150",
   "kind": "movie",
   "orig": "Masterminds",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -3047,8 +2803,7 @@
   "imdb": "tt1486185",
   "kind": "movie",
   "orig": "Red Riding Hood",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -3056,17 +2811,15 @@
   "imdb": "tt0433412",
   "kind": "movie",
   "orig": "Material Girls",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
  "largo winch 3 a penz ara|2024": {
   "imdb": "tt23049322",
   "kind": "movie",
-  "orig": "Largo Winch: Le prix de l'argent",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Largo Winch : Le Prix de l'argent",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -3074,22 +2827,20 @@
   "imdb": "tt1583420",
   "kind": "movie",
   "orig": "Larry Crowne",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
  "latlelet egy korhazrol|2017": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "latogatas|2010": {
   "imdb": "tt1337338",
   "kind": "movie",
   "orig": "Der Kameramörder",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -3098,7 +2849,7 @@
   "kind": "movie",
   "orig": "Avalanche Sharks",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -3106,8 +2857,7 @@
   "imdb": "tt22496962",
   "kind": "movie",
   "orig": "Something's Brewing",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -3115,8 +2865,7 @@
   "imdb": "tt0408790",
   "kind": "movie",
   "orig": "Flightplan",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -3124,17 +2873,15 @@
   "imdb": "tt2064968",
   "kind": "movie",
   "orig": "The Longest Week",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
  "legicsapas|2018": {
   "imdb": "tt4743226",
   "kind": "movie",
-  "orig": "Da hong zha",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Air Strike",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -3142,31 +2889,31 @@
   "imdb": "tt0126388",
   "kind": "movie",
   "orig": "Legionnaire",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
  "legjobb apa a vilagon|2019": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt11290784",
+  "kind": "movie",
+  "orig": "Der beste Papa der Welt",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2019
  },
  "legsotetebb ora|2017": {
   "imdb": "tt4555426",
   "kind": "movie",
   "orig": "Darkest Hour",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
  "lemony snicket a balszerencse aradasa|2004": {
   "imdb": "tt0339291",
   "kind": "movie",
-  "orig": "A Series of Unfortunate Events",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Lemony Snicket's A Series of Unfortunate Events",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -3174,8 +2921,7 @@
   "imdb": "tt0120841",
   "kind": "movie",
   "orig": "Species II",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -3183,8 +2929,7 @@
   "imdb": "tt13039008",
   "kind": "movie",
   "orig": "Kill Shot",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -3192,8 +2937,7 @@
   "imdb": "tt1213648",
   "kind": "movie",
   "orig": "London Boulevard",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -3201,17 +2945,15 @@
   "imdb": "tt0300471",
   "kind": "movie",
   "orig": "Shanghai Knights",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
  "lovagok haboruja 2 harc a tronert|2014": {
   "imdb": "tt2404583",
   "kind": "movie",
-  "orig": "Ironclad: Battle for Blood",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Ironclad 2: Battle for Blood",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -3219,22 +2961,23 @@
   "imdb": "tt0142632",
   "kind": "movie",
   "orig": "Lúdas Matyi",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1977
  },
  "luxuspokol|2022": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt17157122",
+  "kind": "movie",
+  "orig": "Hell of a Cruise",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2022
  },
  "macgruber|2010": {
   "imdb": "tt1470023",
   "kind": "movie",
   "orig": "MacGruber",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -3242,8 +2985,7 @@
   "imdb": "tt2002718",
   "kind": "movie",
   "orig": "Machete Kills",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3251,17 +2993,15 @@
   "imdb": "tt0985694",
   "kind": "movie",
   "orig": "Machete",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
  "macskafogo 2 a satan macskaja|2007": {
   "imdb": "tt0826570",
   "kind": "movie",
-  "orig": "Macskafogó 2 - A sátán macskája",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Macskafogó 2. - A sátán macskája",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -3269,8 +3009,7 @@
   "imdb": "tt0479952",
   "kind": "movie",
   "orig": "Madagascar: Escape 2 Africa",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -3278,22 +3017,20 @@
   "imdb": "tt8110232",
   "kind": "movie",
   "orig": "The Many Saints of Newark",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
  "maganyos tarsasag|2022": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "magyar hangja|2022": {
   "imdb": "tt21387900",
   "kind": "movie",
-  "orig": "Magyar hangja...",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Magyar hangja…",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -3301,22 +3038,20 @@
   "imdb": "tt0370919",
   "kind": "movie",
   "orig": "Magyar vándor",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
  "malenkij robot csepelen|2016": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "mamma mia sose hagyjuk abba|2018": {
   "imdb": "tt6911608",
   "kind": "movie",
   "orig": "Mamma Mia! Here We Go Again",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -3324,8 +3059,7 @@
   "imdb": "tt1414382",
   "kind": "movie",
   "orig": "You Again",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -3333,8 +3067,7 @@
   "imdb": "tt0467200",
   "kind": "movie",
   "orig": "The Other Boleyn Girl",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -3342,8 +3075,7 @@
   "imdb": "tt0951335",
   "kind": "movie",
   "orig": "The New Daughter",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -3351,8 +3083,7 @@
   "imdb": "tt1411697",
   "kind": "movie",
   "orig": "The Hangover Part II",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -3360,8 +3091,7 @@
   "imdb": "tt1951261",
   "kind": "movie",
   "orig": "The Hangover Part III",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3369,22 +3099,23 @@
   "imdb": "tt1119646",
   "kind": "movie",
   "orig": "The Hangover",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
  "masodik elet|2019": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt9074994",
+  "kind": "movie",
+  "orig": "La deuxième",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2019
  },
  "megall az ido|1982": {
   "imdb": "tt0082729",
   "kind": "movie",
-  "orig": "Megáll az idö",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Megáll az idő",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1982
  },
@@ -3392,8 +3123,7 @@
   "imdb": "tt1244754",
   "kind": "movie",
   "orig": "Conviction",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -3401,17 +3131,15 @@
   "imdb": "tt0783640",
   "kind": "movie",
   "orig": "The Last Full Measure",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2019
+  "y": 2020
  },
  "megtevesztes|2013": {
   "imdb": "tt2179226",
   "kind": "movie",
   "orig": "Absolute Deception",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3419,78 +3147,81 @@
   "imdb": "tt10934208",
   "kind": "movie",
   "orig": "Las Rojas",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
  "megy a gozos|2007": {
   "imdb": "tt0856803",
   "kind": "movie",
-  "orig": "Megy a gözös",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Megy a gőzös",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
  "mehlegelok|2017": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt30808989",
+  "kind": "movie",
+  "orig": "Méhlegelők",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2017
  },
  "men in black sotet zsaruk 3|2012": {
   "imdb": "tt1409024",
   "kind": "movie",
-  "orig": "Men in Black³",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Men in Black 3",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
  "menekules a gyozelembe|1981": {
   "imdb": "tt0083284",
   "kind": "movie",
-  "orig": "Victory",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Escape to Victory",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1981
  },
  "menekules az ardennekbol|2026": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt19035928",
+  "kind": "movie",
+  "orig": "Lucky Strike",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2026
  },
  "menekules hippi foldre|2017": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt5796516",
+  "kind": "movie",
+  "orig": "Problemos",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2017
  },
  "menetrend|2019": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "mentsuk meg az eskuvot|2022": {
   "imdb": "tt16381430",
   "kind": "movie",
   "orig": "The Wedding Fix",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
  "merlin 2 a varazsloinas 1|2006": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "mese a 12 talalatrol|1956": {
   "imdb": "tt0049497",
   "kind": "movie",
   "orig": "Mese a 12 találatról",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1957
  },
@@ -3498,8 +3229,7 @@
   "imdb": "tt0265317",
   "kind": "movie",
   "orig": "Meseautó",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2000
  },
@@ -3507,8 +3237,7 @@
   "imdb": "tt3522806",
   "kind": "movie",
   "orig": "Mechanic: Resurrection",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -3516,8 +3245,7 @@
   "imdb": "tt0472399",
   "kind": "movie",
   "orig": "The Mechanic",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -3525,8 +3253,7 @@
   "imdb": "tt20420740",
   "kind": "movie",
   "orig": "Mesterjátszma",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -3534,8 +3261,7 @@
   "imdb": "tt0464118",
   "kind": "movie",
   "orig": "Mexican Sunrise",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -3543,8 +3269,7 @@
   "imdb": "tt15676954",
   "kind": "movie",
   "orig": "Mon héroïne",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -3552,8 +3277,7 @@
   "imdb": "tt0315327",
   "kind": "movie",
   "orig": "Bruce Almighty",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -3561,26 +3285,23 @@
   "imdb": "tt1430615",
   "kind": "movie",
   "orig": "Big Miracle",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
  "mindent bele fiuk|1972": {
   "imdb": "tt0069095",
   "kind": "movie",
-  "orig": "...Più forte ragazzi!",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "...più forte ragazzi!",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1972
  },
  "mint a apa|2008": {
   "imdb": "tt1075111",
   "kind": "movie",
-  "orig": "15 ans et demi ...",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "15 ans et demi",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -3588,8 +3309,7 @@
   "imdb": "tt5941692",
   "kind": "movie",
   "orig": "Miss Bala",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -3597,8 +3317,7 @@
   "imdb": "tt0104882",
   "kind": "movie",
   "orig": "Miss Marple: The Mirror Crack'd from Side to Side",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1992
  },
@@ -3606,8 +3325,7 @@
   "imdb": "tt4540710",
   "kind": "movie",
   "orig": "Miss Sloane",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -3615,8 +3333,7 @@
   "imdb": "tt0317919",
   "kind": "movie",
   "orig": "Mission: Impossible III",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -3624,8 +3341,7 @@
   "imdb": "tt3045616",
   "kind": "movie",
   "orig": "Mortdecai",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -3633,8 +3349,7 @@
   "imdb": "tt9432338",
   "kind": "movie",
   "orig": "Most van most",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -3642,8 +3357,7 @@
   "imdb": "tt0273840",
   "kind": "movie",
   "orig": "Moszkva tér",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -3651,8 +3365,7 @@
   "imdb": "tt0780571",
   "kind": "movie",
   "orig": "Mr. Brooks",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -3660,22 +3373,20 @@
   "imdb": "tt0095666",
   "kind": "movie",
   "orig": "Mr. Universe",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1988
  },
  "ms randi|2023": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "nagy nap|2013": {
   "imdb": "tt1931435",
   "kind": "movie",
   "orig": "The Big Wedding",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3683,8 +3394,7 @@
   "imdb": "tt1375670",
   "kind": "movie",
   "orig": "Grown Ups",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -3692,8 +3402,7 @@
   "imdb": "tt12847168",
   "kind": "movie",
   "orig": "Nagykarácsony",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -3701,8 +3410,7 @@
   "imdb": "tt4532038",
   "kind": "movie",
   "orig": "The War with Grandpa",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -3710,8 +3418,7 @@
   "imdb": "tt0314353",
   "kind": "movie",
   "orig": "Tears of the Sun",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -3719,8 +3426,7 @@
   "imdb": "tt0145503",
   "kind": "movie",
   "orig": "Sunshine",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
@@ -3728,8 +3434,7 @@
   "imdb": "tt1045658",
   "kind": "movie",
   "orig": "Silver Linings Playbook",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -3737,23 +3442,21 @@
   "imdb": "tt2369135",
   "kind": "movie",
   "orig": "Need for Speed",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
  "negybalkezes|1986": {
   "imdb": "tt0091093",
   "kind": "movie",
-  "orig": "Les fugitifs",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Les Fugitifs",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1986
  },
  "nem szulettem hosnek|2025": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "nemere istvan addig irok amig elek|2024": {
@@ -3761,7 +3464,7 @@
   "kind": "movie",
   "orig": "Nemere István: addig írok, amíg élek",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -3769,59 +3472,60 @@
   "imdb": "tt1661275",
   "kind": "movie",
   "orig": "Their Finest",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2016
+  "y": 2017
  },
  "nevem senki|1973": {
   "imdb": "tt0070215",
   "kind": "movie",
   "orig": "Il mio nome è Nessuno",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1973
  },
  "nevem thomas|2018": {
   "imdb": "tt6292090",
   "kind": "movie",
-  "orig": "My Name Is Thomas",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Il mio nome è Thomas",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
  "night board|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "nincs bocsanat|1992": {
   "imdb": "tt0105695",
   "kind": "movie",
   "orig": "Unforgiven",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1992
  },
  "ninja 2 a harcos bosszuja|2013": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt2458106",
+  "kind": "movie",
+  "orig": "Ninja: Shadow of a Tear",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2013
  },
  "noe barkaja|2007": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0483093",
+  "kind": "movie",
+  "orig": "Noé bárkája",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2007
  },
  "nurnberg|2025": {
   "imdb": "tt29567915",
   "kind": "movie",
   "orig": "Nuremberg",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -3829,8 +3533,7 @@
   "imdb": "tt1967545",
   "kind": "movie",
   "orig": "Labor Day",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3838,8 +3541,7 @@
   "imdb": "tt3890160",
   "kind": "movie",
   "orig": "Baby Driver",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -3847,8 +3549,7 @@
   "imdb": "tt0240772",
   "kind": "movie",
   "orig": "Ocean's Eleven",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -3857,7 +3558,7 @@
   "kind": "movie",
   "orig": "Non è vero ma ci credo",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -3865,36 +3566,33 @@
   "imdb": "tt6009140",
   "kind": "movie",
   "orig": "Jour J",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
  "orokke ebren|2022": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "orokre tervezve|2022": {
   "imdb": "tt16354442",
   "kind": "movie",
-  "orig": "Planning on Forever",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Planning On Forever",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
  "oroszlanszaj|1980": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "orult szenvedely|2009": {
   "imdb": "tt1198138",
   "kind": "movie",
   "orig": "Obsessed",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -3902,8 +3600,7 @@
   "imdb": "tt0102603",
   "kind": "movie",
   "orig": "Oscar",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -3911,8 +3608,7 @@
   "imdb": "tt1038685",
   "kind": "movie",
   "orig": "The King of Fighters",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -3921,7 +3617,7 @@
   "kind": "movie",
   "orig": "Ötvenhat viharában - 1956 a Vajdaságban",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -3929,8 +3625,7 @@
   "imdb": "tt0317303",
   "kind": "movie",
   "orig": "Daddy Day Care",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -3938,8 +3633,7 @@
   "imdb": "tt5822536",
   "kind": "movie",
   "orig": "Paddington in Peru",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -3948,7 +3642,7 @@
   "kind": "movie",
   "orig": "A Pál-utcai fiúk",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1968
  },
@@ -3956,22 +3650,23 @@
   "imdb": "tt0084465",
   "kind": "movie",
   "orig": "Panelkapcsolat",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1982
  },
  "papamobil|2025": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt37646592",
+  "kind": "movie",
+  "orig": "Papamobile",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2025
  },
  "paparazzi|2004": {
   "imdb": "tt0338325",
   "kind": "movie",
   "orig": "Paparazzi",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -3979,8 +3674,7 @@
   "imdb": "tt1413495",
   "kind": "movie",
   "orig": "Paranoia",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3988,8 +3682,7 @@
   "imdb": "tt1904996",
   "kind": "movie",
   "orig": "Parker",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -3997,22 +3690,24 @@
   "imdb": "tt1279935",
   "kind": "movie",
   "orig": "Date Night",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
  "partizanok|2016": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt6118072",
+  "kind": "movie",
+  "orig": "Partizánok",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2016
  },
  "patria nostra|2016": {
   "imdb": "tt48923443",
   "kind": "movie",
   "orig": "Patria Nostra",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -4020,22 +3715,20 @@
   "imdb": "tt0113845",
   "kind": "movie",
   "orig": "Money Train",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
  "pesti lanyok|2017": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "pi elete|2012": {
   "imdb": "tt0454876",
   "kind": "movie",
   "orig": "Life of Pi",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -4043,8 +3736,7 @@
   "imdb": "tt0076544",
   "kind": "movie",
   "orig": "Piedone l'africano",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1978
  },
@@ -4052,8 +3744,7 @@
   "imdb": "tt0079718",
   "kind": "movie",
   "orig": "Piedone d'Egitto",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1980
  },
@@ -4061,8 +3752,7 @@
   "imdb": "tt0091828",
   "kind": "movie",
   "orig": "Raw Deal",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1986
  },
@@ -4070,17 +3760,15 @@
   "imdb": "tt1114740",
   "kind": "movie",
   "orig": "Paul Blart: Mall Cop",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
  "pofa be|2003": {
   "imdb": "tt0310203",
   "kind": "movie",
-  "orig": "Tais-toi!",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Tais-toi !",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -4088,8 +3776,7 @@
   "imdb": "tt0316654",
   "kind": "movie",
   "orig": "Spider-Man 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -4097,8 +3784,7 @@
   "imdb": "tt0413300",
   "kind": "movie",
   "orig": "Spider-Man 3",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -4106,17 +3792,15 @@
   "imdb": "tt2250912",
   "kind": "movie",
   "orig": "Spider-Man: Homecoming",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
  "pokember idegenben|2019": {
   "imdb": "tt6320628",
   "kind": "movie",
-  "orig": "Spider-Man: Far from Home",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Spider-Man: Far From Home",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -4124,8 +3808,7 @@
   "imdb": "tt10872600",
   "kind": "movie",
   "orig": "Spider-Man: No Way Home",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -4133,8 +3816,7 @@
   "imdb": "tt1220217",
   "kind": "movie",
   "orig": "The Legend of Hell's Gate: An American Conspiracy",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -4142,8 +3824,7 @@
   "imdb": "tt11576124",
   "kind": "movie",
   "orig": "Rogue",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -4151,8 +3832,7 @@
   "imdb": "tt0113360",
   "kind": "movie",
   "orig": "The Hunted",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -4160,22 +3840,23 @@
   "imdb": "tt2582782",
   "kind": "movie",
   "orig": "Hell or High Water",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
  "puerto rico i zsaruk parizsban|2015": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt3730510",
+  "kind": "movie",
+  "orig": "Puerto Ricans in Paris",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2015
  },
  "putifar tanar ur visszavag|2023": {
   "imdb": "tt21331016",
   "kind": "movie",
-  "orig": "Les vengeances de Maître Poutifard",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Les Vengeances de Maître Poutifard",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -4183,8 +3864,7 @@
   "imdb": "tt10276482",
   "kind": "movie",
   "orig": "Love Again",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -4192,8 +3872,7 @@
   "imdb": "tt0311863",
   "kind": "movie",
   "orig": "Stealing Sinatra",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -4201,8 +3880,7 @@
   "imdb": "tt0120724",
   "kind": "movie",
   "orig": "Knock Off",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -4210,8 +3888,7 @@
   "imdb": "tt0095956",
   "kind": "movie",
   "orig": "Rambo III",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1988
  },
@@ -4219,8 +3896,7 @@
   "imdb": "tt1206885",
   "kind": "movie",
   "orig": "Rambo: Last Blood",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -4228,8 +3904,7 @@
   "imdb": "tt29260852",
   "kind": "movie",
   "orig": "Random",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -4237,22 +3912,20 @@
   "imdb": "tt0120735",
   "kind": "movie",
   "orig": "Lock, Stock and Two Smoking Barrels",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
  "reggeli 2026|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "rejtekhely|2012": {
   "imdb": "tt1919090",
   "kind": "movie",
   "orig": "Stash House",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -4260,8 +3933,7 @@
   "imdb": "tt10537660",
   "kind": "movie",
   "orig": "Mystère à Saint-Tropez",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -4269,8 +3941,7 @@
   "imdb": "tt1179056",
   "kind": "movie",
   "orig": "A Nightmare on Elm Street",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -4278,8 +3949,7 @@
   "imdb": "tt0111161",
   "kind": "movie",
   "orig": "The Shawshank Redemption",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1994
  },
@@ -4288,7 +3958,7 @@
   "kind": "movie",
   "orig": "Police Academy: Mission to Moscow",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1994
  },
@@ -4296,8 +3966,7 @@
   "imdb": "tt4106376",
   "kind": "movie",
   "orig": "Renegades",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -4305,8 +3974,7 @@
   "imdb": "tt0189192",
   "kind": "movie",
   "orig": "Just Visiting",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -4314,8 +3982,7 @@
   "imdb": "tt0164184",
   "kind": "movie",
   "orig": "The Sum of All Fears",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -4323,8 +3990,7 @@
   "imdb": "tt0058203",
   "kind": "movie",
   "orig": "L'Homme de Rio",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1964
  },
@@ -4332,8 +3998,7 @@
   "imdb": "tt1161864",
   "kind": "movie",
   "orig": "The Rite",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -4341,8 +4006,7 @@
   "imdb": "tt0955308",
   "kind": "movie",
   "orig": "Robin Hood",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -4350,8 +4014,7 @@
   "imdb": "tt4532826",
   "kind": "movie",
   "orig": "Robin Hood",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -4359,8 +4022,7 @@
   "imdb": "tt4731008",
   "kind": "movie",
   "orig": "Robinson Crusoe",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -4368,8 +4030,7 @@
   "imdb": "tt0100502",
   "kind": "movie",
   "orig": "RoboCop 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1990
  },
@@ -4377,8 +4038,7 @@
   "imdb": "tt0107978",
   "kind": "movie",
   "orig": "RoboCop 3",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1993
  },
@@ -4386,8 +4046,7 @@
   "imdb": "tt0093870",
   "kind": "movie",
   "orig": "RoboCop",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1987
  },
@@ -4395,57 +4054,70 @@
   "imdb": "tt0479143",
   "kind": "movie",
   "orig": "Rocky Balboa",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
  "rosamunde pilcher a boldogsag nyomaban|2000": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "rosamunde pilcher a szerelem gyozelme|2007": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "rosamunde pilcher angol bor|2012": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt2098382",
+  "kind": "movie",
+  "orig": "Rosamunde Pilcher: Englischer Wein",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2011
  },
  "rosamunde pilcher az elrabolt nyar|2012": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt2050247",
+  "kind": "movie",
+  "orig": "Rosamunde Pilcher: Der gestohlene Sommer",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2011
  },
  "rosamunde pilcher eljegyezve szerelmesen elveszve|2012": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "rosamunde pilcher siralyok a szelben|1999": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0222330",
+  "kind": "movie",
+  "orig": "Rosamunde Pilcher: Möwen im Wind",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 1999
  },
  "rosamunde pilcher szerelemre fel|2009": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt1480665",
+  "kind": "movie",
+  "orig": "Rosamunde Pilcher: Lass es Liebe sein",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2009
  },
  "rosamunde pilcher valaszutak|1999": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0226390",
+  "kind": "movie",
+  "orig": "Rosamunde Pilcher: Blüte des Lebens",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 1999
  },
  "rozsaszin parduc 2|2009": {
   "imdb": "tt0838232",
   "kind": "movie",
   "orig": "The Pink Panther 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -4453,27 +4125,25 @@
   "imdb": "tt0383216",
   "kind": "movie",
   "orig": "The Pink Panther",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
  "rtl hirado esti kiadas|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "rubens lany|2019": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "sabrina|1995": {
   "imdb": "tt0114319",
   "kind": "movie",
   "orig": "Sabrina",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -4481,8 +4151,7 @@
   "imdb": "tt1178480",
   "kind": "movie",
   "orig": "Saját halál",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -4490,8 +4159,7 @@
   "imdb": "tt0089421",
   "kind": "movie",
   "orig": "King Solomon's Mines",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1985
  },
@@ -4499,26 +4167,23 @@
   "imdb": "tt0106770",
   "kind": "movie",
   "orig": "Dragon: The Bruce Lee Story",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1993
  },
  "sarkanypecset rejtelye|2018": {
   "imdb": "tt6218010",
   "kind": "movie",
-  "orig": "Tayna pechati drakona",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Тайна печати Дракона",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
  "sas es a sarkany|2015": {
   "imdb": "tt3672840",
   "kind": "movie",
-  "orig": "Tian jiang xiong shi",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "天將雄師",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -4526,8 +4191,7 @@
   "imdb": "tt3899796",
   "kind": "movie",
   "orig": "Sharknado 3: Oh Hell No!",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -4535,8 +4199,7 @@
   "imdb": "tt10151854",
   "kind": "movie",
   "orig": "Shazam! Fury of the Gods",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -4544,8 +4207,7 @@
   "imdb": "tt0114432",
   "kind": "movie",
   "orig": "The Shooter",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -4553,8 +4215,7 @@
   "imdb": "tt5052474",
   "kind": "movie",
   "orig": "Sicario: Day of the Soldado",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -4562,23 +4223,21 @@
   "imdb": "tt0365907",
   "kind": "movie",
   "orig": "A Walk Among the Tombstones",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
  "skiptrace a zuros paros|2015": {
   "imdb": "tt2238032",
   "kind": "movie",
-  "orig": "Jue di tao wang",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Skiptrace",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
  "snetberger tanitvanyok|2016": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "sniff es a tolvajbanda|2008": {
@@ -4586,7 +4245,7 @@
   "kind": "movie",
   "orig": "Snuf de hond en de IJsvogel",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -4594,8 +4253,7 @@
   "imdb": "tt6306064",
   "kind": "movie",
   "orig": "Adrift",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -4603,8 +4261,7 @@
   "imdb": "tt8385148",
   "kind": "movie",
   "orig": "Hitman's Wife's Bodyguard",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -4612,27 +4269,25 @@
   "imdb": "tt1959563",
   "kind": "movie",
   "orig": "The Hitman's Bodyguard",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
  "solum sziget|2019": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "sose halunk meg|1986": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "sotet mult|2022": {
   "imdb": "tt14060094",
   "kind": "movie",
   "orig": "Blacklight",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -4640,8 +4295,7 @@
   "imdb": "tt0117705",
   "kind": "movie",
   "orig": "Space Jam",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -4649,27 +4303,25 @@
   "imdb": "tt6317762",
   "kind": "movie",
   "orig": "Space Oddity",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2022
+  "y": 2023
  },
  "spartacus 1|2004": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "spartacus 2|2004": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "spartai|2004": {
   "imdb": "tt0360009",
   "kind": "movie",
   "orig": "Spartan",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
  },
@@ -4677,8 +4329,7 @@
   "imdb": "tt0111255",
   "kind": "movie",
   "orig": "The Specialist",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1994
  },
@@ -4686,8 +4337,7 @@
   "imdb": "tt0102095",
   "kind": "movie",
   "orig": "If Looks Could Kill",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -4695,8 +4345,7 @@
   "imdb": "tt2660888",
   "kind": "movie",
   "orig": "Star Trek Beyond",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -4704,8 +4353,7 @@
   "imdb": "tt0462590",
   "kind": "movie",
   "orig": "Step Up",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -4714,7 +4362,7 @@
   "kind": "movie",
   "orig": "Step Up 2 the Streets",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -4722,8 +4370,7 @@
   "imdb": "tt14439896",
   "kind": "movie",
   "orig": "Father Stu",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -4731,8 +4378,7 @@
   "imdb": "tt0302886",
   "kind": "movie",
   "orig": "Old School",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -4740,8 +4386,7 @@
   "imdb": "tt3263904",
   "kind": "movie",
   "orig": "Sully",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -4749,8 +4394,7 @@
   "imdb": "tt1346315",
   "kind": "movie",
   "orig": "Sunny et l'éléphant",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -4758,8 +4402,7 @@
   "imdb": "tt0248640",
   "kind": "movie",
   "orig": "Hard Cash",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -4767,8 +4410,7 @@
   "imdb": "tt0137226",
   "kind": "movie",
   "orig": "Szaffi",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1985
  },
@@ -4776,8 +4418,7 @@
   "imdb": "tt0388482",
   "kind": "movie",
   "orig": "Transporter 2",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -4785,8 +4426,7 @@
   "imdb": "tt0293662",
   "kind": "movie",
   "orig": "The Transporter",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
  },
@@ -4794,8 +4434,7 @@
   "imdb": "tt5500218",
   "kind": "movie",
   "orig": "Samaritan",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -4803,8 +4442,7 @@
   "imdb": "tt0117809",
   "kind": "movie",
   "orig": "Szamba",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -4812,17 +4450,15 @@
   "imdb": "tt0094091",
   "kind": "movie",
   "orig": "Szeleburdi vakáció",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1987
  },
  "szelhamosno|1963": {
   "imdb": "tt0356106",
   "kind": "movie",
-  "orig": "A szélhámosnö",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "A szélhámosnő",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1963
  },
@@ -4830,8 +4466,7 @@
   "imdb": "tt0097428",
   "kind": "movie",
   "orig": "Ghostbusters II",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1989
  },
@@ -4839,8 +4474,7 @@
   "imdb": "tt0259324",
   "kind": "movie",
   "orig": "Ghost Rider",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -4848,8 +4482,7 @@
   "imdb": "tt4712810",
   "kind": "movie",
   "orig": "Now You See Me: Now You Don't",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -4858,7 +4491,7 @@
   "kind": "movie",
   "orig": "Szemünk fénye",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -4866,8 +4499,7 @@
   "imdb": "tt6682438",
   "kind": "movie",
   "orig": "Szép csendben",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -4875,8 +4507,7 @@
   "imdb": "tt0117247",
   "kind": "movie",
   "orig": "One Fine Day",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -4884,8 +4515,7 @@
   "imdb": "tt0475330",
   "kind": "movie",
   "orig": "Love and Mary",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -4893,26 +4523,23 @@
   "imdb": "tt14149826",
   "kind": "movie",
   "orig": "Love's Sweet Recipe",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
  "szerelemre hangszerelve|2013": {
   "imdb": "tt1980929",
   "kind": "movie",
-  "orig": "Can a Song Save Your Life?",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Begin Again",
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2013
+  "y": 2014
  },
  "szerelem|1971": {
   "imdb": "tt0067814",
   "kind": "movie",
   "orig": "Szerelem",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1971
  },
@@ -4920,8 +4547,7 @@
   "imdb": "tt1327194",
   "kind": "movie",
   "orig": "The Lucky One",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2012
  },
@@ -4929,8 +4555,7 @@
   "imdb": "tt30795948",
   "kind": "movie",
   "orig": "Un p'tit truc en plus",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
  },
@@ -4938,8 +4563,7 @@
   "imdb": "tt1956620",
   "kind": "movie",
   "orig": "Sex Tape",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -4947,8 +4571,7 @@
   "imdb": "tt0970411",
   "kind": "movie",
   "orig": "City of Ember",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -4956,8 +4579,7 @@
   "imdb": "tt1598822",
   "kind": "movie",
   "orig": "New Year's Eve",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -4965,8 +4587,7 @@
   "imdb": "tt0878804",
   "kind": "movie",
   "orig": "The Blind Side",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2009
  },
@@ -4974,8 +4595,7 @@
   "imdb": "tt0125022",
   "kind": "movie",
   "orig": "Heartbreakers",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2001
  },
@@ -4984,7 +4604,7 @@
   "kind": "movie",
   "orig": "U.S. Marshals",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -4992,31 +4612,29 @@
   "imdb": "tt3181822",
   "kind": "movie",
   "orig": "The Boy Next Door",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
  "szorakozott|1970": {
   "imdb": "tt0072884",
   "kind": "movie",
-  "orig": "Le distrait",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Le Distrait",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1970
  },
  "szorny nincs kiut|2012": {
   "imdb": null,
-  "src": "index",
+  "kind": "tv",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "sztalin halala|2017": {
   "imdb": "tt4686844",
   "kind": "movie",
   "orig": "The Death of Stalin",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -5024,22 +4642,23 @@
   "imdb": "tt0125439",
   "kind": "movie",
   "orig": "Notting Hill",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1999
  },
  "szuperapu|2024": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt33022555",
+  "kind": "movie",
+  "orig": "Super Papa",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2024
  },
  "szupercella 2 hades|2018": {
   "imdb": "tt6513656",
   "kind": "movie",
   "orig": "Escape Plan 2: Hades",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -5047,8 +4666,7 @@
   "imdb": "tt0114697",
   "kind": "movie",
   "orig": "Top Dog",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
@@ -5056,8 +4674,7 @@
   "imdb": "tt1981107",
   "kind": "movie",
   "orig": "The Young and Prodigious T.S. Spivet",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2013
  },
@@ -5065,8 +4682,7 @@
   "imdb": "tt0804540",
   "kind": "movie",
   "orig": "Taxi 4",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -5074,31 +4690,28 @@
   "imdb": "tt4645330",
   "kind": "movie",
   "orig": "Denial",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
  "talpig zurben 3|1995": {
   "imdb": "tt0114188",
   "kind": "movie",
-  "orig": "Problem Child 3: Junior in Love",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Problem Child 3",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1995
  },
  "tamad a hold|2012": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "tancolo talpak 2|2011": {
   "imdb": "tt1402488",
   "kind": "movie",
   "orig": "Happy Feet Two",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -5106,8 +4719,7 @@
   "imdb": "tt0098439",
   "kind": "movie",
   "orig": "Tango & Cash",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1989
  },
@@ -5116,7 +4728,7 @@
   "kind": "movie",
   "orig": "A tanú",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1969
  },
@@ -5124,8 +4736,7 @@
   "imdb": "tt0307987",
   "kind": "movie",
   "orig": "Bad Santa",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -5133,8 +4744,7 @@
   "imdb": "tt13929998",
   "kind": "movie",
   "orig": "On a Wing and a Prayer",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -5142,27 +4752,28 @@
   "imdb": "tt0295721",
   "kind": "movie",
   "orig": "Taxi 3",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
  "teleshop|2026": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "tengereszgyalogos 6 kozelharc|2018": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt7668724",
+  "kind": "movie",
+  "orig": "The Marine 6: Close Quarters",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2018
  },
  "tengereszgyalogos|2006": {
   "imdb": "tt0419946",
   "kind": "movie",
   "orig": "The Marine",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -5170,8 +4781,7 @@
   "imdb": "tt13429928",
   "kind": "movie",
   "orig": "Operation Seawolf",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -5179,8 +4789,7 @@
   "imdb": "tt1231583",
   "kind": "movie",
   "orig": "Due Date",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -5188,8 +4797,7 @@
   "imdb": "tt0206420",
   "kind": "movie",
   "orig": "Woman on Top",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2000
  },
@@ -5197,22 +4805,20 @@
   "imdb": "tt0181852",
   "kind": "movie",
   "orig": "Terminator 3: Rise of the Machines",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
  "terror ot napja|2022": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "tetovalt lany|2011": {
   "imdb": "tt1568346",
   "kind": "movie",
   "orig": "The Girl with the Dragon Tattoo",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -5221,7 +4827,7 @@
   "kind": "movie",
   "orig": "The Tiger Rising",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -5229,8 +4835,7 @@
   "imdb": "tt1291150",
   "kind": "movie",
   "orig": "Teenage Mutant Ninja Turtles",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -5238,8 +4843,7 @@
   "imdb": "tt0494238",
   "kind": "movie",
   "orig": "Inkheart",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -5247,8 +4851,7 @@
   "imdb": "tt0896798",
   "kind": "movie",
   "orig": "Cleaner",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -5256,8 +4859,7 @@
   "imdb": "tt0455596",
   "kind": "movie",
   "orig": "The Librarian: Return to King Solomon's Mines",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
@@ -5266,7 +4868,7 @@
   "kind": "movie",
   "orig": "Tíz perc múlva három",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -5274,8 +4876,7 @@
   "imdb": "tt0840361",
   "kind": "movie",
   "orig": "The Town",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -5284,16 +4885,15 @@
   "kind": "movie",
   "orig": "Without Remorse",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2021
  },
  "tomurisz a sztyeppe kiralynoje|2019": {
   "imdb": "tt7985648",
   "kind": "movie",
-  "orig": "Tomiris",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Томирис",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -5301,8 +4901,7 @@
   "imdb": "tt2126355",
   "kind": "movie",
   "orig": "San Andreas",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2015
  },
@@ -5310,8 +4909,7 @@
   "imdb": "tt0488120",
   "kind": "movie",
   "orig": "Fracture",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
  },
@@ -5320,7 +4918,7 @@
   "kind": "movie",
   "orig": "Torrente 4: Lethal Crisis",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -5328,26 +4926,21 @@
   "imdb": "tt1399103",
   "kind": "movie",
   "orig": "Transformers: Dark of the Moon",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
  "transporter a szallito orokseg|2015": {
-  "imdb": "tt2938956",
-  "kind": "movie",
-  "orig": "The Transporter Refueled",
-  "src": "index",
-  "tmdb_tried": false,
-  "ts": "2026-10-22",
-  "y": 2015
+  "imdb": null,
+  "kind": "tv",
+  "src": "tmdb",
+  "ts": "2026-10-22"
  },
  "trollok a vilag korul|2020": {
   "imdb": "tt6587640",
   "kind": "movie",
   "orig": "Trolls World Tour",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -5355,8 +4948,7 @@
   "imdb": "tt0942385",
   "kind": "movie",
   "orig": "Tropic Thunder",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -5364,8 +4956,7 @@
   "imdb": "tt0089118",
   "kind": "movie",
   "orig": "F/X",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1986
  },
@@ -5373,8 +4964,7 @@
   "imdb": "tt6511932",
   "kind": "movie",
   "orig": "The Beach Bum",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -5382,22 +4972,23 @@
   "imdb": "tt5052448",
   "kind": "movie",
   "orig": "Get Out",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
  "turelem|2007": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt0830981",
+  "kind": "movie",
+  "orig": "Türelem",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2007
  },
  "tuti terv|2003": {
   "imdb": "tt0356614",
   "kind": "movie",
   "orig": "Foolproof",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
  },
@@ -5405,8 +4996,7 @@
   "imdb": "tt0120461",
   "kind": "movie",
   "orig": "Volcano",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1997
  },
@@ -5414,8 +5004,7 @@
   "imdb": "tt1464335",
   "kind": "movie",
   "orig": "Uncharted",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
@@ -5423,8 +5012,7 @@
   "imdb": "tt2837574",
   "kind": "movie",
   "orig": "The Old Man & the Gun",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -5432,17 +5020,15 @@
   "imdb": "tt8367814",
   "kind": "movie",
   "orig": "The Gentlemen",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2019
+  "y": 2020
  },
  "ut a szabadsagba|2010": {
   "imdb": "tt1023114",
   "kind": "movie",
   "orig": "The Way Back",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -5450,17 +5036,15 @@
   "imdb": "tt0116908",
   "kind": "movie",
   "orig": "The Long Kiss Goodnight",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
  "utazasbol buko|2025": {
   "imdb": "tt33610694",
   "kind": "movie",
-  "orig": "Le routard",
-  "src": "index",
-  "tmdb_tried": false,
+  "orig": "Le Routard",
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
  },
@@ -5468,8 +5052,7 @@
   "imdb": "tt0107362",
   "kind": "movie",
   "orig": "Last Action Hero",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1993
  },
@@ -5477,8 +5060,7 @@
   "imdb": "tt4738360",
   "kind": "movie",
   "orig": "Birkebeinerne",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -5487,7 +5069,7 @@
   "kind": "movie",
   "orig": "Az utolsó vacsora",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1962
  },
@@ -5495,8 +5077,7 @@
   "imdb": "tt0061146",
   "kind": "movie",
   "orig": "Utószezon",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1967
  },
@@ -5504,31 +5085,28 @@
   "imdb": "tt2381991",
   "kind": "movie",
   "orig": "The Huntsman: Winter's War",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
  "vadlovak|2021": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "vadmacska|2024": {
-  "imdb": "tt26442871",
+  "imdb": "tt36153493",
   "kind": "movie",
   "orig": "Wildcat",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
-  "y": 2023
+  "y": 2025
  },
  "vadocka|2008": {
   "imdb": "tt1024255",
   "kind": "movie",
   "orig": "Wild Child",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
  },
@@ -5537,7 +5115,7 @@
   "kind": "movie",
   "orig": "Vadonvilág - Gróf Széchenyi Zsigmond nyomában",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -5545,8 +5123,7 @@
   "imdb": "tt0983946",
   "kind": "movie",
   "orig": "Fantasy Island",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -5554,8 +5131,7 @@
   "imdb": "tt1448755",
   "kind": "movie",
   "orig": "Killer Elite",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
  },
@@ -5563,8 +5139,7 @@
   "imdb": "tt17024450",
   "kind": "movie",
   "orig": "The Equalizer 3",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -5572,8 +5147,7 @@
   "imdb": "tt0455944",
   "kind": "movie",
   "orig": "The Equalizer",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2014
  },
@@ -5581,8 +5155,7 @@
   "imdb": "tt6079772",
   "kind": "movie",
   "orig": "The Protégé",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -5590,8 +5163,7 @@
   "imdb": "tt4463816",
   "kind": "movie",
   "orig": "Terminal",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -5599,8 +5171,7 @@
   "imdb": "tt0116213",
   "kind": "movie",
   "orig": "Eraser",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
  },
@@ -5609,7 +5180,7 @@
   "kind": "movie",
   "orig": "Végkiárusitás",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1979
  },
@@ -5617,8 +5188,7 @@
   "imdb": "tt9844522",
   "kind": "movie",
   "orig": "Escape Room: Tournament of Champions",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -5626,8 +5196,7 @@
   "imdb": "tt5886046",
   "kind": "movie",
   "orig": "Escape Room",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -5635,22 +5204,23 @@
   "imdb": "tt14060232",
   "kind": "movie",
   "orig": "Infinite Storm",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2022
  },
  "vegtelenben ketto|2020": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt13225598",
+  "kind": "movie",
+  "orig": "Végtelenben kettő",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2020
  },
  "vegzetes vagyakozas|2017": {
   "imdb": "tt3481634",
   "kind": "movie",
   "orig": "Inconceivable",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -5658,22 +5228,20 @@
   "imdb": "tt0450259",
   "kind": "movie",
   "orig": "Blood Diamond",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2006
  },
  "verfarkasok ejszakaja|2024": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "veri az ordog a feleseget|1977": {
   "imdb": "tt0076874",
   "kind": "movie",
   "orig": "Veri az ördög a feleségét",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1977
  },
@@ -5681,8 +5249,7 @@
   "imdb": "tt0110997",
   "kind": "movie",
   "orig": "The River Wild",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1994
  },
@@ -5690,8 +5257,7 @@
   "imdb": "tt6476140",
   "kind": "movie",
   "orig": "Serenity",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2019
  },
@@ -5699,8 +5265,7 @@
   "imdb": "tt7679754",
   "kind": "movie",
   "orig": "Virágvölgy",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2018
  },
@@ -5708,8 +5273,7 @@
   "imdb": "tt0102782",
   "kind": "movie",
   "orig": "Return to the Blue Lagoon",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1991
  },
@@ -5717,22 +5281,23 @@
   "imdb": "tt0124595",
   "kind": "movie",
   "orig": "Return to Paradise",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
  "vitez egyes|2025": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt21442114",
+  "kind": "movie",
+  "orig": "Valiant One",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2025
  },
  "volt egyszer egy kepregeny|2021": {
   "imdb": "tt14461720",
   "kind": "movie",
   "orig": "Volt egyszer egy képregény",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2021
  },
@@ -5740,8 +5305,7 @@
   "imdb": "tt0087985",
   "kind": "movie",
   "orig": "Red Dawn",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1984
  },
@@ -5749,8 +5313,7 @@
   "imdb": "tt0089893",
   "kind": "movie",
   "orig": "Red Sonja",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1985
  },
@@ -5759,7 +5322,7 @@
   "kind": "movie",
   "orig": "Vuk",
   "src": "index",
-  "tmdb_tried": false,
+  "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1981
  },
@@ -5767,8 +5330,7 @@
   "imdb": "tt7126948",
   "kind": "movie",
   "orig": "Wonder Woman 1984",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
  },
@@ -5776,8 +5338,7 @@
   "imdb": "tt6166392",
   "kind": "movie",
   "orig": "Wonka",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
  },
@@ -5785,8 +5346,7 @@
   "imdb": "tt1293847",
   "kind": "movie",
   "orig": "xXx: Return of Xander Cage",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2017
  },
@@ -5794,22 +5354,20 @@
   "imdb": "tt0329774",
   "kind": "movie",
   "orig": "xXx: State of the Union",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
  "yes|2014": {
   "imdb": null,
-  "src": "index",
+  "src": "tmdb",
   "ts": "2026-10-22"
  },
  "zathura az urfogocska|2005": {
   "imdb": "tt0406375",
   "kind": "movie",
   "orig": "Zathura: A Space Adventure",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -5817,8 +5375,7 @@
   "imdb": "tt1320291",
   "kind": "movie",
   "orig": "The Reef",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -5826,8 +5383,7 @@
   "imdb": "tt4052882",
   "kind": "movie",
   "orig": "The Shallows",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  },
@@ -5835,8 +5391,7 @@
   "imdb": "tt1699511",
   "kind": "movie",
   "orig": "Zimmer Feri 2.",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
@@ -5844,22 +5399,23 @@
   "imdb": "tt0947810",
   "kind": "movie",
   "orig": "Green Zone",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
  },
  "zoom in|2024": {
-  "imdb": null,
-  "src": "index",
-  "ts": "2026-10-22"
+  "imdb": "tt15079412",
+  "kind": "movie",
+  "orig": "Zoom In",
+  "src": "tmdb",
+  "ts": "2026-10-22",
+  "y": 2024
  },
  "zorro alarca|1998": {
   "imdb": "tt0120746",
   "kind": "movie",
   "orig": "The Mask of Zorro",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1998
  },
@@ -5867,8 +5423,7 @@
   "imdb": "tt0386140",
   "kind": "movie",
   "orig": "The Legend of Zorro",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
  },
@@ -5876,8 +5431,7 @@
   "imdb": "tt3903852",
   "kind": "movie",
   "orig": "Vigilante Diaries",
-  "src": "index",
-  "tmdb_tried": false,
+  "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2016
  }
