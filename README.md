@@ -29,7 +29,18 @@ Párosítás sorrendje: `config/manual_matches.json` → `cache/matches.json` �
 
 Szabályok: „jó” = IMDb ≥ 7,0 legalább 500 szavazattal (a kevés szavazatú pont zajos). „Ezt se hagyd ki” = kizárt csatorna, IMDb ≥ 7,5 vagy watchlist.
 
-## GitHub-beállítás (egyszer)
+## Jelenlegi üzem: saját gép + Cloudflare Pages
+
+- Cím: **https://esti-film.pages.dev/** (a saját Cloudflare-fiókon, `esti-film` Pages-projekt).
+- A Windows ütemezett feladata (**„Esti film”**) naponta 14:00-kor és 19:00-kor futtatja a `run.bat`-ot, ablak nélkül. Ha a gép ki volt kapcsolva, bekapcsolás után pótolja a futást.
+- `run.bat` = címindex (havonta) → `build.py` → `wrangler pages deploy`. Napló: `logs/run.log`. Kézzel is indítható dupla kattintással.
+- Ha lejár a Cloudflare-belépés (a naplóban `DEPLOY HIBA`): `login.bat` dupla kattintással, majd a böngészőben „Allow”.
+
+## Alternatíva: GitHub Actions (gép nélkül)
+
+A `.github/workflows/build.yml` kész, de jelenleg nincs használatban. Gép nélküli futáshoz kell egy GitHub-fiók; a kitétel GitHub Pagesre megy (ingyen csak publikus repóval), vagy át lehet írni Cloudflare Pagesre (`CLOUDFLARE_API_TOKEN` secret), és akkor a repó maradhat privát.
+
+### GitHub-beállítás (egyszer)
 
 1. Új repó a GitHubon (Pageshez ingyenes fióknál **publikus** kell; a watchlist/ratings CSV is látszik majd benne).
 2. `git remote add origin https://github.com/<fiók>/esti-film.git` és `git push -u origin main`

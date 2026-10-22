@@ -5,3 +5,5 @@ cache/schedule/
 __pycache__/
 *.tmp
 *.part
+node_modules/
+logs/
