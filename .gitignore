@@ -7,3 +7,4 @@ __pycache__/
 *.part
 node_modules/
 logs/
+config/tmdb_key.txt
