@@ -77,6 +77,25 @@ def fetch_schedules(channels, today, offline, log):
         limit = 1800 if d == today else 6 * 3600 if d == today + timedelta(days=1) else 20 * 3600
         return age > limit
 
+    # ESTI_FORRAS=port: a port.hu az elsődleges (a musor.tv 403-mal tiltja a GitHub szervereit);
+    # naponta egy kérés az összes csatornára, a port.hu-n nem szereplők mennek a musor.tv-ről
+    if os.environ.get("ESTI_FORRAS") == "port" and not offline:
+        for i in range(WEEK_DAYS):
+            d = today + timedelta(days=i)
+            need = [ch for ch, dd in plan if dd == d and ch.get("port") and stale(ch, d)]
+            if not need:
+                continue
+            try:
+                got = porthu.day([ch["port"] for ch in need], d)
+            except Exception as e:
+                log(f"  port.hu {d:%m.%d} HIBA: {e}")
+                continue
+            for ch in need:
+                evs = got.get(ch["port"], [])
+                if evs:
+                    save_json(cpath(ch, d), {"fetched": time.time(), "src": "port.hu", "events": evs})
+            log(f"  port.hu {d:%m.%d}: {sum(1 for ch in need if got.get(ch['port']))}/{len(need)} csatorna")
+
     failed = []
     streak = 0  # egymás utáni hibák: 5 után a musor.tv-t erre a futásra feladjuk
     for ch, d in plan:

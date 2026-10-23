@@ -1,9 +1,12 @@
 """port.hu tartalék: ugyanaz a JSON, amit a port.hu/tv oldal JavaScriptje kér le."""
 import json
+import re
 import urllib.parse
 from datetime import datetime
 
 from musortv import BUD, fetch
+
+KID_DESC = re.compile(r"animációs|családi|mese|rajzfilm|bábfilm", re.I)
 
 
 def day(port_ids, d):
@@ -22,6 +25,8 @@ def day(port_ids, d):
                 url = p.get("film_url") or ""
                 if "/sorozat/" in url or cat == "filmsorozat":
                     desc = (desc + " sorozat").strip()
+                elif "gyermek" in cat and not KID_DESC.search(desc):
+                    desc = ("mese " + desc).strip()
                 evs.append({
                     "start": start.isoformat(),
                     "title": p.get("title", "").strip(),
