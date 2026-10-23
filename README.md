@@ -33,16 +33,15 @@ Szabályok: „jó” = IMDb ≥ 7,0 legalább 500 szavazattal (a kevés szavaza
 
 Cím: **https://esti-film.pages.dev/** (saját Cloudflare-fiók, `esti-film` Pages-projekt). Az oldal mind a 7 nap estéjét tartalmazza, a telefon dátuma szerint mutatja a mait.
 
-### Gép nélkül: GitHub Actions → Cloudflare Pages (privát repó)
+### Gép nélkül: GitHub Actions → GitHub Pages (fő üzem)
 
-`.github/workflows/build.yml`: naponta 07:00, 14:00, 19:00 (Budapest; a 6 UTC-cronból a „gate” job az aktuális időszámításnak megfelelőt engedi), plusz kézi indítás. Lépései: címindex (havonta) → `build.py` → `wrangler pages deploy` → `cache/matches.json` visszaírása a repóba.
+Cím: **https://jateknaplo.github.io/esti-film/** (a régi esti-film.pages.dev ide irányít át).
 
-Beállítás egyszer:
-1. Privát repó `esti-film` néven, a helyi repó feltöltése (`git push -u origin main`).
-2. Settings → Secrets and variables → Actions → két secret:
-   - `TMDB_API_KEY` – a `config/tmdb_key.txt` tartalma,
-   - `CLOUDFLARE_API_TOKEN` – Cloudflare → My Profile → API Tokens → Create Token → Custom: *Account / Cloudflare Pages / Edit*.
-3. Actions → Esti film → Run workflow; ha zöld, a helyi ütemezett feladatok kikapcsolhatók.
+`.github/workflows/build.yml`: naponta 07:00, 14:00, 19:00 (Budapest; a 6 UTC-cronból a „gate” job az aktuális időszámításnak megfelelőt engedi), plusz kézi indítás (Actions → Esti film → Run workflow). Lépései: címindex (havonta) → `build.py` → `cache/matches.json` visszaírása → GitHub Pages.
+
+- Forrás: a GitHub szervereit a musor.tv 403-mal tiltja, ezért ott a port.hu az elsődleges (`ESTI_FORRAS=port`); a Canal+ Action nincs a port.hu-n.
+- A repó publikus, a watchlist nincs benne: a `WATCHLIST_IDS` titkos változó a tt-azonosítókat tartalmazza. Frissítés: új CSV a `data/` mappába, majd `python scripts/set_secrets.py`.
+- Titkos változók: `TMDB_API_KEY`, `WATCHLIST_IDS`.
 
 ### Saját gépről (tartalék)
 

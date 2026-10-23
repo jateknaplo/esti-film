@@ -16,6 +16,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: esti-film
@@ -46,16 +48,15 @@ jobs:
     if: needs.gate.outputs.run == 'yes'
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "22"
 
       # a napi műsoroldalak cache-e (nem kerül a repóba)
       - uses: actions/cache@v4
@@ -71,15 +72,8 @@ jobs:
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           ESTI_FORRAS: port
+          WATCHLIST_IDS: ${{ secrets.WATCHLIST_IDS }}
         run: python scripts/build.py
-
-      - name: Kitétel a Cloudflare Pagesre
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: be80fd4e0b9462ed287430a87b1fbeaf
-        run: |
-          npm ci --no-audit --no-fund
-          npx wrangler pages deploy site --project-name esti-film --branch main --commit-dirty=true
 
       - name: Párosítások mentése a repóba
         run: |
@@ -92,3 +86,10 @@ jobs:
             git commit -m "Párosítások frissítése [skip ci]"
             git pull --rebase && git push
           fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
