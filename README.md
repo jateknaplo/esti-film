@@ -29,27 +29,26 @@ Párosítás sorrendje: `config/manual_matches.json` → `cache/matches.json` �
 
 Szabályok: „jó” = IMDb ≥ 7,0 legalább 500 szavazattal (a kevés szavazatú pont zajos). „Ezt se hagyd ki” = kizárt csatorna, IMDb ≥ 7,5 vagy watchlist.
 
-## Jelenlegi üzem: saját gép + Cloudflare Pages
+## Üzem
 
-- Cím: **https://esti-film.pages.dev/** (a saját Cloudflare-fiókon, `esti-film` Pages-projekt).
-- A Windows ütemezett feladata (**„Esti film”**) naponta 14:00-kor és 19:00-kor futtatja a `run.bat`-ot, ablak nélkül. Ha a gép ki volt kapcsolva, bekapcsolás után pótolja a futást.
-- `run.bat` = címindex (havonta) → `build.py` → `wrangler pages deploy`. Napló: `logs/run.log`. Kézzel is indítható dupla kattintással.
-- Ha lejár a Cloudflare-belépés (a naplóban `DEPLOY HIBA`): `login.bat` dupla kattintással, majd a böngészőben „Allow”.
+Cím: **https://esti-film.pages.dev/** (saját Cloudflare-fiók, `esti-film` Pages-projekt). Az oldal mind a 7 nap estéjét tartalmazza, a telefon dátuma szerint mutatja a mait.
 
-## Alternatíva: GitHub Actions (gép nélkül)
+### Gép nélkül: GitHub Actions → Cloudflare Pages (privát repó)
 
-A `.github/workflows/build.yml` kész, de jelenleg nincs használatban. Gép nélküli futáshoz kell egy GitHub-fiók; a kitétel GitHub Pagesre megy (ingyen csak publikus repóval), vagy át lehet írni Cloudflare Pagesre (`CLOUDFLARE_API_TOKEN` secret), és akkor a repó maradhat privát.
+`.github/workflows/build.yml`: naponta 07:00, 14:00, 19:00 (Budapest; a 6 UTC-cronból a „gate” job az aktuális időszámításnak megfelelőt engedi), plusz kézi indítás. Lépései: címindex (havonta) → `build.py` → `wrangler pages deploy` → `cache/matches.json` visszaírása a repóba.
 
-### GitHub-beállítás (egyszer)
+Beállítás egyszer:
+1. Privát repó `esti-film` néven, a helyi repó feltöltése (`git push -u origin main`).
+2. Settings → Secrets and variables → Actions → két secret:
+   - `TMDB_API_KEY` – a `config/tmdb_key.txt` tartalma,
+   - `CLOUDFLARE_API_TOKEN` – Cloudflare → My Profile → API Tokens → Create Token → Custom: *Account / Cloudflare Pages / Edit*.
+3. Actions → Esti film → Run workflow; ha zöld, a helyi ütemezett feladatok kikapcsolhatók.
 
-1. Új repó a GitHubon (Pageshez ingyenes fióknál **publikus** kell; a watchlist/ratings CSV is látszik majd benne).
-2. `git remote add origin https://github.com/<fiók>/esti-film.git` és `git push -u origin main`
-3. Settings → Pages → Source: **GitHub Actions**.
-4. Settings → Secrets and variables → Actions → New repository secret: `TMDB_API_KEY` (themoviedb.org → Settings → API; v3 kulcs vagy v4 „Read Access Token” is jó).
-5. Actions → Esti film → Run workflow. Az oldal címe: `https://<fiók>.github.io/esti-film/`
-6. iPhone Safari → Megosztás → Főképernyőhöz adás.
+### Saját gépről (tartalék)
 
-Futás: naponta 14:00 és 19:00 (Budapest) – a workflow mind a négy UTC-időpontot elindítja, és csak az aktuális időszámításnak megfelelő fut tovább.
+- „Esti film” ütemezett feladat: 07:00, 14:00, 19:00; „Esti film (pótlás)”: bejelentkezéskor/feloldáskor, ha az oldal 3 óránál régebbi.
+- `run.bat` = címindex → `build.py` → `wrangler pages deploy`. Napló: `logs/run.log`. Kézzel is indítható.
+- Ha lejár a Cloudflare-belépés (a naplóban `DEPLOY HIBA`): `login.bat`, majd a böngészőben „Allow”.
 
 ## Helyi futtatás
 
