@@ -390,6 +390,9 @@ def main():
         ratings = {}
         errors.append({"ch": "IMDb", "day": today.isoformat(), "msg": f"pontszámfájl nem tölthető le: {e}"})
     watch = load_consts(P("data", "watchlist.csv"))
+    if watch is None and os.environ.get("WATCHLIST_IDS"):
+        # GitHubon: a watchlist nincs a (publikus) repóban, csak az azonosítók egy titkos változóban
+        watch = set(re.findall(r"tt\d+", os.environ["WATCHLIST_IDS"]))
     seen = load_consts(P("data", "ratings.csv")) or set()
     blocked = blocked_fn(load_json(P("config", "felvetel_tiltott.json"), {}))
 
