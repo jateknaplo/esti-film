@@ -1,6 +1,5 @@
 @echo off
-rem Esti film: musor letoltese, oldal generalasa, kitetel a Cloudflare Pagesre.
-rem Az utemezett feladat (14:00, 19:00) ezt futtatja; kezzel is indithato dupla kattintassal.
+rem Esti film: helyi probaepites (site\index.html). Az eles oldalt a GitHub Actions frissiti.
 chcp 65001 >nul
 cd /d "%~dp0"
 if not exist logs mkdir logs
@@ -18,9 +17,5 @@ if errorlevel 1 (
   echo BUILD HIBA >> logs\run.log
   exit /b 1
 )
-call "C:\Program Files\nodejs\npx.cmd" wrangler pages deploy site --project-name esti-film --branch main --commit-dirty=true >> logs\run.log 2>&1
-if errorlevel 1 (
-  echo DEPLOY HIBA >> logs\run.log
-  exit /b 1
-)
+rem Kiteves: mar a GitHub Actions vegzi (jateknaplo.github.io/esti-film); ez csak helyi epites.
 echo OK >> logs\run.log
