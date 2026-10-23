@@ -72,8 +72,8 @@ def between(f, d, a, b):
     return s.date() == d and a <= s.time() < b
 
 
-def tonight(ctx):
-    d, films = ctx["today"], ctx["films"]
+def tonight(ctx, d):
+    films = ctx["films"]
     fo = [f for f in films if f["group"] == "fo"]
     main = sorted([f for f in fo if between(f, d, time(20, 30), time(21, 30, 1))], key=by_score)
     ids = {id(f) for f in main}
@@ -102,6 +102,13 @@ def tonight(ctx):
     return "\n".join(out)
 
 
+def evenings(ctx):
+    """Mind a 7 nap estéje előre legenerálva; a JS a telefon dátuma szerint a mait mutatja."""
+    return "\n".join(
+        f'<div class="eve" data-d="{d.isoformat()}"{"" if i == 0 else " hidden"}>{tonight(ctx, d)}</div>'
+        for i, d in enumerate(ctx["today"] + timedelta(days=k) for k in range(7)))
+
+
 def week(ctx):
     now = ctx["now"]
     films = [f for f in ctx["films"] if f["group"] in ("fo", "proba") and f["start"] >= now - timedelta(minutes=10)]
@@ -128,7 +135,7 @@ def week(ctx):
         out.append('<p class="note">Nincs <code>data/ratings.csv</code>, ezért a „nem láttam” most minden ≥ 7,0-s filmet jelent.</p>')
     for d in sorted(days):
         lst = sorted(days[d], key=lambda r: (not r[1], r[3][0]["rating"] is None, -(r[3][0]["rating"] or 0)))
-        out.append(f'<h2>{NAPOK[d.weekday()].capitalize()}, {HONAP[d.month - 1]} {d.day}.</h2>')
+        out.append(f'<div class="wday" data-d="{d.isoformat()}"><h2>{NAPOK[d.weekday()].capitalize()}, {HONAP[d.month - 1]} {d.day}.</h2>')
         out.append('<table class="grid week"><thead><tr><th>Film</th><th>IMDb</th><th>WL</th><th>Vetítések</th></tr></thead><tbody>')
         for _, is_new, kid, shows in lst:
             f = shows[0]
@@ -140,7 +147,7 @@ def week(ctx):
                 + f'{NAP3[s["start"].weekday()]} {s["start"]:%H:%M} <b>{e(s["ch"])}</b></li>'
                 for s in shows)
             out.append(f'<tr class="{cls}">{film_cell(f, tags)}{score(f)}{wl(f)}<td class="shows"><ul>{sh}</ul></td></tr>')
-        out.append("</tbody></table>")
+        out.append("</tbody></table></div>")
     if not days:
         out.append('<p class="empty">A következő 7 napban nincs ajánlott film.</p>')
     return "\n".join(out)
@@ -209,6 +216,7 @@ details.errors.soft{background:var(--chip);color:var(--fg)}
 @media (prefers-color-scheme:dark){details.errors{background:#4a1f14;color:#ffd9cc}}
 details.errors ul{margin:4px 0;padding-left:18px}
 code{font-size:12px}
+.stale{margin:10px 4px 0;padding:6px 10px;border-radius:8px;background:var(--chip);color:var(--fg);font-size:12.5px}
 @media (max-width:420px){.grid td{padding:5px 4px}.ch{width:68px}}
 """
 
@@ -220,6 +228,14 @@ secs.forEach(function(s){s.classList.toggle('on',s.id===id)});try{localStorage.s
 tabs.forEach(function(b){b.onclick=function(){show(b.dataset.t);window.scrollTo(0,0)}});
 var t=null;try{t=localStorage.getItem('tab')}catch(e){}
 if(location.hash==='#het')t='het';show(t==='het'?'het':'ma');
+var b=document.body,today=new Date().toLocaleDateString('en-CA'),eves=document.querySelectorAll('.eve'),hit=null;
+eves.forEach(function(e){if(e.dataset.d===today)hit=e});
+if(hit){eves.forEach(function(e){e.hidden=e!==hit})}
+var st=document.getElementById('stale');
+if(b.dataset.built!==today){st.hidden=false;st.textContent=hit?
+'Az utolsó frissítés '+b.dataset.upd+' volt; a mai estét az akkor letöltött heti műsorból mutatom.':
+'Az adatok régiek (utolsó frissítés: '+b.dataset.upd+'), a mai estéről nincs műsor.'}
+document.querySelectorAll('.wday').forEach(function(w){if(w.dataset.d<today)w.hidden=true});
 var chips=document.querySelectorAll('.chips button');
 chips.forEach(function(c){c.onclick=function(){chips.forEach(function(x){x.classList.toggle('on',x===c)});
 document.querySelectorAll('table.week').forEach(function(tb){tb.classList.remove('f-uj','f-kid','f-wl');
@@ -248,13 +264,14 @@ def page(ctx):
 <link rel="icon" href="icon-192.png">
 <link rel="manifest" href="manifest.json">
 <style>{CSS}</style></head>
-<body>
+<body data-built="{now:%Y-%m-%d}" data-upd="{now:%m.%d. %H:%M}">
 <header><div class="top"><h1>🎬 Esti film</h1><span class="upd">{upd}</span></div>
 {errors_box(ctx)}
 <nav><button data-t="ma" class="on">Ma este</button><button data-t="het">Heti ajánló</button></nav></header>
 <main>
 <section id="ma" class="on">
-{tonight(ctx)}
+<p id="stale" class="stale" hidden></p>
+{evenings(ctx)}
 </section>
 <section id="het">
 {week(ctx)}

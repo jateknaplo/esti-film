@@ -64,8 +64,7 @@ def fetch_schedules(channels, today, offline, log):
     errors = []
     plan = []  # (csatorna, nap)
     for ch in channels:
-        days = 1 if ch["group"] == "kizart" else WEEK_DAYS
-        plan += [(ch, today + timedelta(days=i)) for i in range(days)]
+        plan += [(ch, today + timedelta(days=i)) for i in range(WEEK_DAYS)]
 
     def cpath(ch, d):
         return P("cache", "schedule", ch["kod"], f"{d:%Y-%m-%d}.json")
