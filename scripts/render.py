@@ -135,7 +135,13 @@ def week(ctx):
         out.append('<p class="note">Nincs <code>data/ratings.csv</code>, ezért a „nem láttam” most minden ≥ 7,0-s filmet jelent.</p>')
     for d in sorted(days):
         lst = sorted(days[d], key=lambda r: (not r[1], r[3][0]["rating"] is None, -(r[3][0]["rating"] or 0)))
-        out.append(f'<div class="wday" data-d="{d.isoformat()}"><h2>{NAPOK[d.weekday()].capitalize()}, {HONAP[d.month - 1]} {d.day}.</h2>')
+        n_uj, n_kid = sum(1 for r in lst if r[1]), sum(1 for r in lst if r[2])
+        n_wl = sum(1 for r in lst if r[3][0]["wl"])
+        cnt = " · ".join(x for x in (f"{len(lst)} film", f"⭐ {n_uj}" if n_uj else "",
+                                     f"🧸 {n_kid}" if n_kid else "", f"✅ {n_wl}" if n_wl else "") if x)
+        out.append(f'<details class="wday" data-d="{d.isoformat()}"><summary>'
+                   f'<span class="dn">{NAPOK[d.weekday()].capitalize()}, {HONAP[d.month - 1]} {d.day}.</span>'
+                   f'<span class="cnt" data-all="{e(cnt)}">{cnt}</span></summary>')
         out.append('<table class="grid week"><thead><tr><th>Film</th><th>IMDb</th><th>WL</th><th>Vetítések</th></tr></thead><tbody>')
         for _, is_new, kid, shows in lst:
             f = shows[0]
@@ -147,7 +153,7 @@ def week(ctx):
                 + f'{NAP3[s["start"].weekday()]} {s["start"]:%H:%M} <b>{e(s["ch"])}</b></li>'
                 for s in shows)
             out.append(f'<tr class="{cls}">{film_cell(f, tags)}{score(f)}{wl(f)}<td class="shows"><ul>{sh}</ul></td></tr>')
-        out.append("</tbody></table></div>")
+        out.append("</tbody></table></details>")
     if not days:
         out.append('<p class="empty">A következő 7 napban nincs ajánlott film.</p>')
     return "\n".join(out)
@@ -202,6 +208,15 @@ a.nolink{color:inherit;text-decoration:none;border-bottom:1px dotted var(--mut)}
 .warn{margin-right:3px;cursor:help}
 .empty,.note{color:var(--mut);font-size:13px;margin:6px 4px}
 .week tr.uj td{background:var(--hl)}
+details.wday{margin:8px 0;background:var(--card);border-radius:8px;overflow:hidden}
+details.wday summary{list-style:none;display:flex;align-items:center;gap:8px;min-height:48px;padding:8px 12px;cursor:pointer}
+details.wday summary::-webkit-details-marker{display:none}
+details.wday summary::before{content:"›";font-size:20px;color:var(--mut);transition:transform .15s;width:12px}
+details.wday[open] summary::before{transform:rotate(90deg)}
+details.wday .dn{font-weight:700;font-size:14.5px}
+details.wday .cnt{margin-left:auto;color:var(--mut);font-size:12.5px;white-space:nowrap}
+details.wday[open] summary{border-bottom:1px solid var(--line)}
+details.wday table.grid{border-radius:0}
 .tag{font-size:12px}
 .shows ul{list-style:none;margin:0;padding:0;font-size:12.5px;white-space:nowrap}
 .shows li.blk{color:var(--mut)}.shows b{font-weight:600}
@@ -238,10 +253,11 @@ if(b.dataset.built!==today){st.hidden=false;st.textContent=hit?
 document.querySelectorAll('.wday').forEach(function(w){if(w.dataset.d<today)w.hidden=true});
 var chips=document.querySelectorAll('.chips button');
 chips.forEach(function(c){c.onclick=function(){chips.forEach(function(x){x.classList.toggle('on',x===c)});
-document.querySelectorAll('table.week').forEach(function(tb){tb.classList.remove('f-uj','f-kid','f-wl');
-if(c.dataset.f!=='all')tb.classList.add('f-'+c.dataset.f);
-var vis=[].some.call(tb.tBodies[0].rows,function(r){return getComputedStyle(r).display!=='none'});
-tb.style.display=vis?'':'none';tb.previousElementSibling.style.display=vis?'':'none'})}});
+var f=c.dataset.f;
+document.querySelectorAll('details.wday').forEach(function(w){var tb=w.querySelector('table'),cn=w.querySelector('.cnt');
+tb.classList.remove('f-uj','f-kid','f-wl');if(f!=='all')tb.classList.add('f-'+f);
+var n=f==='all'?tb.tBodies[0].rows.length:w.querySelectorAll('tbody tr.'+f).length;
+w.style.display=n&&!w.hidden?'':'none';cn.textContent=f==='all'?cn.dataset.all:n+' film'})}});
 })();
 """
 
