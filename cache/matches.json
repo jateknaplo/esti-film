@@ -176,6 +176,14 @@
   "ts": "2026-10-23",
   "y": 1969
  },
+ "alfie|2004": {
+  "imdb": "tt0375173",
+  "kind": "movie",
+  "orig": "Alfie",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2004
+ },
  "alkonyat napfogyatkozas|2010": {
   "imdb": "tt1325004",
   "kind": "movie",
@@ -264,6 +272,14 @@
   "tmdb_tried": true,
   "ts": "2026-10-23",
   "y": 2002
+ },
+ "alnok segitseg|2019": {
+  "imdb": "tt10255374",
+  "kind": "movie",
+  "orig": "Psycho Nurse",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2019
  },
  "alom net|2009": {
   "imdb": "tt1309000",
@@ -454,6 +470,14 @@
   "src": "tmdb",
   "ts": "2026-10-24",
   "y": 1979
+ },
+ "apu halalos titka|2024": {
+  "imdb": "tt31314357",
+  "kind": "movie",
+  "orig": "Daddy's Deadly Secret",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2024
  },
  "apuci ujra pacban|2025": {
   "imdb": "tt34750678",
@@ -1609,6 +1633,14 @@
   "ts": "2026-10-22",
   "y": 2011
  },
+ "egy szelet chicago|2021": {
+  "imdb": "tt15821952",
+  "kind": "movie",
+  "orig": "A Slice of Chicago Romance",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2022
+ },
  "egy szoknya egy nadrag|1943": {
   "imdb": "tt0123289",
   "kind": "movie",
@@ -1798,6 +1830,14 @@
   "ts": "2026-10-22",
   "y": 2004
  },
+ "emlekezetes eskuvo|2020": {
+  "imdb": "tt12567442",
+  "kind": "movie",
+  "orig": "A Wedding to Remember",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2021
+ },
  "emlekezzunk 56 ra|2026": {
   "imdb": null,
   "src": "tmdb",
@@ -1882,6 +1922,14 @@
   "src": "tmdb",
   "ts": "2026-10-23",
   "y": 1980
+ },
+ "eskuvoi romanc|2020": {
+  "imdb": "tt13345816",
+  "kind": "movie",
+  "orig": "A Romance Wedding",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2021
  },
  "esoember|1988": {
   "imdb": "tt0095953",
@@ -1984,6 +2032,14 @@
   "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1971
+ },
+ "felejthetetlen naszut|2021": {
+  "imdb": "tt13357264",
+  "kind": "movie",
+  "orig": "A Honeymoon to Remember",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2021
  },
  "felholt|2002": {
   "imdb": "tt0297162",
@@ -2210,6 +2266,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1996
+ },
+ "good will hunting|1997": {
+  "imdb": "tt0119217",
+  "kind": "movie",
+  "orig": "Good Will Hunting",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 1997
  },
  "gore|2017": {
   "imdb": "tt4633690",
@@ -3534,6 +3598,14 @@
   "ts": "2026-10-24",
   "y": 2015
  },
+ "lazongo ifjusag|2009": {
+  "imdb": "tt0403702",
+  "kind": "movie",
+  "orig": "Youth in Revolt",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2009
+ },
  "lefozve|2023": {
   "imdb": "tt22496962",
   "kind": "movie",
@@ -3793,6 +3865,14 @@
   "ts": "2026-10-22",
   "y": 2010
  },
+ "marston professzor es a ket wonder woman|2017": {
+  "imdb": "tt6133130",
+  "kind": "movie",
+  "orig": "Professor Marston and the Wonder Women",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2017
+ },
  "masik boleyn lany|2008": {
   "imdb": "tt0467200",
   "kind": "movie",
@@ -4043,6 +4123,14 @@
   "ts": "2026-10-22",
   "y": 2022
  },
+ "milliokert a pokolba|2001": {
+  "imdb": "tt0233142",
+  "kind": "movie",
+  "orig": "3000 Miles to Graceland",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2001
+ },
  "minden6o|2003": {
   "imdb": "tt0315327",
   "kind": "movie",
@@ -4146,6 +4234,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2007
+ },
+ "mr es mrs smith|2005": {
+  "imdb": "tt0356910",
+  "kind": "movie",
+  "orig": "Mr. & Mrs. Smith",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2005
  },
  "mr universe|1988": {
   "imdb": "tt0095666",
@@ -4339,6 +4435,46 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
+ },
+ "nyar del franciaorszagban|2016": {
+  "imdb": "tt5834762",
+  "kind": "movie",
+  "orig": "Ein Sommer in Südfrankreich",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2016
+ },
+ "nyar floridaban|2016": {
+  "imdb": "tt5172236",
+  "kind": "movie",
+  "orig": "Ein Sommer in Florida",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2016
+ },
+ "nyar lanzaroten|2016": {
+  "imdb": "tt5077854",
+  "kind": "movie",
+  "orig": "Ein Sommer auf Lanzarote",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2016
+ },
+ "nyar mallorcan|2018": {
+  "imdb": "tt8099616",
+  "kind": "movie",
+  "orig": "Ein Sommer auf Mallorca",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2018
+ },
+ "nyar pragaban|2017": {
+  "imdb": "tt6999498",
+  "kind": "movie",
+  "orig": "Ein Sommer in Prag",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2017
  },
  "nyaruto|2013": {
   "imdb": "tt1967545",
@@ -4846,6 +4982,19 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-10-22"
+ },
+ "reggeli show gyilkossag az etlapon|2018": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-10-24"
+ },
+ "reggeli show halalos recept|2018": {
+  "imdb": "tt7785090",
+  "kind": "movie",
+  "orig": "Morning Show Mysteries: Mortal Mishaps",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2018
  },
  "rejtekhely|2012": {
   "imdb": "tt1919090",
@@ -5591,6 +5740,14 @@
   "ts": "2026-10-22",
   "y": 1996
  },
+ "szerelem a sorok kozott|2020": {
+  "imdb": "tt14149740",
+  "kind": "movie",
+  "orig": "The Clue to Love",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2021
+ },
  "szerelem aromaja|2021": {
   "imdb": "tt13497900",
   "kind": "movie",
@@ -5647,6 +5804,14 @@
   "ts": "2026-10-22",
   "y": 1971
  },
+ "szerelmunk nyara|2020": {
+  "imdb": "tt10998174",
+  "kind": "movie",
+  "orig": "Just for the Summer",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2020
+ },
  "szerencsecsillag|2012": {
   "imdb": "tt1327194",
   "kind": "movie",
@@ -5662,6 +5827,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
+ },
+ "szeretettel neked|2019": {
+  "imdb": "tt9760234",
+  "kind": "movie",
+  "orig": "Made for You with Love",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2019
  },
  "szexvideo|2014": {
   "imdb": "tt1956620",
@@ -5686,6 +5859,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2011
+ },
+ "szinglilet a fellegek felett|2017": {
+  "imdb": "tt6968356",
+  "kind": "movie",
+  "orig": "Love Is in the Air",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2017
  },
  "sziv bajnokai|2009": {
   "imdb": "tt0878804",
@@ -5894,6 +6075,14 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-10-22"
+ },
+ "teli boldogsag|2018": {
+  "imdb": "tt7594384",
+  "kind": "movie",
+  "orig": "Winter's Dream",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2018
  },
  "tengereszgyalogos 6 kozelharc|2018": {
   "imdb": "tt7668724",
@@ -6144,6 +6333,33 @@
   "ts": "2026-10-22",
   "y": 2011
  },
+ "torta romanc|2020": {
+  "imdb": "tt11707320",
+  "kind": "movie",
+  "orig": "Love Is a Piece of Cake",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2020
+ },
+ "torvenyszeki esetek a halalos szer|2019": {
+  "imdb": "tt10187476",
+  "kind": "movie",
+  "orig": "Zerbrochen - Ein Fall für Dr. Abel",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-10-24",
+  "y": 2019
+ },
+ "torvenyszeki esetek holttestek kozott|2018": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-10-24"
+ },
+ "torvenyszeki esetek vedtelen nok gyilkosa|2019": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-10-24"
+ },
  "transformers 3|2011": {
   "imdb": "tt1399103",
   "kind": "movie",
@@ -6228,6 +6444,22 @@
   "ts": "2026-10-22",
   "y": 1997
  },
+ "ugyved ordoge|1997": {
+  "imdb": "tt0126774",
+  "kind": "movie",
+  "orig": "The Advocate's Devil",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 1997
+ },
+ "ujra az irodaban|2025": {
+  "imdb": "tt35304920",
+  "kind": "movie",
+  "orig": "Return to Office",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2025
+ },
  "uncharted|2022": {
   "imdb": "tt1464335",
   "kind": "movie",
@@ -6309,6 +6541,14 @@
   "ts": "2026-10-22",
   "y": 1967
  },
+ "uzlet barmi aron|2015": {
+  "imdb": "tt2358925",
+  "kind": "movie",
+  "orig": "Unfinished Business",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2015
+ },
  "vadasz es a jegkiralyno|2016": {
   "imdb": "tt2381991",
   "kind": "movie",
@@ -6378,6 +6618,14 @@
   "src": "tmdb",
   "ts": "2026-10-23",
   "y": 2004
+ },
+ "vanilia egbolt|2001": {
+  "imdb": "tt0259711",
+  "kind": "movie",
+  "orig": "Vanilla Sky",
+  "src": "tmdb",
+  "ts": "2026-10-24",
+  "y": 2001
  },
  "vedelmezo 2|2018": {
   "imdb": "tt3766354",
