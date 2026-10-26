@@ -14,6 +14,7 @@
     {"kod": "AMC", "nev": "AMC", "port": "tvchannel-139"},
     {"kod": "FILMBOX_PLUS_ONE", "nev": "Filmbox+ One", "port": "tvchannel-226"},
     {"kod": "FILM4", "nev": "Film4", "port": "tvchannel-359"},
+    {"kod": "CANAL_PLUS_ACTION", "nev": "Canal+ Action", "tvmustra": "CANAL_PLUS_ACTION"},
     {"kod": "RTL3", "nev": "RTL Három", "port": "tvchannel-178"},
     {"kod": "RTL", "nev": "RTL", "port": "tvchannel-5"},
     {"kod": "TV2", "nev": "TV2", "port": "tvchannel-3"},

@@ -22,6 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import imdb_data  # noqa: E402
 import musortv  # noqa: E402
 import porthu  # noqa: E402
+import tvmustra  # noqa: E402
 import render  # noqa: E402
 from musortv import BUD  # noqa: E402
 from textnorm import loose, norm  # noqa: E402
@@ -77,6 +78,28 @@ def fetch_schedules(channels, today, offline, log):
         limit = 1800 if d == today else 6 * 3600 if d == today + timedelta(days=1) else 20 * 3600
         return age > limit
 
+    def tvmustra_fill(items):
+        """A port.hu-n nem szereplő csatornák (Canal+ Action) a tvmustra.hu napi oldaláról."""
+        if not items:
+            return []
+        dpath = P("cache", "schedule", "_tvmustra", "details.json")
+        details = load_json(dpath, {})
+        missing = []
+        for ch, d in items:
+            try:
+                evs = tvmustra.day(ch["tvmustra"], d, details)
+                if not evs:
+                    raise ValueError("üres műsor")
+                save_json(cpath(ch, d), {"fetched": time.time(), "src": "tvmustra.hu", "events": evs})
+                log(f"  tvmustra {ch['kod']} {d:%m.%d} {len(evs)} műsor")
+            except Exception as e:
+                log(f"  tvmustra {ch['kod']} {d:%m.%d} HIBA: {e}")
+                missing.append((ch, d))
+        if len(details) > 3000:
+            details = dict(sorted(details.items(), key=lambda kv: int(kv[0]))[-2000:])
+        save_json(dpath, details)
+        return missing
+
     # ESTI_FORRAS=port: a port.hu az elsődleges (a musor.tv 403-mal tiltja a GitHub szervereit);
     # naponta egy kérés az összes csatornára, a port.hu-n nem szereplők mennek a musor.tv-ről
     if os.environ.get("ESTI_FORRAS") == "port" and not offline:
@@ -95,6 +118,7 @@ def fetch_schedules(channels, today, offline, log):
                 if evs:
                     save_json(cpath(ch, d), {"fetched": time.time(), "src": "port.hu", "events": evs})
             log(f"  port.hu {d:%m.%d}: {sum(1 for ch in need if got.get(ch['port']))}/{len(need)} csatorna")
+        tvmustra_fill([(ch, d) for ch, d in plan if ch.get("tvmustra") and not ch.get("port") and stale(ch, d)])
 
     failed = []
     streak = 0  # egymás utáni hibák: 5 után a musor.tv-t erre a futásra feladjuk
@@ -134,10 +158,13 @@ def fetch_schedules(channels, today, offline, log):
             if evs:
                 save_json(cpath(ch, d), {"fetched": time.time(), "src": "port.hu", "events": evs})
                 errors.append({"ch": ch["nev"], "day": d.isoformat(), "msg": "musor.tv hiba, port.hu-ról pótolva"})
+            elif ch.get("tvmustra") and not ch.get("port") and not tvmustra_fill([(ch, d)]):
+                if os.environ.get("ESTI_FORRAS") != "port":
+                    errors.append({"ch": ch["nev"], "day": d.isoformat(), "msg": "musor.tv hiba, tvmustra.hu-ról pótolva"})
             elif os.path.exists(cpath(ch, d)):
                 errors.append({"ch": ch["nev"], "day": d.isoformat(), "msg": "nem sikerült frissíteni, régebbi adat"})
             else:
-                errors.append({"ch": ch["nev"], "day": d.isoformat(), "msg": "nincs adat (musor.tv és port.hu sem)"})
+                errors.append({"ch": ch["nev"], "day": d.isoformat(), "msg": "nincs adat egyik forrásból sem"})
 
     out = {}
     for ch, d in plan:
