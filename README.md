@@ -31,23 +31,19 @@ Szabályok: „jó” = IMDb ≥ 7,0 legalább 500 szavazattal (a kevés szavaza
 
 ## Üzem
 
-Cím: **https://esti-film.pages.dev/** (saját Cloudflare-fiók, `esti-film` Pages-projekt). Az oldal mind a 7 nap estéjét tartalmazza, a telefon dátuma szerint mutatja a mait.
+Cím: **https://jateknaplo.github.io/esti-film/** — az oldal mind a 7 nap estéjét tartalmazza, a telefon dátuma szerint mutatja a mait.
 
-### Gép nélkül: GitHub Actions → GitHub Pages (fő üzem)
-
-Cím: **https://jateknaplo.github.io/esti-film/** (a régi esti-film.pages.dev ide irányít át).
+### GitHub Actions → GitHub Pages
 
 `.github/workflows/build.yml`: naponta 07:00, 14:00, 19:00 (Budapest; a 6 UTC-cronból a „gate” job az aktuális időszámításnak megfelelőt engedi), plusz kézi indítás (Actions → Esti film → Run workflow). Lépései: címindex (havonta) → `build.py` → `cache/matches.json` visszaírása → GitHub Pages.
 
-- Forrás: a GitHub szervereit a musor.tv 403-mal tiltja, ezért ott a port.hu az elsődleges (`ESTI_FORRAS=port`); a Canal+ Action nincs a port.hu-n.
+- Források: a GitHub szervereit a musor.tv 403-mal tiltja, ezért ott a port.hu az elsődleges (`ESTI_FORRAS=port`); a port.hu-n nem szereplő Canal+ Action a tvmustra.hu csatornanapi oldaláról jön.
 - A repó publikus, a watchlist nincs benne: a `WATCHLIST_IDS` titkos változó a tt-azonosítókat tartalmazza. Frissítés: új CSV a `data/` mappába, majd `python scripts/set_secrets.py`.
 - Titkos változók: `TMDB_API_KEY`, `WATCHLIST_IDS`.
 
-### Saját gépről (tartalék)
+### Saját gépen
 
-- „Esti film” ütemezett feladat: 07:00, 14:00, 19:00; „Esti film (pótlás)”: bejelentkezéskor/feloldáskor, ha az oldal 3 óránál régebbi.
-- `run.bat` = címindex → `build.py` → `wrangler pages deploy`. Napló: `logs/run.log`. Kézzel is indítható.
-- Ha lejár a Cloudflare-belépés (a naplóban `DEPLOY HIBA`): `login.bat`, majd a böngészőben „Allow”.
+`run.bat`: helyi próbaépítés (`site/index.html`, napló: `logs/run.log`), a musor.tv-vel mint elsődleges forrással. Az élő oldalt nem érinti.
 
 ## Helyi futtatás
 
