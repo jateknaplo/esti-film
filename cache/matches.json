@@ -1052,6 +1052,14 @@
   "ts": "2026-10-23",
   "y": 2012
  },
+ "aszfalt kiralyai|2019": {
+  "imdb": "tt1950186",
+  "kind": "movie",
+  "orig": "Ford v Ferrari",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2019
+ },
  "aszfaltvaros|2023": {
   "imdb": "tt9663896",
   "kind": "movie",
@@ -1331,6 +1339,20 @@
   "ts": "2026-10-29",
   "y": 2001
  },
+ "bartok hagyatek|2023": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-11"
+ },
+ "bartok|2017": {
+  "imdb": "tt6871240",
+  "kind": "movie",
+  "orig": "Bartók",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-11",
+  "y": 2017
+ },
  "batman kezdodik|2005": {
   "imdb": "tt0372784",
   "kind": "movie",
@@ -1462,7 +1484,7 @@
  "beethoven 6|2008": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-04"
+  "ts": "2026-11-11"
  },
  "beethoven|1992": {
   "imdb": "tt0103786",
@@ -1710,6 +1732,14 @@
   "ts": "2026-11-08",
   "y": 2018
  },
+ "bokszbol jeles|2011": {
+  "imdb": "tt1691453",
+  "kind": "movie",
+  "orig": "Knockout",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2011
+ },
  "bolcsek kovere 2 a klump csalad|2000": {
   "imdb": "tt0144528",
   "kind": "movie",
@@ -1855,6 +1885,14 @@
   "ts": "2026-10-26",
   "y": 1987
  },
+ "bosszu|2017": {
+  "imdb": "tt6738136",
+  "kind": "movie",
+  "orig": "Revenge",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2017
+ },
  "bostoni fojtogato|2023": {
   "imdb": "tt2560078",
   "kind": "movie",
@@ -1878,6 +1916,14 @@
   "src": "tmdb",
   "ts": "2026-11-07",
   "y": 2002
+ },
+ "braven|2018": {
+  "imdb": "tt5001754",
+  "kind": "movie",
+  "orig": "Braven",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2018
  },
  "brilians csel|2021": {
   "imdb": "tt9742794",
@@ -2661,6 +2707,15 @@
   "ts": "2026-10-30",
   "y": 2022
  },
+ "deal the|2022": {
+  "imdb": "tt11220408",
+  "kind": "movie",
+  "orig": "The Deal",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-11",
+  "y": 2022
+ },
  "defekt|2011": {
   "imdb": "tt1582248",
   "kind": "movie",
@@ -3227,6 +3282,14 @@
   "ts": "2026-10-22",
   "y": 1975
  },
+ "egyel muzlit|2020": {
+  "imdb": "tt10584340",
+  "kind": "movie",
+  "orig": "Eat Wheaties!",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2020
+ },
  "egyes nok|2016": {
   "imdb": "tt4468634",
   "kind": "movie",
@@ -3275,6 +3338,14 @@
   "ts": "2026-10-22",
   "y": 2019
  },
+ "ejszakai jatek|2018": {
+  "imdb": "tt2704998",
+  "kind": "movie",
+  "orig": "Game Night",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2018
+ },
  "ejszakai rohanas|1988": {
   "imdb": "tt0095631",
   "kind": "movie",
@@ -3290,6 +3361,19 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
+ },
+ "elcserelt kivansagok|2025": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-11"
+ },
+ "eld tul az ejjelt|2020": {
+  "imdb": "tt10303324",
+  "kind": "movie",
+  "orig": "Survive the Night",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2020
  },
  "elefant|1977": {
   "imdb": "tt0397411",
@@ -3430,6 +3514,14 @@
   "ts": "2026-11-01",
   "y": 2011
  },
+ "elit halalosztok|2007": {
+  "imdb": "tt0861739",
+  "kind": "movie",
+  "orig": "Tropa de Elite",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2007
+ },
  "elitelt|2008": {
   "imdb": "tt1117385",
   "kind": "movie",
@@ -3445,6 +3537,14 @@
   "src": "tmdb",
   "ts": "2026-10-31",
   "y": 1987
+ },
+ "ellenallhatatlan|2020": {
+  "imdb": "tt9076562",
+  "kind": "movie",
+  "orig": "Irresistible",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2020
  },
  "elmult karacsonyok baratnoi|2016": {
   "imdb": "tt4943236",
@@ -3575,6 +3675,22 @@
   "ts": "2026-11-08",
   "y": 2007
  },
+ "elvesztegetett ido|2011": {
+  "imdb": "tt1728620",
+  "kind": "movie",
+  "orig": "Die verlorene Zeit",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2011
+ },
+ "elvetemult gyilkos|2024": {
+  "imdb": "tt21151212",
+  "kind": "movie",
+  "orig": "Cult Killer",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2024
+ },
  "elvis|2022": {
   "imdb": "tt3704428",
   "kind": "movie",
@@ -3598,6 +3714,14 @@
   "src": "tmdb",
   "ts": "2026-11-08",
   "y": 2013
+ },
+ "ember aki ismerte a vegtelent|2015": {
+  "imdb": "tt0787524",
+  "kind": "movie",
+  "orig": "The Man Who Knew Infinity",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2016
  },
  "ember vagy ordog|1999": {
   "imdb": "tt48924278",
@@ -3833,6 +3957,14 @@
   "ts": "2026-10-25",
   "y": 2019
  },
+ "eskuvo karacsonyig|2016": {
+  "imdb": "tt5073652",
+  "kind": "movie",
+  "orig": "Married by Christmas",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2016
+ },
  "eskuvoi romanc|2020": {
   "imdb": "tt13345816",
   "kind": "movie",
@@ -3889,7 +4021,7 @@
  "ez a pillanatnyi csend az en 80 evem sandor ivan portre|2010": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-04"
+  "ts": "2026-11-11"
  },
  "ez a villa elado|1935": {
   "imdb": "tt0026329",
@@ -4065,6 +4197,14 @@
   "ts": "2026-10-28",
   "y": 2024
  },
+ "fekete pillango|2017": {
+  "imdb": "tt2090465",
+  "kind": "movie",
+  "orig": "Black Butterfly",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2017
+ },
  "fekete tulipan|1964": {
   "imdb": "tt0058692",
   "kind": "movie",
@@ -4088,6 +4228,14 @@
   "src": "tmdb",
   "ts": "2026-10-26",
   "y": 2011
+ },
+ "fektelenul|1994": {
+  "imdb": "tt0111257",
+  "kind": "movie",
+  "orig": "Speed",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1994
  },
  "felaldozh4tok|2023": {
   "imdb": "tt3291150",
@@ -4121,6 +4269,14 @@
   "ts": "2026-10-24",
   "y": 2021
  },
+ "felelem jateka|2014": {
+  "imdb": "tt2304953",
+  "kind": "movie",
+  "orig": "Reasonable Doubt",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2014
+ },
  "felenk vagyok de hoditani akarok|1978": {
   "imdb": "tt0077768",
   "kind": "movie",
@@ -4152,6 +4308,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2002
+ },
+ "felkoppintva|2007": {
+  "imdb": "tt0478311",
+  "kind": "movie",
+  "orig": "Knocked Up",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2007
  },
  "felmegyek a miniszterhez|1962": {
   "imdb": "tt0054871",
@@ -4400,6 +4564,14 @@
   "ts": "2026-10-31",
   "y": 2020
  },
+ "fulledt nyar|2017": {
+  "imdb": "tt5817022",
+  "kind": "movie",
+  "orig": "One Percent More Humid",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2017
+ },
  "furcsa par|1968": {
   "imdb": "tt0063374",
   "kind": "movie",
@@ -4477,6 +4649,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2024
+ },
+ "gattaca|1997": {
+  "imdb": "tt0119177",
+  "kind": "movie",
+  "orig": "Gattaca",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1997
  },
  "gellerthegyi almok|1975": {
   "imdb": "tt0154528",
@@ -4754,6 +4934,14 @@
   "ts": "2026-11-10",
   "y": 2015
  },
+ "gyilkos sutik a karacsonyi puding rejtely|2015": {
+  "imdb": "tt4933782",
+  "kind": "movie",
+  "orig": "Murder, She Baked: A Plum Pudding Mystery",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2015
+ },
  "gyilkos szezon|2013": {
   "imdb": "tt1480295",
   "kind": "movie",
@@ -5019,6 +5207,14 @@
   "ts": "2026-10-30",
   "y": 2008
  },
+ "halal nyomaban|2004": {
+  "imdb": "tt0367478",
+  "kind": "movie",
+  "orig": "Wake of Death",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2004
+ },
  "halalfutam 3|2012": {
   "imdb": null,
   "src": "tmdb",
@@ -5190,6 +5386,14 @@
   "ts": "2026-11-04",
   "y": 1991
  },
+ "hamupipoke harom kivansaga|2021": {
+  "imdb": "tt10147580",
+  "kind": "movie",
+  "orig": "Tre nøtter til Askepott",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2021
+ },
  "hamvazoszerda|2004": {
   "imdb": "tt11414096",
   "kind": "movie",
@@ -5214,6 +5418,14 @@
   "src": "tmdb",
   "ts": "2026-10-27",
   "y": 2018
+ },
+ "hanna gyilkos termeszet|2011": {
+  "imdb": "tt0993842",
+  "kind": "movie",
+  "orig": "Hanna",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2011
  },
  "hannibal tanar ur|1956": {
   "imdb": "tt0049290",
@@ -5420,6 +5632,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2004
+ },
+ "hat het boldogsag|1939": {
+  "imdb": "tt0136986",
+  "kind": "movie",
+  "orig": "Hat hét boldogság",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1939
  },
  "hat jo barat hatan a vilag ellen|2014": {
   "imdb": "tt4306002",
@@ -6376,6 +6596,15 @@
   "ts": "2026-10-22",
   "y": 2011
  },
+ "jatssz velem|2021": {
+  "imdb": "tt10722406",
+  "kind": "movie",
+  "orig": "Juega Conmigo",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-11",
+  "y": 2021
+ },
  "jeanne d arc az orleans i szuz|1999": {
   "imdb": "tt0151137",
   "kind": "movie",
@@ -6460,6 +6689,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2008
+ },
+ "john wick 3 felvonas parabellum|2019": {
+  "imdb": "tt6146586",
+  "kind": "movie",
+  "orig": "John Wick: Chapter 3 - Parabellum",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2019
  },
  "john wick 4 felvonas|2023": {
   "imdb": "tt10366206",
@@ -6799,6 +7036,11 @@
   "ts": "2026-11-10",
   "y": 2023
  },
+ "karacsonyi dupla randi|2020": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-11"
+ },
  "karacsonyi felismeres|2018": {
   "imdb": "tt8805246",
   "kind": "movie",
@@ -6838,6 +7080,14 @@
   "src": "tmdb",
   "ts": "2026-11-05",
   "y": 2022
+ },
+ "karacsonyi kutyabaj|2016": {
+  "imdb": "tt6275674",
+  "kind": "movie",
+  "orig": "A Puppy for Christmas",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2016
  },
  "karacsonyi levelek|2010": {
   "imdb": null,
@@ -6907,6 +7157,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1966
+ },
+ "katonadolog|2022": {
+  "imdb": "tt11252248",
+  "kind": "movie",
+  "orig": "Dog",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2022
  },
  "katona|1998": {
   "imdb": "tt0120157",
@@ -7400,6 +7658,14 @@
   "ts": "2026-10-22",
   "y": 2025
  },
+ "kispalyas szerelem|2012": {
+  "imdb": "tt1540128",
+  "kind": "movie",
+  "orig": "Playing for Keeps",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2012
+ },
  "kisutott boldogsag|2020": {
   "imdb": "tt9749144",
   "kind": "movie",
@@ -7796,7 +8062,7 @@
  "kulonleges szallitmany|2010": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-04"
+  "ts": "2026-11-11"
  },
  "kulonos hazassag|1951": {
   "imdb": "tt0042660",
@@ -7829,6 +8095,14 @@
   "src": "tmdb",
   "ts": "2026-11-09",
   "y": 2008
+ },
+ "kung fu yoga|2017": {
+  "imdb": "tt4217392",
+  "kind": "movie",
+  "orig": "功夫瑜伽",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2017
  },
  "kung fu zohra|2021": {
   "imdb": "tt13261944",
@@ -8071,7 +8345,7 @@
  "legendas vitorlasok a balatonon kishamis|2017": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-04"
+  "ts": "2026-11-11"
  },
  "legeslegjobb baratok|2023": {
   "imdb": "tt20221460",
@@ -8611,6 +8885,11 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-11-02"
+ },
+ "marai sandor|2008": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-11"
  },
  "margaux a gyilkos otthon|2022": {
   "imdb": "tt14967618",
@@ -9346,6 +9625,14 @@
   "ts": "2026-11-04",
   "y": 2022
  },
+ "morbius|2022": {
+  "imdb": "tt5108870",
+  "kind": "movie",
+  "orig": "Morbius",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2022
+ },
  "mortal kombat|2021": {
   "imdb": "tt0293429",
   "kind": "movie",
@@ -9617,6 +9904,15 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2003
+ },
+ "nap lovagja|1987": {
+  "imdb": "tt1495672",
+  "kind": "movie",
+  "orig": "A nap lovagja",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-11",
+  "y": 1987
  },
  "napfeny a jegen|1961": {
   "imdb": "tt0055218",
@@ -10022,6 +10318,14 @@
   "src": "tmdb",
   "ts": "2026-10-29",
   "y": 2021
+ },
+ "ong bak a thai boksz harcosa|2003": {
+  "imdb": "tt0368909",
+  "kind": "movie",
+  "orig": "องค์บาก",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2003
  },
  "ongyilkos osztag|2016": {
   "imdb": null,
@@ -10699,6 +11003,11 @@
   "tmdb_tried": true,
   "ts": "2026-10-23",
   "y": 2011
+ },
+ "pokoli egyezseg 2|2017": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-11"
  },
  "pokoli egyezseg|2013": {
   "imdb": "tt2268419",
@@ -11951,6 +12260,14 @@
   "ts": "2026-10-22",
   "y": 1994
  },
+ "spiderwick kronikak|2008": {
+  "imdb": "tt0416236",
+  "kind": "movie",
+  "orig": "The Spiderwick Chronicles",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2008
+ },
  "spionfioka|1991": {
   "imdb": "tt0102095",
   "kind": "movie",
@@ -11982,6 +12299,14 @@
   "src": "tmdb",
   "ts": "2026-11-01",
   "y": 2019
+ },
+ "stauffenberg a valkur hadmuvelet|2004": {
+  "imdb": "tt0388437",
+  "kind": "movie",
+  "orig": "Stauffenberg",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2004
  },
  "steamboy gozfiu|2004": {
   "imdb": null,
@@ -12488,6 +12813,14 @@
   "ts": "2026-10-22",
   "y": 2014
  },
+ "szerelemterkep|2020": {
+  "imdb": "tt14790908",
+  "kind": "movie",
+  "orig": "Love Map",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2021
+ },
  "szerelem|1970": {
   "imdb": "tt0067814",
   "kind": "movie",
@@ -12551,6 +12884,15 @@
   "src": "tmdb",
   "ts": "2026-10-24",
   "y": 2019
+ },
+ "szeretni tehozzad szegodtem|1997": {
+  "imdb": "tt37496334",
+  "kind": "movie",
+  "orig": "Szeretni tehozzád szegõdtem",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-11",
+  "y": 1997
  },
  "szerzetes es a feher kigyo|2011": {
   "imdb": "tt1857913",
@@ -12893,6 +13235,22 @@
   "ts": "2026-10-22",
   "y": 1995
  },
+ "szuperhekusok|1985": {
+  "imdb": "tt0089591",
+  "kind": "movie",
+  "orig": "Miami Supercops",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1985
+ },
+ "szuperzsaru|1980": {
+  "imdb": "tt0082924",
+  "kind": "movie",
+  "orig": "Poliziotto superpiù",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1980
+ },
  "szurke zona|2025": {
   "imdb": "tt27681354",
   "kind": "movie",
@@ -13142,6 +13500,14 @@
   "ts": "2026-10-28",
   "y": 2009
  },
+ "tengereszgyalogos 4 mozgo celpont|2015": {
+  "imdb": "tt3528666",
+  "kind": "movie",
+  "orig": "The Marine 4: Moving Target",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2015
+ },
  "tengereszgyalogos 6 kozelharc|2018": {
   "imdb": "tt7668724",
   "kind": "movie",
@@ -13201,7 +13567,7 @@
  "teriteken a karacsony|2020": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-04"
+  "ts": "2026-11-11"
  },
  "teriteken a no|2000": {
   "imdb": "tt0206420",
@@ -13622,7 +13988,7 @@
  "tord meg az atkot|2023": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-04"
+  "ts": "2026-11-11"
  },
  "toresvonal|2015": {
   "imdb": "tt2126355",
@@ -14350,6 +14716,14 @@
   "ts": "2026-10-22",
   "y": 2008
  },
+ "vadon foglyai|1997": {
+  "imdb": "tt0119051",
+  "kind": "movie",
+  "orig": "The Edge",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1997
+ },
  "vadonvilag grof szechenyi zsigmond nyomaban|2019": {
   "imdb": "tt11239410",
   "kind": "movie",
@@ -14710,6 +15084,14 @@
   "ts": "2026-10-25",
   "y": 2009
  },
+ "venom 2 veronto|2021": {
+  "imdb": "tt7097896",
+  "kind": "movie",
+  "orig": "Venom: Let There Be Carnage",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2021
+ },
  "venom|2018": {
   "imdb": "tt1270797",
   "kind": "movie",
@@ -14824,6 +15206,14 @@
   "ts": "2026-10-22",
   "y": 1994
  },
+ "veszelyes|2021": {
+  "imdb": "tt3876910",
+  "kind": "movie",
+  "orig": "Dangerous",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2021
+ },
  "veszelyzona|2013": {
   "imdb": "tt1430612",
   "kind": "movie",
@@ -14839,6 +15229,14 @@
   "src": "tmdb",
   "ts": "2026-10-23",
   "y": 2014
+ },
+ "veszjarat|2024": {
+  "imdb": "tt17501870",
+  "kind": "movie",
+  "orig": "危机航线",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 2024
  },
  "vihar elott|2019": {
   "imdb": "tt6476140",
@@ -15242,6 +15640,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2010
+ },
+ "zoldfulu|1990": {
+  "imdb": "tt0100514",
+  "kind": "movie",
+  "orig": "The Rookie",
+  "src": "tmdb",
+  "ts": "2026-11-11",
+  "y": 1990
  },
  "zoom in|2024": {
   "imdb": "tt15079412",
