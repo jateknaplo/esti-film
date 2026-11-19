@@ -4329,7 +4329,7 @@
  "elhallgatott valosag|2025": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "elhurcolva|2011": {
   "imdb": "tt1600195",
@@ -5438,7 +5438,7 @@
  "festoi korszakok 3 ganoczy maria|2016": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "festo|2024": {
   "imdb": "tt30253266",
@@ -6137,7 +6137,7 @@
  "gyilkos sutik a halalos recept|2016": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "gyilkos sutik a karacsonyi puding rejtely|2015": {
   "imdb": "tt4933782",
@@ -8870,7 +8870,7 @@
  "kavehazi cigany zene|2025": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "kecskebuvolok|2009": {
   "imdb": "tt1234548",
@@ -9608,7 +9608,7 @@
  "kolibrikod|2013": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "kolorado kid|2009": {
   "imdb": "tt0856796",
@@ -12267,7 +12267,7 @@
  "night board|2026": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "niko az unikornis|1998": {
   "imdb": "tt0119782",
@@ -17840,17 +17840,17 @@
  "vajdasagi triptichon a taj|2020": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "vajdasagi triptichon elmelkedes emberekrol es foldrol|2021": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "vajdasagi triptichon oroksegunk|2021": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19"
  },
  "vak szenvedely|2001": {
   "imdb": "tt0259218",
@@ -17885,9 +17885,12 @@
   "y": 2018
  },
  "vallald be|2018": {
-  "imdb": null,
+  "imdb": "tt5848986",
+  "kind": "movie",
+  "orig": "You Can't Say No",
   "src": "tmdb",
-  "ts": "2026-11-12"
+  "ts": "2026-11-19",
+  "y": 2018
  },
  "valogatott gyilkosok|2011": {
   "imdb": "tt1448755",
