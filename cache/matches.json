@@ -26,7 +26,7 @@
  "101 reklam|1995": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-13"
+  "ts": "2026-11-20"
  },
  "12 katona|2018": {
   "imdb": "tt1413492",
@@ -64,6 +64,14 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-11-17"
+ },
+ "19 es asztalnal ulok|2017": {
+  "imdb": "tt1412528",
+  "kind": "movie",
+  "orig": "Table 19",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2017
  },
  "1911|2011": {
   "imdb": "tt1772230",
@@ -500,6 +508,14 @@
   "orig": "Akli Miklós",
   "src": "tmdb",
   "ts": "2026-11-13",
+  "y": 1986
+ },
+ "aladdin|1986": {
+  "imdb": "tt0090601",
+  "kind": "movie",
+  "orig": "Superfantagenio",
+  "src": "tmdb",
+  "ts": "2026-11-20",
   "y": 1986
  },
  "alapitok es osok a szentendrei muvesztelep szuletesenek tortenete|2025": {
@@ -1033,6 +1049,14 @@
   "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1993
+ },
+ "annabelle 2 a teremtes|2017": {
+  "imdb": "tt5140878",
+  "kind": "movie",
+  "orig": "Annabelle: Creation",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2017
  },
  "annabelle|2014": {
   "imdb": "tt3322940",
@@ -1904,6 +1928,14 @@
   "src": "tmdb",
   "ts": "2026-11-17",
   "y": 2006
+ },
+ "belso kor|2009": {
+  "imdb": "tt1130993",
+  "kind": "movie",
+  "orig": "Le Premier Cercle",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2009
  },
  "belso ter|2025": {
   "imdb": "tt47817440",
@@ -2948,6 +2980,14 @@
   "ts": "2026-11-01",
   "y": 2019
  },
+ "csalobol csali|2005": {
+  "imdb": "tt0388183",
+  "kind": "movie",
+  "orig": "King's Ransom",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2005
+ },
  "csalo|2018": {
   "imdb": "tt6675400",
   "kind": "movie",
@@ -3228,6 +3268,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
+ },
+ "csontember|1999": {
+  "imdb": "tt0145681",
+  "kind": "movie",
+  "orig": "The Bone Collector",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1999
  },
  "csonthulye 2 csapas a multbol|2008": {
   "imdb": "tt0995857",
@@ -4371,6 +4419,14 @@
   "ts": "2026-11-11",
   "y": 2020
  },
+ "ellenseg a kapuknal|2001": {
+  "imdb": "tt0215750",
+  "kind": "movie",
+  "orig": "Enemy at the Gates",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2001
+ },
  "ellenseges terulet|2001": {
   "imdb": "tt0159273",
   "kind": "movie",
@@ -5237,6 +5293,14 @@
   "ts": "2026-10-26",
   "y": 2023
  },
+ "felejtes bere|2003": {
+  "imdb": "tt0338337",
+  "kind": "movie",
+  "orig": "Paycheck",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2003
+ },
  "felejthetetlen ajandek|2017": {
   "imdb": "tt7006938",
   "kind": "movie",
@@ -5486,6 +5550,14 @@
   "src": "tmdb",
   "ts": "2026-11-01"
  },
+ "flyboys egi lovagok|2006": {
+  "imdb": "tt0454824",
+  "kind": "movie",
+  "orig": "Flyboys",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2006
+ },
  "foglalkozasa szulo|2020": {
   "imdb": "tt12078024",
   "kind": "movie",
@@ -5731,6 +5803,14 @@
   "src": "tmdb",
   "ts": "2026-11-01",
   "y": 2000
+ },
+ "gamer jatek a vegsokig|2009": {
+  "imdb": "tt1034032",
+  "kind": "movie",
+  "orig": "Gamer",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2009
  },
  "garazsvasari rejtelyek csillogo gyemantok|2014": {
   "imdb": "tt3106464",
@@ -6084,7 +6164,7 @@
  "gyemant ut pora|2022": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-13"
+  "ts": "2026-11-20"
  },
  "gyertek el a nevnapomra|1983": {
   "imdb": "tt0085631",
@@ -6680,6 +6760,14 @@
   "ts": "2026-11-11",
   "y": 2011
  },
+ "hannah swensen rejtelyei edes mint a pite|2025": {
+  "imdb": "tt36998991",
+  "kind": "movie",
+  "orig": "Pie To Die For: A Hannah Swensen Mystery",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2025
+ },
  "hannah swensen rejtelyei egy csipetnyi csalas|2024": {
   "imdb": "tt33063626",
   "kind": "movie",
@@ -6737,6 +6825,14 @@
   "tmdb_tried": true,
   "ts": "2026-10-22",
   "y": 1999
+ },
+ "hany az ora vekker ur|1985": {
+  "imdb": "tt0089315",
+  "kind": "movie",
+  "orig": "Hány az óra, Vekker úr?",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1985
  },
  "happy a flugos golfos|1996": {
   "imdb": "tt0116483",
@@ -7227,6 +7323,14 @@
   "src": "tmdb",
   "ts": "2026-10-28",
   "y": 1993
+ },
+ "hid a kwai folyon|1957": {
+  "imdb": "tt0050212",
+  "kind": "movie",
+  "orig": "The Bridge on the River Kwai",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1957
  },
  "hid tul messze van|1977": {
   "imdb": "tt0075784",
@@ -8125,6 +8229,14 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-11-18"
+ },
+ "jane titokzatos esetei moseby titkai|2024": {
+  "imdb": "tt33132312",
+  "kind": "movie",
+  "orig": "The Jane Mysteries: Murder at Moseby",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2024
  },
  "jankovicsok egy csalad tortenete|2021": {
   "imdb": "tt20881040",
@@ -9429,7 +9541,7 @@
  "kiskutya karacsonyra|2019": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-13"
+  "ts": "2026-11-20"
  },
  "kispalyas szerelem|2012": {
   "imdb": "tt1540128",
@@ -10575,6 +10687,14 @@
   "ts": "2026-10-22",
   "y": 2014
  },
+ "lovagregeny|2001": {
+  "imdb": "tt0183790",
+  "kind": "movie",
+  "orig": "A Knight's Tale",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2001
+ },
  "lucky luke es a nagyvaros|1971": {
   "imdb": "tt0145891",
   "kind": "movie",
@@ -10895,6 +11015,14 @@
   "ts": "2026-11-13",
   "y": 2004
  },
+ "manta manta padlogaz|2023": {
+  "imdb": "tt20414228",
+  "kind": "movie",
+  "orig": "Manta Manta - Zwoter Teil",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2023
+ },
  "mar megint egy dilis amcsi film|2001": {
   "imdb": "tt0277371",
   "kind": "movie",
@@ -11063,6 +11191,15 @@
   "ts": "2026-11-04",
   "y": 2001
  },
+ "masutt a korda testverek|2018": {
+  "imdb": "tt37496304",
+  "kind": "movie",
+  "orig": "Másutt - A Korda testvérek",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-20",
+  "y": 2018
+ },
  "matchmaker mysteries a gyilkolas muveszete|2021": {
   "imdb": null,
   "src": "tmdb",
@@ -11138,6 +11275,14 @@
   "orig": "The Last Full Measure",
   "src": "tmdb",
   "ts": "2026-10-22",
+  "y": 2020
+ },
+ "meglepetes karacsonyra|2020": {
+  "imdb": "tt13389538",
+  "kind": "movie",
+  "orig": "A Christmas Surprise",
+  "src": "tmdb",
+  "ts": "2026-11-20",
   "y": 2020
  },
  "megmaradt alice nek|2014": {
@@ -11877,6 +12022,14 @@
   "ts": "2026-11-18",
   "y": 2012
  },
+ "mult karacsony|2019": {
+  "imdb": "tt8623904",
+  "kind": "movie",
+  "orig": "Last Christmas",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2019
+ },
  "mult tuzeben|2025": {
   "imdb": "tt35330717",
   "kind": "movie",
@@ -11966,6 +12119,14 @@
   "src": "tmdb",
   "ts": "2026-11-04",
   "y": 1973
+ },
+ "nagy fal|2016": {
+  "imdb": "tt2034800",
+  "kind": "movie",
+  "orig": "The Great Wall",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2016
  },
  "nagy feher|2021": {
   "imdb": "tt8435002",
@@ -12224,6 +12385,14 @@
   "ts": "2026-10-22",
   "y": 2017
  },
+ "nemzet karacsonyfaja|2009": {
+  "imdb": "tt1420568",
+  "kind": "movie",
+  "orig": "The National Tree",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2009
+ },
  "nevem sam|2001": {
   "imdb": "tt0277027",
   "kind": "movie",
@@ -12446,6 +12615,14 @@
   "ts": "2026-11-05",
   "y": 1997
  },
+ "nyilt tengeren capak kozott|2017": {
+  "imdb": "tt4126568",
+  "kind": "movie",
+  "orig": "Cage Dive",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2017
+ },
  "nyilt tengeren|2003": {
   "imdb": "tt0374102",
   "kind": "movie",
@@ -12526,6 +12703,14 @@
   "ts": "2026-11-02",
   "y": 2018
  },
+ "ocean s eight az evszazad atverese|2018": {
+  "imdb": "tt5164214",
+  "kind": "movie",
+  "orig": "Ocean's Eight",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2018
+ },
  "ocean s eleven tripla vagy semmi|2001": {
   "imdb": "tt0240772",
   "kind": "movie",
@@ -12590,6 +12775,14 @@
   "src": "tmdb",
   "ts": "2026-10-26",
   "y": 1999
+ },
+ "olve vagy halva|1990": {
+  "imdb": "tt0099739",
+  "kind": "movie",
+  "orig": "Hard to Kill",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1990
  },
  "omerta 6 12|2021": {
   "imdb": "tt11636880",
@@ -13819,6 +14012,14 @@
   "ts": "2026-11-13",
   "y": 2018
  },
+ "remeny foldjen|2018": {
+  "imdb": "tt5737536",
+  "kind": "movie",
+  "orig": "Future World",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2018
+ },
  "remeny rabjai|1994": {
   "imdb": "tt0111161",
   "kind": "movie",
@@ -13843,6 +14044,14 @@
   "src": "tmdb",
   "ts": "2026-11-04",
   "y": 2009
+ },
+ "rend orzoje|2001": {
+  "imdb": "tt0193364",
+  "kind": "movie",
+  "orig": "The Order",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2001
  },
  "rendorakademia 7 a rendorakademia moszkvaban|1994": {
   "imdb": "tt0110857",
@@ -14101,6 +14310,14 @@
   "src": "tmdb",
   "ts": "2026-10-25",
   "y": 2017
+ },
+ "romlott zsaruk|2008": {
+  "imdb": "tt0762145",
+  "kind": "movie",
+  "orig": "Vice",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2008
  },
  "romy es michele|1997": {
   "imdb": null,
@@ -14723,7 +14940,7 @@
  "skorpiokiraly a lelkek konyve|2018": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-13"
+  "ts": "2026-11-20"
  },
  "skorpiokiraly|2002": {
   "imdb": "tt0277296",
@@ -14736,7 +14953,7 @@
  "snetberger tanitvanyok a zene felemel|2016": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-10-23"
+  "ts": "2026-11-20"
  },
  "snetberger tanitvanyok|2016": {
   "imdb": null,
@@ -15130,6 +15347,14 @@
   "ts": "2026-11-01",
   "y": 2014
  },
+ "szabaditsatok ki willyt 2|1995": {
+  "imdb": "tt0113114",
+  "kind": "movie",
+  "orig": "Free Willy 2: The Adventure Home",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1995
+ },
  "szabaditsatok ki willyt|1993": {
   "imdb": "tt0106965",
   "kind": "movie",
@@ -15179,6 +15404,14 @@
   "src": "tmdb",
   "ts": "2026-10-23",
   "y": 2017
+ },
+ "szabotazs|2014": {
+  "imdb": "tt1742334",
+  "kind": "movie",
+  "orig": "Sabotage",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2014
  },
  "szaffi|1985": {
   "imdb": "tt0137226",
@@ -16327,10 +16560,18 @@
   "ts": "2026-10-26",
   "y": 2017
  },
+ "te rongyos elet|1983": {
+  "imdb": "tt0086421",
+  "kind": "movie",
+  "orig": "Te rongyos élet",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1984
+ },
  "teleshop|2025": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-13"
+  "ts": "2026-11-20"
  },
  "teleshop|2026": {
   "imdb": null,
@@ -16352,6 +16593,14 @@
   "src": "tmdb",
   "ts": "2026-10-27",
   "y": 2025
+ },
+ "temetetlen halott|2004": {
+  "imdb": "tt0371307",
+  "kind": "movie",
+  "orig": "A temetetlen halott",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2004
  },
  "tengereszgyalogos 2|2009": {
   "imdb": "tt1266027",
@@ -16781,6 +17030,14 @@
   "ts": "2026-10-29",
   "y": 2012
  },
+ "tokeletes katona a leszamolas napja|2012": {
+  "imdb": "tt1659343",
+  "kind": "movie",
+  "orig": "Universal Soldier: Day of Reckoning",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2012
+ },
  "tokeletes nap|2006": {
   "imdb": "tt0839949",
   "kind": "movie",
@@ -16788,6 +17045,14 @@
   "src": "tmdb",
   "ts": "2026-11-04",
   "y": 2006
+ },
+ "tokeletes pasi|2005": {
+  "imdb": "tt0380623",
+  "kind": "movie",
+  "orig": "The Perfect Man",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2005
  },
  "tokmag es gazolaj vakacio negy kereken|2015": {
   "imdb": "tt3882000",
@@ -16989,7 +17254,7 @@
  "torvenyszeki esetek vedtelen nok gyilkosa|2019": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-10-24"
+  "ts": "2026-11-20"
  },
  "total gaz|2016": {
   "imdb": "tt4993964",
@@ -18437,6 +18702,14 @@
   "ts": "2026-11-11",
   "y": 2024
  },
+ "videki romanc|2020": {
+  "imdb": "tt12536348",
+  "kind": "movie",
+  "orig": "A Country Romance",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2021
+ },
  "vigyazz kesz eskuvo|2019": {
   "imdb": "tt10108544",
   "kind": "movie",
@@ -18556,6 +18829,14 @@
   "src": "tmdb",
   "ts": "2026-11-05",
   "y": 2011
+ },
+ "vitathatatlan 2|2006": {
+  "imdb": "tt0443676",
+  "kind": "movie",
+  "orig": "Undisputed II: Last Man Standing",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2006
  },
  "vitathatatlan|2002": {
   "imdb": "tt0281322",
@@ -18714,6 +18995,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2020
+ },
+ "wonder woman|2017": {
+  "imdb": "tt0451279",
+  "kind": "movie",
+  "orig": "Wonder Woman",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2017
  },
  "wonka|2023": {
   "imdb": "tt6166392",
