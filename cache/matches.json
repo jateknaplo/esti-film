@@ -1283,6 +1283,14 @@
   "ts": "2026-11-12",
   "y": 1993
  },
+ "arsene lupin|2004": {
+  "imdb": "tt0373690",
+  "kind": "movie",
+  "orig": "Arsène Lupin",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2004
+ },
  "artatlan gyilkosok|1973": {
   "imdb": "tt0176352",
   "kind": "movie",
@@ -1676,6 +1684,14 @@
   "src": "tmdb",
   "ts": "2026-11-17",
   "y": 1996
+ },
+ "barbarokra varva|2019": {
+  "imdb": "tt6149154",
+  "kind": "movie",
+  "orig": "Waiting for the Barbarians",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2020
  },
  "barbar|2006": {
   "imdb": null,
@@ -2372,6 +2388,14 @@
   "ts": "2026-11-07",
   "y": 1982
  },
+ "bosszuvagy 5 bosszu kedvesemert|1994": {
+  "imdb": "tt0109578",
+  "kind": "movie",
+  "orig": "Death Wish V: The Face of Death",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1994
+ },
  "bosszuvagy a terror utcaja|1985": {
   "imdb": "tt0089003",
   "kind": "movie",
@@ -2428,6 +2452,14 @@
   "src": "tmdb",
   "ts": "2026-11-07",
   "y": 2002
+ },
+ "bourne ultimatum|2007": {
+  "imdb": "tt0440963",
+  "kind": "movie",
+  "orig": "The Bourne Ultimatum",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2007
  },
  "braven|2018": {
   "imdb": "tt5001754",
@@ -3309,6 +3341,14 @@
   "ts": "2026-11-15",
   "y": 2007
  },
+ "csucsra tores|2022": {
+  "imdb": "tt8514848",
+  "kind": "movie",
+  "orig": "Summit Fever",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2022
+ },
  "csudafilm|2005": {
   "imdb": "tt0407703",
   "kind": "movie",
@@ -3937,6 +3977,11 @@
   "ts": "2026-11-04",
   "y": 2023
  },
+ "egy ev parhuzamos emlekezesek 1944 marcius 19 rol|2014": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-20"
+ },
  "egy fiurol|2002": {
   "imdb": "tt0276751",
   "kind": "movie",
@@ -4459,6 +4504,14 @@
   "ts": "2026-10-22",
   "y": 2013
  },
+ "elnokok|2021": {
+  "imdb": "tt13558724",
+  "kind": "movie",
+  "orig": "Présidents",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2021
+ },
  "elrabolva 2|2012": {
   "imdb": "tt1397280",
   "kind": "movie",
@@ -4730,6 +4783,14 @@
   "ts": "2026-11-12",
   "y": 2010
  },
+ "en frankenstein|2013": {
+  "imdb": "tt1418377",
+  "kind": "movie",
+  "orig": "I, Frankenstein",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2014
+ },
  "en is teged nagyon|2012": {
   "imdb": null,
   "src": "tmdb",
@@ -4749,6 +4810,14 @@
   "tmdb_tried": true,
   "ts": "2026-11-08",
   "y": 2024
+ },
+ "enek a buzamezokrol|1947": {
+  "imdb": "tt0040020",
+  "kind": "movie",
+  "orig": "Ének a búzamezőkről",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1947
  },
  "enekelj|2016": {
   "imdb": "tt3470600",
@@ -5388,6 +5457,14 @@
   "src": "tmdb",
   "ts": "2026-10-30",
   "y": 1962
+ },
+ "felszemu|2010": {
+  "imdb": "tt1403865",
+  "kind": "movie",
+  "orig": "True Grit",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2010
  },
  "feltamadas makucskan|1995": {
   "imdb": "tt0489476",
@@ -6695,6 +6772,14 @@
   "ts": "2026-10-25",
   "y": 2016
  },
+ "halloweeni korhinta|2023": {
+  "imdb": "tt24017902",
+  "kind": "movie",
+  "orig": "Karusell",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2023
+ },
  "halloween|2018": {
   "imdb": "tt1502407",
   "kind": "movie",
@@ -7203,6 +7288,14 @@
   "ts": "2026-10-31",
   "y": 1986
  },
+ "hekus lettem|1972": {
+  "imdb": "tt0068691",
+  "kind": "movie",
+  "orig": "Hekus lettem",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1972
+ },
  "hellbound ut a pokolba|1994": {
   "imdb": "tt0107101",
   "kind": "movie",
@@ -7218,6 +7311,14 @@
   "src": "tmdb",
   "ts": "2026-10-30",
   "y": 2008
+ },
+ "hellboy|2019": {
+  "imdb": "tt2274648",
+  "kind": "movie",
+  "orig": "Hellboy",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2019
  },
  "hello goodbye|2008": {
   "imdb": "tt1160012",
@@ -8238,6 +8339,14 @@
   "ts": "2026-11-20",
   "y": 2024
  },
+ "jane titokzatos esetei veszelyes nyeremeny|2024": {
+  "imdb": "tt33132332",
+  "kind": "movie",
+  "orig": "The Jane Mysteries: Too Much to Lose",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2024
+ },
  "jankovicsok egy csalad tortenete|2021": {
   "imdb": "tt20881040",
   "kind": "movie",
@@ -8555,6 +8664,14 @@
   "ts": "2026-11-08",
   "y": 1977
  },
+ "kabalapasi|2007": {
+  "imdb": "tt0452625",
+  "kind": "movie",
+  "orig": "Good Luck Chuck",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2007
+ },
  "kalandorok|1967": {
   "imdb": "tt0061376",
   "kind": "movie",
@@ -8732,6 +8849,11 @@
   "ts": "2026-10-26",
   "y": 2017
  },
+ "karacsony miatt nyitva|2015": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-20"
+ },
  "karacsony springdale ben|2018": {
   "imdb": "tt9168416",
   "kind": "movie",
@@ -8842,6 +8964,14 @@
   "src": "tmdb",
   "ts": "2026-11-17",
   "y": 2020
+ },
+ "karacsonyi takaro|2023": {
+  "imdb": "tt27773299",
+  "kind": "movie",
+  "orig": "The Fabric of Christmas",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2023
  },
  "karacsonyi tanclepesek|2020": {
   "imdb": "tt11667022",
@@ -9615,6 +9745,14 @@
   "ts": "2026-11-09",
   "y": 2008
  },
+ "klonok|2018": {
+  "imdb": "tt4154916",
+  "kind": "movie",
+  "orig": "Replicas",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2018
+ },
  "knight nyomozo 3 fuggetlenseg|2023": {
   "imdb": "tt22394702",
   "kind": "movie",
@@ -9954,6 +10092,14 @@
   "src": "tmdb",
   "ts": "2026-11-12",
   "y": 2021
+ },
+ "kozos cel karacsony|2020": {
+  "imdb": "tt13342118",
+  "kind": "movie",
+  "orig": "Swept Up by Christmas",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2020
  },
  "kozottunk az ur|2017": {
   "imdb": "tt3922818",
@@ -10312,6 +10458,14 @@
   "src": "tmdb",
   "ts": "2026-10-24",
   "y": 2009
+ },
+ "lechner orokseg|2025": {
+  "imdb": "tt37727776",
+  "kind": "movie",
+  "orig": "A Lechner örökség",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2025
  },
  "lefozve|2023": {
   "imdb": "tt22496962",
@@ -11111,6 +11265,14 @@
   "ts": "2026-10-24",
   "y": 2017
  },
+ "martfui rem|2016": {
+  "imdb": "tt4975280",
+  "kind": "movie",
+  "orig": "A martfűi rém",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2016
+ },
  "mas vilag|2001": {
   "imdb": "tt0230600",
   "kind": "movie",
@@ -11220,6 +11382,14 @@
   "src": "tmdb",
   "ts": "2026-11-01",
   "y": 1994
+ },
+ "max a karacsonyi kutya|2023": {
+  "imdb": "tt29353026",
+  "kind": "movie",
+  "orig": "My Christmas Guide",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2023
  },
  "meg zoldebb a szomszed noje|1995": {
   "imdb": "tt0113228",
@@ -11520,6 +11690,14 @@
   "ts": "2026-11-07",
   "y": 2015
  },
+ "mentoexpedicio|2015": {
+  "imdb": "tt3659388",
+  "kind": "movie",
+  "orig": "The Martian",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2015
+ },
  "mentsuk meg a karacsonyt|2010": {
   "imdb": "tt1708459",
   "kind": "movie",
@@ -11564,6 +11742,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 1957
+ },
+ "mese a boseg foldjerol|2016": {
+  "imdb": "tt6366006",
+  "kind": "movie",
+  "orig": "Das Märchen vom Schlaraffenland",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2016
  },
  "meseauto|2000": {
   "imdb": "tt0265317",
@@ -11671,6 +11857,15 @@
   "tmdb_tried": true,
   "ts": "2026-10-29",
   "y": 2021
+ },
+ "mi szemuvegesek|2004": {
+  "imdb": "tt0903634",
+  "kind": "movie",
+  "orig": "Mi, szemüvegesek",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-20",
+  "y": 2004
  },
  "micsoda hosno|2022": {
   "imdb": "tt15676954",
@@ -12000,6 +12195,14 @@
   "ts": "2026-10-25",
   "y": 2007
  },
+ "mr morgan utolso szerelme|2013": {
+  "imdb": "tt1838603",
+  "kind": "movie",
+  "orig": "Mr. Morgan's Last Love",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2013
+ },
  "mr universe|1988": {
   "imdb": "tt0095666",
   "kind": "movie",
@@ -12111,6 +12314,14 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-11-02"
+ },
+ "naga gyemant legendaja|2017": {
+  "imdb": "tt6288650",
+  "kind": "movie",
+  "orig": "鲛珠传",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2017
  },
  "nagy balhe|1973": {
   "imdb": "tt0070735",
@@ -14495,6 +14706,14 @@
   "ts": "2026-11-04",
   "y": 2006
  },
+ "ryan kozlegeny megmentese|1998": {
+  "imdb": "tt0120815",
+  "kind": "movie",
+  "orig": "Saving Private Ryan",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 1998
+ },
  "s w a t kulonleges kommando|2003": {
   "imdb": "tt0257076",
   "kind": "movie",
@@ -14784,6 +15003,14 @@
   "src": "tmdb",
   "ts": "2026-11-09",
   "y": 2019
+ },
+ "sharknado 2 a masodik harapas|2014": {
+  "imdb": "tt3062074",
+  "kind": "movie",
+  "orig": "Sharknado 2: The Second One",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2014
  },
  "sharknado 3 a vegso harapas|2015": {
   "imdb": "tt3899796",
@@ -16061,6 +16288,14 @@
   "ts": "2026-10-22",
   "y": 2009
  },
+ "szivek kikotoje|2020": {
+  "imdb": "tt13972476",
+  "kind": "movie",
+  "orig": "Fishing for Love",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2021
+ },
  "szivos karacsony|2021": {
   "imdb": "tt8582056",
   "kind": "movie",
@@ -16361,6 +16596,14 @@
   "ts": "2026-10-22",
   "y": 2016
  },
+ "tai chi harcosa|2013": {
+  "imdb": "tt2016940",
+  "kind": "movie",
+  "orig": "Man of Tai Chi",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2013
+ },
  "talpig fegyverben|2019": {
   "imdb": "tt6902676",
   "kind": "movie",
@@ -16428,6 +16671,14 @@
   "orig": "Tango & Cash",
   "src": "tmdb",
   "ts": "2026-10-22",
+  "y": 1989
+ },
+ "tanmesek a szexrol|1988": {
+  "imdb": "tt0440849",
+  "kind": "movie",
+  "orig": "Tanmesék a szexről",
+  "src": "tmdb",
+  "ts": "2026-11-20",
   "y": 1989
  },
  "tanu|1969": {
@@ -17228,6 +17479,15 @@
   "src": "tmdb",
   "ts": "2026-10-24",
   "y": 2020
+ },
+ "tortenet a mangalicarol|2015": {
+  "imdb": "tt15866788",
+  "kind": "movie",
+  "orig": "Történet a mangalicáról",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-20",
+  "y": 2015
  },
  "torvenyen kivul|2001": {
   "imdb": "tt0244000",
@@ -18662,6 +18922,14 @@
   "ts": "2026-11-02",
   "y": 2017
  },
+ "veszelyben az eszaki sark|2014": {
+  "imdb": "tt3595848",
+  "kind": "movie",
+  "orig": "Northpole",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2014
+ },
  "veszelyes vizeken|1994": {
   "imdb": "tt0110997",
   "kind": "movie",
@@ -18971,6 +19239,14 @@
   "src": "tmdb",
   "ts": "2026-11-05",
   "y": 2011
+ },
+ "war|2007": {
+  "imdb": "tt0499556",
+  "kind": "movie",
+  "orig": "War",
+  "src": "tmdb",
+  "ts": "2026-11-20",
+  "y": 2007
  },
  "wasabi mar mint a mustar|2001": {
   "imdb": "tt0281364",
