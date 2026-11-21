@@ -35,7 +35,7 @@ Cím: **https://jateknaplo.github.io/esti-film/** — az oldal mind a 7 nap est�
 
 ### GitHub Actions → GitHub Pages
 
-`.github/workflows/build.yml`: naponta 07:00, 14:00, 19:00 (Budapest; a 6 UTC-cronból a „gate” job az aktuális időszámításnak megfelelőt engedi), plusz kézi indítás (Actions → Esti film → Run workflow). Lépései: címindex (havonta) → `build.py` → `cache/matches.json` visszaírása → GitHub Pages.
+`.github/workflows/build.yml`: naponta hatszor, óra:17-kor (télen 06–07, 13–14, 18–19 óra körül Budapesten; a GitHub az időzített futásokat gyakran órákkal késlelteti, ezért van mindből kettő), plus kézi indítás (Actions → Esti film → Run workflow). A kitétel átmeneti hiba esetén egy perc múlva újrapróbál. Lépései: címindex (havonta) → `build.py` → `cache/matches.json` visszaírása → GitHub Pages.
 
 - Források: a GitHub szervereit a musor.tv 403-mal tiltja, ezért ott a port.hu az elsődleges (`ESTI_FORRAS=port`); a port.hu-n nem szereplő Canal+ Action a tvmustra.hu csatornanapi oldaláról jön.
 - A repó publikus, a watchlist nincs benne: a `WATCHLIST_IDS` titkos változó a tt-azonosítókat tartalmazza. Frissítés: új CSV a `data/` mappába, majd `python scripts/set_secrets.py`.

@@ -2,16 +2,11 @@ name: Esti film
 
 on:
   schedule:
-    # A cron UTC-ben fut. 07:00, 14:00 és 19:00 Budapesten:
-    #   nyári idő (CEST, UTC+2): 05, 12, 17 UTC
-    #   téli idő  (CET,  UTC+1): 06, 13, 18 UTC
-    # Mind a hat elindul, a "gate" job csak az aktuális időszámításnak megfelelőt engedi tovább.
-    - cron: "0 5 * * *"
-    - cron: "0 12 * * *"
-    - cron: "0 17 * * *"
-    - cron: "0 6 * * *"
-    - cron: "0 13 * * *"
-    - cron: "0 18 * * *"
+    # A cron UTC-ben fut, és a GitHub az egész órás időzítéseket gyakran 1-5 órát késlelteti.
+    # Ezért óra:17-kor indul, és mind a hat időpont lefut (publikus repóban az Actions ingyenes):
+    #   télen (CET)  06:17, 07:17, 13:17, 14:17, 18:17, 19:17 Budapest
+    #   nyáron (CEST) 07:17, 08:17, 14:17, 15:17, 19:17, 20:17 Budapest
+    - cron: "17 5,6,12,13,17,18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,28 +19,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  gate:
-    runs-on: ubuntu-latest
-    outputs:
-      run: ${{ steps.g.outputs.run }}
-    steps:
-      - id: g
-        run: |
-          run=yes
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            off=$(TZ=Europe/Budapest date +%z)
-            case "${{ github.event.schedule }}" in
-              "0 5 * * *"|"0 12 * * *"|"0 17 * * *") want=+0200 ;;
-              *) want=+0100 ;;
-            esac
-            [ "$off" = "$want" ] || run=no
-            echo "Budapest: $off, ez a cron ehhez: $want -> $run"
-          fi
-          echo "run=$run" >> "$GITHUB_OUTPUT"
-
   build:
-    needs: gate
-    if: needs.gate.outputs.run == 'yes'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     environment:
@@ -91,5 +65,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+      # a kitétel néha átmeneti GitHub-hiba miatt elbukik ("Fetching artifact metadata failed"):
+      # egy perc múlva még egyszer megpróbáljuk
       - id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - if: steps.deploy.outcome == 'failure'
+        run: sleep 60
+      - id: deploy2
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
