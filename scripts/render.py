@@ -174,9 +174,19 @@ def errors_box(ctx):
     items = [f'<li><b>{e(ch)}</b>: {e(msg)} ({", ".join(date.fromisoformat(d).strftime("%m.%d.") for d in sorted(days))})</li>'
              for (ch, msg), days in sorted(by.items())]
     items += [f"<li>{n}</li>" for n in notes]
-    cls = "errors" if errs else "errors soft"
-    return f'<details class="{cls}" {"open" if errs else ""}><summary>{len(errs)} lekérési hiba' \
-           f'{" · " + str(len(notes)) + " megjegyzés" if notes else ""}</summary><ul>{"".join(items)}</ul></details>'
+    # a "port.hu nem válaszolt, régebbi adat" csak megjegyzés; hiba az, ahol tényleg nincs műsor
+    hard = sorted({x["ch"] for x in errs if x["ch"] != "port.hu"})
+    soft = [x for x in errs if x["ch"] == "port.hu"]
+    parts = []
+    if hard:
+        parts.append(f"{len(hard)} csatornánál hiányzik műsor")
+    if soft:
+        parts.append("a port.hu kiesett, régebbi műsor látszik")
+    if notes:
+        parts.append(f"{len(notes)} megjegyzés")
+    cls = "errors" if hard else "errors soft"
+    return f'<details class="{cls}" {"open" if hard else ""}><summary>{" · ".join(parts)}' \
+           f'</summary><ul>{"".join(items)}</ul></details>'
 
 
 CSS = """

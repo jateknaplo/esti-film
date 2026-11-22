@@ -100,30 +100,52 @@ def fetch_schedules(channels, today, offline, log):
         save_json(dpath, details)
         return missing
 
-    # ESTI_FORRAS=port: a port.hu az elsődleges (a musor.tv 403-mal tiltja a GitHub szervereit);
-    # naponta egy kérés az összes csatornára, a port.hu-n nem szereplők mennek a musor.tv-ről
-    if os.environ.get("ESTI_FORRAS") == "port" and not offline:
-        for i in range(WEEK_DAYS):
-            d = today + timedelta(days=i)
-            need = [ch for ch, dd in plan if dd == d and ch.get("port") and stale(ch, d)]
-            if not need:
-                continue
-            try:
-                got = porthu.day([ch["port"] for ch in need], d)
-            except Exception as e:
-                log(f"  port.hu {d:%m.%d} HIBA: {e}")
-                continue
-            for ch in need:
-                evs = got.get(ch["port"], [])
-                if evs:
-                    save_json(cpath(ch, d), {"fetched": time.time(), "src": "port.hu", "events": evs})
-            log(f"  port.hu {d:%m.%d}: {sum(1 for ch in need if got.get(ch['port']))}/{len(need)} csatorna")
-        tvmustra_fill([(ch, d) for ch, d in plan if ch.get("tvmustra") and not ch.get("port") and stale(ch, d)])
+    # ESTI_FORRAS=port (GitHubon): a musor.tv 403-mal tiltja a GitHub szervereit, ezért kimarad.
+    # port.hu: naponta egy kérés az összes csatornára; az időnként adott 503 miatt két újrapróba
+    # (1 és 3 perc múlva). Ha így sem megy, a régebbi letöltés marad; ahol nincs semmi, ott tvmustra.hu.
+    port_mode = os.environ.get("ESTI_FORRAS") == "port" and not offline
+    if port_mode:
+        pending = {}
+        for ch, d in plan:
+            if ch.get("port") and stale(ch, d):
+                pending.setdefault(d, []).append(ch)
+        for attempt in range(3):
+            for d in sorted(pending):
+                need = pending[d]
+                if not need:
+                    continue
+                try:
+                    got = porthu.day([ch["port"] for ch in need], d)
+                except Exception as e:
+                    log(f"  port.hu {d:%m.%d} HIBA: {e}")
+                    continue
+                for ch in need:
+                    if got.get(ch["port"]):
+                        save_json(cpath(ch, d), {"fetched": time.time(), "src": "port.hu", "events": got[ch["port"]]})
+                pending[d] = [ch for ch in need if not got.get(ch["port"])]
+                log(f"  port.hu {d:%m.%d}: {len(need) - len(pending[d])}/{len(need)} csatorna")
+            if not any(pending.values()) or attempt == 2:
+                break
+            wait = 60 if attempt == 0 else 180
+            log(f"  port.hu: {sum(1 for v in pending.values() if v)} nap hiányzik, újrapróba {wait} mp múlva")
+            time.sleep(wait)
+        for d, chs in sorted(pending.items()):
+            if any(os.path.exists(cpath(ch, d)) for ch in chs):
+                errors.append({"ch": "port.hu", "day": d.isoformat(),
+                               "msg": "nem válaszolt, a korábban letöltött műsor látszik"})
+        # tvmustra: a port.hu-n nem szereplők, és ahol a port.hu-ból egyáltalán nincs adat (max. 60 csatorna-nap)
+        items = [(ch, d) for ch, d in plan if ch.get("tvmustra") and not ch.get("port") and stale(ch, d)]
+        items += [(ch, d) for d, chs in sorted(pending.items()) for ch in chs
+                  if ch.get("tvmustra") and not os.path.exists(cpath(ch, d))][:60]
+        tvmustra_fill(items)
+        for ch, d in plan:
+            if not os.path.exists(cpath(ch, d)):
+                errors.append({"ch": ch["nev"], "day": d.isoformat(), "msg": "nincs műsor egyik forrásból sem"})
 
     failed = []
     streak = 0  # egymás utáni hibák: 5 után a musor.tv-t erre a futásra feladjuk
     for ch, d in plan:
-        if offline or not stale(ch, d):
+        if offline or port_mode or not stale(ch, d):
             continue
         if streak >= 5:
             failed.append((ch, d, "musor.tv nem elérhető"))
