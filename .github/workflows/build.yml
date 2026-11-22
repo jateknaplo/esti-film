@@ -2,11 +2,11 @@ name: Esti film
 
 on:
   schedule:
-    # A cron UTC-ben fut, és a GitHub az egész órás időzítéseket gyakran 1-5 órát késlelteti.
-    # Ezért óra:17-kor indul, és mind a hat időpont lefut (publikus repóban az Actions ingyenes):
-    #   télen (CET)  06:17, 07:17, 13:17, 14:17, 18:17, 19:17 Budapest
-    #   nyáron (CEST) 07:17, 08:17, 14:17, 15:17, 19:17, 20:17 Budapest
-    - cron: "17 5,6,12,13,17,18 * * *"
+    # A cron UTC-ben fut, és nem követi az óraátállítást; a GitHub az időzítést gyakran órákkal
+    # késlelteti, ezért óra:17-kor indul. Az oldal mind a 7 estét tartalmazza, így napi 3 futás elég:
+    #   télen (CET)  06:17, 13:17, 18:17 Budapest
+    #   nyáron (CEST) 07:17, 14:17, 19:17 Budapest
+    - cron: "17 5,12,17 * * *"
   workflow_dispatch:
 
 permissions:
