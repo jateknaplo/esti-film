@@ -827,7 +827,7 @@
  "alpesi titkok otthon a hegyek kozott|2018": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-15"
+  "ts": "2026-11-22"
  },
  "alpesi titkok viharfelhok|2018": {
   "imdb": null,
@@ -985,6 +985,14 @@
   "src": "tmdb",
   "ts": "2026-11-01",
   "y": 2014
+ },
+ "amszterdam|2022": {
+  "imdb": "tt10304142",
+  "kind": "movie",
+  "orig": "Amsterdam",
+  "src": "tmdb",
+  "ts": "2026-11-22",
+  "y": 2022
  },
  "angelo mester fotografal|2004": {
   "imdb": null,
@@ -2413,6 +2421,14 @@
   "ts": "2026-10-26",
   "y": 1987
  },
+ "bosszuvagy|2018": {
+  "imdb": "tt1137450",
+  "kind": "movie",
+  "orig": "Death Wish",
+  "src": "tmdb",
+  "ts": "2026-11-22",
+  "y": 2018
+ },
  "bosszu|2017": {
   "imdb": "tt6738136",
   "kind": "movie",
@@ -3771,7 +3787,7 @@
  "dungeons and dragons 3 a satani sotetseg konyve|2012": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-15"
+  "ts": "2026-11-22"
  },
  "dungeons and dragons a satani sotetseg konyve|2012": {
   "imdb": null,
@@ -9705,6 +9721,14 @@
   "ts": "2026-10-26",
   "y": 2025
  },
+ "kitores los angelesben|2018": {
+  "imdb": "tt6164854",
+  "kind": "movie",
+  "orig": "Eruption: LA",
+  "src": "tmdb",
+  "ts": "2026-11-22",
+  "y": 2018
+ },
  "kittenberger az utolso vadaszat|2021": {
   "imdb": "tt16375942",
   "kind": "movie",
@@ -10792,6 +10816,14 @@
   "src": "tmdb",
   "ts": "2026-11-15",
   "y": 2002
+ },
+ "lopakodok 3|2004": {
+  "imdb": "tt0408196",
+  "kind": "movie",
+  "orig": "Sniper 3",
+  "src": "tmdb",
+  "ts": "2026-11-22",
+  "y": 2004
  },
  "lopakodok a vegso ellenallas|2025": {
   "imdb": "tt34910018",
@@ -13928,6 +13960,14 @@
   "ts": "2026-10-22",
   "y": 2016
  },
+ "priscilla|2023": {
+  "imdb": "tt22041854",
+  "kind": "movie",
+  "orig": "Priscilla",
+  "src": "tmdb",
+  "ts": "2026-11-22",
+  "y": 2023
+ },
  "probatetel|2007": {
   "imdb": "tt0489664",
   "kind": "movie",
@@ -15915,6 +15955,14 @@
   "ts": "2026-10-22",
   "y": 1996
  },
+ "szepek es bolondok|1976": {
+  "imdb": "tt0075300",
+  "kind": "movie",
+  "orig": "Szépek és bolondok",
+  "src": "tmdb",
+  "ts": "2026-11-22",
+  "y": 1976
+ },
  "szerelem a feher hazban|1995": {
   "imdb": "tt0112346",
   "kind": "movie",
@@ -16044,9 +16092,12 @@
   "y": 2014
  },
  "szerelem mezedesen|2026": {
-  "imdb": null,
+  "imdb": "tt39377308",
+  "kind": "movie",
+  "orig": "Bee My Love",
   "src": "tmdb",
-  "ts": "2026-11-15"
+  "ts": "2026-11-22",
+  "y": 2026
  },
  "szerelem nem szegyen|1940": {
   "imdb": "tt0033125",
