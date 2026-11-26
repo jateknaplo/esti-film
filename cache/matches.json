@@ -992,6 +992,14 @@
   "ts": "2026-10-22",
   "y": 1988
  },
+ "amerikai botrany|2013": {
+  "imdb": "tt1800241",
+  "kind": "movie",
+  "orig": "American Hustle",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2013
+ },
  "amerikai gengszter|2007": {
   "imdb": "tt0765429",
   "kind": "movie",
@@ -1031,6 +1039,14 @@
   "src": "tmdb",
   "ts": "2026-11-18",
   "y": 1989
+ },
+ "amerikai nindzsa 4 az uj kuldetes|1991": {
+  "imdb": "tt0101326",
+  "kind": "movie",
+  "orig": "American Ninja 4: The Annihilation",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1990
  },
  "amerikai nindzsa|1985": {
   "imdb": "tt0088708",
@@ -1087,6 +1103,14 @@
   "src": "tmdb",
   "ts": "2026-11-22",
   "y": 2022
+ },
+ "anaconda|1997": {
+  "imdb": "tt0118615",
+  "kind": "movie",
+  "orig": "Anaconda",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1997
  },
  "angelo mester fotografal|2004": {
   "imdb": null,
@@ -1705,6 +1729,14 @@
   "ts": "2026-10-22",
   "y": 1995
  },
+ "bagger vance legendaja|2000": {
+  "imdb": "tt0146984",
+  "kind": "movie",
+  "orig": "The Legend of Bagger Vance",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2000
+ },
  "bagossy brothers company 10 eve uton|2023": {
   "imdb": null,
   "src": "tmdb",
@@ -1749,6 +1781,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2025
+ },
+ "balfacan|1981": {
+  "imdb": "tt0082183",
+  "kind": "movie",
+  "orig": "La Chèvre",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1981
  },
  "balhes nyaralas|2024": {
   "imdb": "tt32146448",
@@ -2089,6 +2129,15 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-10-22"
+ },
+ "bekebeli budapest|2016": {
+  "imdb": "tt25012860",
+  "kind": "movie",
+  "orig": "Békebeli Budapest",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-26",
+  "y": 2016
  },
  "belem szeretsz karacsonyig|2019": {
   "imdb": "tt10854916",
@@ -3332,6 +3381,14 @@
   "ts": "2026-11-07",
   "y": 2024
  },
+ "csaszarok klubja|2002": {
+  "imdb": "tt0283530",
+  "kind": "movie",
+  "orig": "The Emperor's Club",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2002
+ },
  "csatater|1978": {
   "imdb": "tt0174566",
   "kind": "movie",
@@ -4195,6 +4252,14 @@
   "ts": "2026-11-05",
   "y": 1993
  },
+ "eg velunk|2000": {
+  "imdb": "tt0171433",
+  "kind": "movie",
+  "orig": "Keeping the Faith",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2000
+ },
  "egertanya|1997": {
   "imdb": "tt0119715",
   "kind": "movie",
@@ -4413,6 +4478,14 @@
   "src": "tmdb",
   "ts": "2026-11-02",
   "y": 2018
+ },
+ "egy nehez nap|1998": {
+  "imdb": "tt0124901",
+  "kind": "movie",
+  "orig": "Thursday",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1998
  },
  "egy szelet chicago|2021": {
   "imdb": "tt15821952",
@@ -5448,6 +5521,14 @@
   "ts": "2026-11-18",
   "y": 2012
  },
+ "expendables a felaldozhatok 3|2014": {
+  "imdb": "tt2333784",
+  "kind": "movie",
+  "orig": "The Expendables 3",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2014
+ },
  "expendables a felaldozhatok|2010": {
   "imdb": "tt1320253",
   "kind": "movie",
@@ -6410,7 +6491,7 @@
  "gengszterzsaruk 2|2025": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-10-22"
+  "ts": "2026-11-26"
  },
  "gengszterzsaruk pantera|2025": {
   "imdb": "tt8008948",
@@ -6427,6 +6508,14 @@
   "src": "tmdb",
   "ts": "2026-11-04",
   "y": 2018
+ },
+ "gep|2013": {
+  "imdb": "tt2317225",
+  "kind": "movie",
+  "orig": "The Machine",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2013
  },
  "gep|2023": {
   "imdb": "tt5884796",
@@ -7156,6 +7245,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2005
+ },
+ "halalom napja|2020": {
+  "imdb": "tt1830643",
+  "kind": "movie",
+  "orig": "Death of Me",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2020
  },
  "halalos fegyver 2|1989": {
   "imdb": "tt0097733",
@@ -8004,6 +8101,14 @@
   "ts": "2026-10-22",
   "y": 1999
  },
+ "hirtelen halal|1995": {
+  "imdb": "tt0114576",
+  "kind": "movie",
+  "orig": "Sudden Death",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1995
+ },
  "hirtelen menyasszony|2024": {
   "imdb": "tt32373672",
   "kind": "movie",
@@ -8460,9 +8565,13 @@
   "y": 2009
  },
  "igaban|2022": {
-  "imdb": null,
-  "src": "tmdb",
-  "ts": "2026-11-18"
+  "imdb": "tt49895178",
+  "kind": "movie",
+  "orig": "Igában",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-26",
+  "y": 2022
  },
  "igazi mikulas|2005": {
   "imdb": "tt0414142",
@@ -9061,6 +9170,14 @@
   "ts": "2026-11-25",
   "y": 2006
  },
+ "jesse stone rejtelyes bankrablas|2007": {
+  "imdb": "tt0905345",
+  "kind": "movie",
+  "orig": "Jesse Stone: Sea Change",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2007
+ },
  "jesse stone szuksegtelen gyilkossag|2006": {
   "imdb": "tt0498360",
   "kind": "movie",
@@ -9575,6 +9692,14 @@
   "ts": "2026-11-03",
   "y": 2012
  },
+ "karacsonyi kaosz|2014": {
+  "imdb": "tt3725224",
+  "kind": "movie",
+  "orig": "One Christmas Eve",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2014
+ },
  "karacsonyi kivansag csak meg ot perc|2022": {
   "imdb": "tt22309036",
   "kind": "movie",
@@ -9984,6 +10109,14 @@
   "ts": "2026-10-26",
   "y": 2009
  },
+ "kepvadaszok|1985": {
+  "imdb": "tt0089447",
+  "kind": "movie",
+  "orig": "Képvadászok",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1986
+ },
  "kepzeletbeli baratok|2024": {
   "imdb": "tt11152168",
   "kind": "movie",
@@ -10213,6 +10346,14 @@
   "src": "tmdb",
   "ts": "2026-11-24",
   "y": 2021
+ },
+ "kihajolni veszelyes|1978": {
+  "imdb": "tt0077799",
+  "kind": "movie",
+  "orig": "Kihajolni veszélyes",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1978
  },
  "kilencedik kapu|1999": {
   "imdb": "tt0142688",
@@ -10519,6 +10660,14 @@
   "src": "tmdb",
   "ts": "2026-10-22",
   "y": 2023
+ },
+ "kobra|1978": {
+  "imdb": "tt0078252",
+  "kind": "movie",
+  "orig": "蛇形刁手",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1978
  },
  "kobra|1986": {
   "imdb": "tt0090859",
@@ -11681,6 +11830,14 @@
   "ts": "2026-11-20",
   "y": 2001
  },
+ "lucky luke a daltonok szokesben|1983": {
+  "imdb": "tt0085394",
+  "kind": "movie",
+  "orig": "Lucky Luke : Les Dalton en cavale",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1983
+ },
  "lucky luke es a daltonok oroksege|1978": {
   "imdb": "tt0077204",
   "kind": "movie",
@@ -11870,6 +12027,14 @@
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-10-22"
+ },
+ "magas szoke ferfi visszater|1974": {
+  "imdb": "tt0072080",
+  "kind": "movie",
+  "orig": "Le Retour du Grand Blond",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1974
  },
  "magus|2006": {
   "imdb": "tt0443543",
@@ -13012,6 +13177,11 @@
   "ts": "2026-11-02",
   "y": 2015
  },
+ "mondani a mondhatatlant ellie wiesel uzenete|1996": {
+  "imdb": null,
+  "src": "tmdb",
+  "ts": "2026-11-26"
+ },
  "monster hunter szornybirodalom|2020": {
   "imdb": "tt6475714",
   "kind": "movie",
@@ -13616,7 +13786,7 @@
  "night board|2026": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-19"
+  "ts": "2026-11-26"
  },
  "niko az unikornis|1998": {
   "imdb": "tt0119782",
@@ -14025,10 +14195,26 @@
   "ts": "2026-10-27",
   "y": 2015
  },
+ "only you csak veled|1994": {
+  "imdb": "tt0110737",
+  "kind": "movie",
+  "orig": "Only You",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1994
+ },
  "orangyalhaz|2001": {
   "imdb": null,
   "src": "tmdb",
   "ts": "2026-11-03"
+ },
+ "ordog osszes embere|2018": {
+  "imdb": "tt6012244",
+  "kind": "movie",
+  "orig": "All the Devil's Men",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2018
  },
  "ordog pradat visel|2006": {
   "imdb": "tt0458352",
@@ -14337,6 +14523,14 @@
   "ts": "2026-10-26",
   "y": 2007
  },
+ "paciens|2025": {
+  "imdb": "tt31414242",
+  "kind": "movie",
+  "orig": "The Patient",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2026
+ },
  "paddington 2|2017": {
   "imdb": "tt4468740",
   "kind": "movie",
@@ -14390,6 +14584,14 @@
   "src": "tmdb",
   "ts": "2026-11-22",
   "y": 1990
+ },
+ "panama|2022": {
+  "imdb": "tt4029412",
+  "kind": "movie",
+  "orig": "Panama",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2022
  },
  "pancser police|2010": {
   "imdb": "tt1386588",
@@ -14613,6 +14815,14 @@
   "src": "tmdb",
   "ts": "2026-11-23",
   "y": 1998
+ },
+ "penz all a hazhoz|2006": {
+  "imdb": "tt0244521",
+  "kind": "movie",
+  "orig": "Funny Money",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2006
  },
  "penzcsinalo|2011": {
   "imdb": "tt1210166",
@@ -15399,6 +15609,14 @@
   "ts": "2026-11-02",
   "y": 1988
  },
+ "rendorsztori lezaras|2013": {
+  "imdb": "tt2599716",
+  "kind": "movie",
+  "orig": "警察故事2013",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2013
+ },
  "rendorsztori|1985": {
   "imdb": "tt0089374",
   "kind": "movie",
@@ -15592,6 +15810,14 @@
   "ts": "2026-11-18",
   "y": 1985
  },
+ "rocky 5|1990": {
+  "imdb": "tt0100507",
+  "kind": "movie",
+  "orig": "Rocky V",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1990
+ },
  "rocky balboa|2006": {
   "imdb": "tt0479143",
   "kind": "movie",
@@ -15615,6 +15841,14 @@
   "src": "tmdb",
   "ts": "2026-10-28",
   "y": 2023
+ },
+ "rohanas|2010": {
+  "imdb": "tt1433108",
+  "kind": "movie",
+  "orig": "Faster",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2010
  },
  "rolad alkotott kep|2024": {
   "imdb": "tt9466114",
@@ -16970,6 +17204,14 @@
   "ts": "2026-11-02",
   "y": 2020
  },
+ "szazkaratos szerelem|2013": {
+  "imdb": "tt2234261",
+  "kind": "movie",
+  "orig": "The Love Punch",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2014
+ },
  "szeditoen szoke|2007": {
   "imdb": "tt0887719",
   "kind": "movie",
@@ -17977,6 +18219,15 @@
   "ts": "2026-11-03",
   "y": 2016
  },
+ "tamadas a feher haz ellen 3 a vedangyal bukasa|2019": {
+  "imdb": "tt6189022",
+  "kind": "movie",
+  "orig": "Angel Has Fallen",
+  "src": "index",
+  "tmdb_tried": true,
+  "ts": "2026-11-26",
+  "y": 2019
+ },
  "tamadas a feher haz ellen|2013": {
   "imdb": "tt2302755",
   "kind": "movie",
@@ -18638,6 +18889,14 @@
   "ts": "2026-11-20",
   "y": 2012
  },
+ "tokeletes katona a visszateres|1999": {
+  "imdb": "tt0176269",
+  "kind": "movie",
+  "orig": "Universal Soldier: The Return",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 1999
+ },
  "tokeletes nap|2006": {
   "imdb": "tt0839949",
   "kind": "movie",
@@ -18742,6 +19001,14 @@
   "src": "tmdb",
   "ts": "2026-11-02",
   "y": 2012
+ },
+ "tomb raider|2018": {
+  "imdb": "tt1365519",
+  "kind": "movie",
+  "orig": "Tomb Raider",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2018
  },
  "tomurisz a sztyeppe kiralynoje|2019": {
   "imdb": "tt7985648",
@@ -19817,7 +20084,7 @@
  "vajdasagi triptichon oroksegunk|2021": {
   "imdb": null,
   "src": "tmdb",
-  "ts": "2026-11-19"
+  "ts": "2026-11-26"
  },
  "vak szenvedely|2001": {
   "imdb": "tt0259218",
@@ -19890,6 +20157,14 @@
   "src": "tmdb",
   "ts": "2026-11-17",
   "y": 2004
+ },
+ "valsag|2021": {
+  "imdb": "tt9731682",
+  "kind": "movie",
+  "orig": "Crisis",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2021
  },
  "valtsagdij|1996": {
   "imdb": "tt0117438",
@@ -20149,6 +20424,14 @@
   "src": "tmdb",
   "ts": "2026-11-18",
   "y": 2003
+ },
+ "vegso allomas 3|2006": {
+  "imdb": "tt0414982",
+  "kind": "movie",
+  "orig": "Final Destination 3",
+  "src": "tmdb",
+  "ts": "2026-11-26",
+  "y": 2006
  },
  "vegso allomas|2000": {
   "imdb": "tt0195714",
